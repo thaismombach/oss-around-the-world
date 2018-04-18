@@ -1,0 +1,1691 @@
+id,name,location,num_watchers,language,newLanguage
+14477484,freecodecamp,"San Francisco, California, USA",216866,JavaScript,javascript
+6445576,You-Dont-Know-JS,"Austin, TX",73905,JavaScript,javascript
+4708601,bootstrap,San Francisco,72686,CSS,javascript
+3231,oh-my-zsh,"Portland, Oregon",70266,Shell,shell
+1155356,javascript,San Francisco,67073,JavaScript,javascript
+6313,jquery,"Boston, MA",56190,JavaScript,javascript
+1088,linux,"Portland, OR",53556,C,c
+431,animate.css,"San Francisco, CA",51332,CSS,javascript
+28947324,vscode,"Redmond, WA",45723,TypeScript,javascript
+29261651,swift,"Cupertino, CA",45218,C++,c++
+3912,Font-Awesome,"Cambridge, MA",42664,HTML,javascript
+2691,d3,"San Francisco, CA",38326,JavaScript,javascript
+6611508,Semantic-UI,New York,33993,JavaScript,javascript
+392,brackets,"San Jose, CA",33286,JavaScript,javascript
+10941284,TypeScript,"Redmond, WA",32264,TypeScript,powershell
+11750891,material-ui,"Frisco, TX",30874,JavaScript,javascript
+11471397,axios,"Provo, UT",27698,JavaScript,javascript
+6876142,caffe,UC Berkeley,23594,C++,c++
+18059067,keras,Mountain View,23304,Python,python
+26985008,N1,"San Francisco, California",23244,CoffeeScript,javascript
+6026,gitlabhq,Earth,21557,Ruby,ruby
+26172924,clipboard.js,California,21314,JavaScript,javascript
+7098727,AdminLTE,United States,21058,HTML,javascript
+4391700,glide,"Mountain View, CA",20369,Java,java
+3601879,video.js,"San Francisco, CA",20172,JavaScript,javascript
+96553,sails,"Austin, TX",19584,JavaScript,javascript
+57171164,Interviews,"New York, New York",19455,Java,java
+12607152,fetch,"San Francisco, CA",17954,JavaScript,javascript
+14328,jquery-pjax,San Francisco,17168,JavaScript,javascript
+4369063,hugo,NYC,17039,Go,go
+29662323,serverless,"San Francisco, CA",16863,JavaScript,javascript
+9663874,coffeescript,NYC,16101,CoffeeScript,javascript
+1348749,rethinkdb,"Mountain View, CA",15897,C++,c++
+15589097,open-source-ios-apps,California,15606,Objective-C,objective-c
+6815,vagrant,"San Francisco, CA",15146,Ruby,ruby
+32136,the_silver_searcher,"Oakland, CA",15053,C,c
+7608,reddit,"San Francisco, CA",15023,Python,python
+9039695,nightmare,"San Francisco, CA",14618,JavaScript,javascript
+31340100,CNTK,"Redmond, WA",14509,C++,c++
+114,zepto,"Philadelphia, PA",14452,HTML,javascript
+31516897,parse-server,"Menlo Park, CA",13578,JavaScript,javascript
+21676222,tesseract.js,"Cambridge, MA",13294,JavaScript,javascript
+10610,statsd,"Brooklyn, NY",13164,JavaScript,javascript
+4376706,underscore,NYC,13040,JavaScript,javascript
+11227723,source-code-pro,"San Jose, CA",12945,Python,python
+21244550,engineering-blogs,San Francisco,12934,Ruby,ruby
+9122949,velocity,San Francisco,12757,JavaScript,javascript
+1381,spf13-vim,NYC,12659,VimL,shell
+22047463,interactive-coding-challenges,"Washington, D.C.",12623,Python,python
+16411922,kong,San Francisco,12495,Lua,lua
+15592045,standard,"Mountain View, CA",12443,JavaScript,javascript
+7212135,npm,earth,12303,JavaScript,javascript
+28204,YouCompleteMe,"Mountain View, CA",12290,Python,python
+3516,jquery-mobile,"Boston, MA",12108,JavaScript,javascript
+4376708,backbone,NYC,11965,JavaScript,javascript
+20431860,data-science-ipython-notebooks,"Washington, D.C.",11946,Python,python
+29514774,enzyme,San Francisco,11912,JavaScript,javascript
+22047350,react-motion,"Palo Alto, California",11834,JavaScript,javascript
+2547593,SecLists,"San Francisco, California",11832,Groff,php
+4922202,CodeHub,"Boston, MA",11810,C#,c#
+14722879,mojs,"Chicago, IL",11757,JavaScript,javascript
+853,metasploit-framework,"Boston, MA",11561,Ruby,ruby
+11003743,streisand,"Salt Lake City, Utah",11536,Python,python
+10001171,feather,"Portland, OR",11358,Shell,shell
+11065419,terraform,"San Francisco, CA",11314,Go,go
+9636546,octotree,Irvine,11311,JavaScript,javascript
+5800439,webtorrent,"Mountain View, CA",11306,JavaScript,javascript
+9238699,consul,"San Francisco, CA",11292,Go,go
+90073,Faker.js,"New York City, New York",11291,JavaScript,javascript
+16174927,react-canvas,"Palo Alto, CA",11277,JavaScript,javascript
+29635015,jstips,New York,11259,CSS,javascript
+4846,handlebars.js,San Francisco,11159,JavaScript,javascript
+3075805,huginn,"San Francisco, CA",11156,Ruby,ruby
+8016,android-async-http,"San Francisco, CA",11044,Java,java
+11033744,Chameleon,"San Francisco, CA",10882,Objective-C,objective-c
+496,hubot,"San Francisco, CA",10803,CoffeeScript,shell
+6151,MagicalRecord,"Denver, Colorado",10797,Objective-C,objective-c
+7834592,drone,"San Francisco, CA",10763,Go,go
+13459418,postgrest,San Francisco,10729,Haskell,haskell
+31211261,es6-cheatsheet,New York City,10648,JavaScript,javascript
+519,RestKit,NYC,10628,Objective-C,objective-c
+22105376,react-redux-starter-kit,"Nashville, TN",10609,JavaScript,javascript
+15870,jenkins,"Santa Clara, CA",10559,Java,java
+5209,octopress,"Birmingham, AL",10521,Ruby,ruby
+60377505,deep-photo-styletransfer,NY,10517,Matlab,matlab
+1055,passport,"Berkeley, CA",10407,JavaScript,javascript
+10874647,webpack-howto,"San Francisco, CA",10321,JavaScript,javascript
+19860558,minio,"Palo Alto, CA",10288,Go,go
+3644,jquery-ui,"Boston, MA",10103,JavaScript,javascript
+75465,store.js,"New York, NY",10068,JavaScript,javascript
+30464,pandoc,"Berkeley, CA",9989,Haskell,haskell
+12974885,dashboards,"San Francisco, CA",9822,JavaScript,javascript
+5846748,slate,San Francisco,9777,JavaScript,javascript
+112249,WebViewJavascriptBridge,"New York, NY",9584,Objective-C,objective-c
+9570828,JSQMessagesViewController,"San Francisco, CA",9554,Objective-C,objective-c
+27406305,openface,"Pittsburgh, PA",9531,Lua,lua
+4003655,dokku,"Austin, TX",9483,Shell,shell
+7123271,card,"Oakland, CA",9243,JavaScript,javascript
+10011244,FlappySwift,"San Francisco, CA",9234,Swift,swift
+1142,salt,"Salt Lake City, Utah",9211,Python,python
+27217380,recompose,"Redwood City, CA",9203,JavaScript,javascript
+28285259,react-virtualized,"San Jose, CA",9150,JavaScript,javascript
+15962985,essential-javascript-links,"San Francisco, California",9132,ApacheConf,javascript
+4399108,hub,"San Francisco, CA",9095,Go,go
+3430,mousetrap,"New York, NY",9089,JavaScript,javascript
+3656,bootstrap-datepicker,"Indianapolis, IN",9085,JavaScript,javascript
+34388,vimium,"Palo Alto, CA",9029,CoffeeScript,javascript
+22015744,graphql-js,"Menlo Park, CA",9021,JavaScript,javascript
+10999783,FLEX,"Palo Alto, CA",8979,Objective-C,objective-c
+5271444,solved-by-flexbox,"San Francisco, CA",8826,CSS,javascript
+13574414,animated-tab-bar,"San Francisco, CA",8812,Swift,swift
+27586452,trix,"Chicago, IL",8799,CoffeeScript,ruby
+8992078,PromiseKit,"Savannah, GA",8771,Swift,swift
+1961397,lets-chat,Toronto,8752,JavaScript,javascript
+7590868,virtual-dom,San Francisco,8751,JavaScript,javascript
+37617757,sanic,Los Angeles,8730,Python,python
+6193207,js-xlsx,Earth,8721,JavaScript,javascript
+2717829,typeahead.js,"San Francisco, CA",8674,JavaScript,javascript
+19388130,vault,"San Francisco, CA",8655,JavaScript,javascript
+30409737,react-slingshot,Kansas City,8611,JavaScript,javascript
+2007,janus,San Francisco,8492,VimL,ruby
+19903,spectacle,"New York, NY",8414,Objective-C,objective-c
+27409329,photon,"Castro Valley, CA",8401,CSS,javascript
+2719,sidekiq,"Portland, OR",8348,Ruby,ruby
+3070,bootswatch,Philadelphia,8343,HTML,javascript
+31322879,Material,Toronto,8272,Swift,swift
+16523249,loaders.css,San Francisco,8260,CSS,javascript
+23600889,python-machine-learning-book,"East Lansing, Michigan",8242,Jupyter Notebook,python
+24143180,HomeMirror,Brooklyn,8198,Java,java
+32539851,cash,Los Angeles,8076,JavaScript,javascript
+13694299,homebridge,"Portland, OR",8050,JavaScript,javascript
+20235,SlidingMenu,"New York, NY",8009,Java,java
+29812475,botkit,"Austin, TX",7999,JavaScript,javascript
+26260360,Eureka,"San Francisco, CA",7820,Swift,swift
+12811549,fine-uploader,"Madison, WI",7806,JavaScript,javascript
+4472440,KaTeX,"Mountain View, CA",7780,JavaScript,javascript
+13335031,twemoji,"San Francisco, CA",7773,JavaScript,javascript
+12814859,swagger-ui,,7712,JavaScript,javascript
+2389915,howler.js,"Oklahoma City, OK",7688,JavaScript,javascript
+411,whenever,"Ann Arbor, MI",7670,Ruby,ruby
+24769903,react-native-web,"San Francisco, CA",7629,JavaScript,javascript
+12712713,bytecode-viewer,"Las Vegas, Nevada",7619,Java,java
+24136525,GitUp,"San Francisco, USA",7598,Objective-C,objective-c
+29670,fabric.js,New York,7464,JavaScript,javascript
+9644038,nginx-proxy,Colorado,7458,Shell,shell
+862,SignalR,"Redmond, WA",7450,C#,c#
+22341041,push.js,Massachusetts,7397,JavaScript,javascript
+21274,rbenv,Chicago,7384,Shell,shell
+17954742,magic-wormhole,"San Francisco, CA",7377,Python,python
+28182544,angular2-webpack-starter,"San Francisco, CA",7367,TypeScript,javascript
+31152806,browser-laptop,San Francisco,7367,JavaScript,javascript
+30125644,folding-cell,"San Francisco, CA",7349,Swift,swift
+29172,brain,"San Francisco, USA",7338,JavaScript,javascript
+12885,rails_admin,San Francisco,7264,Ruby,ruby
+30893902,ChakraCore,"Redmond, WA",7260,JavaScript,javascript
+7035874,bootstrap-sass,San Francisco,7235,Ruby,ruby
+22056630,nerd-fonts,"Charlotte, NC, USA",7176,Python,python
+7057311,flexboxgrid,Bay Area,7166,HTML,javascript
+9178939,trianglify,"Portland, OR",7112,JavaScript,javascript
+8497,nvd3,"New York, NY",7052,JavaScript,javascript
+8616854,mithril.js,Toronto,7051,HTML,javascript
+8193585,ratchet,San Francisco,7017,CSS,javascript
+3321949,the-way-to-go_ZH_CN,"Boston, MA",6985,Go,go
+7675077,youmightnotneedjquery,"Cambridge, MA",6972,HTML,javascript
+718118,zxcvbn,San Francisco,6899,CoffeeScript,javascript
+3346024,mackup,"New York, NY",6897,Python,python
+4914951,johnny-five,"Brooklyn, NY",6878,JavaScript,javascript
+24138560,Eve,"San Francisco, CA",6803,TypeScript,rust
+11601,z,philadelphia,6714,Shell,shell
+5696,SlickGrid,"Seattle, WA",6618,JavaScript,javascript
+11511,faker,"Seattle, WA",6570,Ruby,ruby
+28009,FileSaver.js,"San Francisco, CA",6564,JavaScript,javascript
+11727010,robotjs,"Austin, TX.",6554,C,c
+6946390,codecombat,San Francisco,6523,CoffeeScript,javascript
+15513,keymaster,"Philadelphia, PA",6510,JavaScript,javascript
+5372672,cobra,NYC,6510,Go,go
+1372,finagle,"San Francisco, CA",6476,Scala,scala
+21420256,react-helmet,"Los Angeles, CA",6469,JavaScript,javascript
+9908329,FLAnimatedImage,"Palo Alto, CA",6439,Objective-C,objective-c
+7731401,WOW,San Francisco,6374,JavaScript,javascript
+29262738,swift-package-manager,"Cupertino, CA",6366,Swift,swift
+2628702,websocketd,Chicago,6358,Go,go
+13631210,reaction,"Los Angeles, CA",6355,HTML,javascript
+3936540,AndroidSlidingUpPanel,San Francisco,6330,Java,java
+7033,rickshaw,"New York, NY",6304,JavaScript,javascript
+24888,iTerm2,"Sunnyvale, CA",6292,Objective-C,objective-c
+934,jedis,"New York, NY, USA",6290,Java,java
+4655050,neural-networks-and-deep-learning,"New York, New York",6283,Python,python
+16477707,radium,"Seattle, WA",6261,JavaScript,javascript
+10325993,Cartography,"San Francisco, CA",6242,Swift,swift
+22053028,WinObjC,"Redmond, WA",6177,Objective-C++,c
+20282,redis,"Redmond, WA USA",6165,C,c
+30991329,TrumpScript,"Houston, TX",6157,Python,python
+310,grape,"Washington, DC",6155,Ruby,ruby
+921189,GreenSock-JS,Chicago,6153,JavaScript,javascript
+36129,twemproxy,"San Francisco, CA",6130,C,c
+4276991,packer,"San Francisco, CA",6109,Go,go
+10412,omniauth,"Washington, DC",6106,Ruby,ruby
+11473240,Onboard,New Hampshire,6105,Objective-C,objective-c
+14952,node-postgres,"Austin, TX",6077,JavaScript,javascript
+19676846,mostly-adequate-guide,"San Francisco, CA",6060,JavaScript,javascript
+2249947,knex,Brooklyn,6046,JavaScript,javascript
+1912872,aws-cli,"Seattle, WA",6020,Python,python
+16801,blueprint-css,"Boston, MA",6014,CSS,ruby
+16501924,awesomplete,"Boston, MA",5984,JavaScript,javascript
+30508301,influxdb,"San Francisco, CA",5972,Go,go
+619071,tracking.js,California,5951,JavaScript,javascript
+3770252,Inquirer.js,San Francisco,5910,JavaScript,javascript
+3169054,art-of-node,Oregon,5893,JavaScript,javascript
+19093,fuelux,"San Francisco, CA",5891,JavaScript,javascript
+581,mono,"Boston, MA",5889,C#,c#
+15756,dotfiles,Chicago,5857,Ruby,ruby
+34,android,"San Francisco, CA",5810,JavaScript,javascript
+3845557,typed.js,Texas,5808,JavaScript,javascript
+14536152,react-grid-layout,"Milwaukee, WI",5789,JavaScript,javascript
+17861278,Windows-universal-samples,"Redmond, WA",5783,JavaScript,javascript
+21941613,spectacle,"Seattle, WA",5777,JavaScript,javascript
+13093035,Flashlight,New York,5767,Python,python
+891091,Apktool,"Tampa, Florida",5751,Java,java
+9638017,dapper-dot-net,"New York, NY",5741,C#,c#
+28214103,gitsome,"Washington, D.C.",5728,Python,python
+22070816,victory,"Seattle, WA",5694,JavaScript,javascript
+12302,puma,"Los Angeles, CA",5693,Ruby,ruby
+18774590,layzr.js,"New York, NY",5639,JavaScript,javascript
+3475441,nupic,"Redwood City, Ca",5638,Python,python
+847,puppet,"Portland, OR",5595,Ruby,ruby
+24397,linguist,"San Francisco, CA",5558,Ruby,ruby
+250,AutoMapper,"Austin, TX",5506,C#,c#
+15585122,slackin,SF,5498,JavaScript,javascript
+12579794,ChatterBot,United States,5473,Python,python
+45313,webfontloader,"San Francisco, CA",5456,JavaScript,javascript
+2302971,phpdotenv,"Oklahoma City, OK",5454,PHP,php
+6841502,tether,"Cambridge, MA",5446,JavaScript,javascript
+5604899,SWTableViewCell,"Ann Arbor, MI",5370,Objective-C,objective-c
+7001,Reachability,San Francisco,5370,Objective-C,objective-c
+6947,jsoup,"Seattle, WA",5361,Java,java
+12296277,nvm-windows,"Austin, TX",5355,Go,go
+4950150,gradle-retrolambda,Virginia,5331,Groovy,groovy
+767301,speedtest-cli,"San Antonio, TX",5306,Python,python
+16820,oocss,San Francisco,5305,JavaScript,javascript
+19074991,ramjet,NYC,5235,HTML,javascript
+7641,nimbus,"New York, NY",5210,Objective-C,objective-c
+13117072,winamp2-js,San Francisco,5201,JavaScript,javascript
+30616496,setup-ipsec-vpn,United States,5197,Shell,shell
+27392494,awesome-aws,"Washington, D.C.",5179,Python,python
+10224776,loadcss,"Boston, MA",5177,JavaScript,javascript
+11808128,dotenv,"Los Angeles, CA",5141,JavaScript,javascript
+53418,FlameGraph,"California, USA",5109,HTML,perl
+24295456,graphiql,"Menlo Park, CA",5094,JavaScript,javascript
+22095642,hug,Seattle,5084,Python,python
+631244,Fuse,Toronto,5075,JavaScript,javascript
+19,NewsBlur,San Francisco,5067,Objective-C,objective-c
+11632543,kitematic,"Menlo Park, California",5056,JavaScript,javascript
+3631279,MMDrawerController,"Austin, TX",5031,Objective-C,objective-c
+2880,appirater,Los Angeles,5027,Objective-C,objective-c
+22042395,mycli,United States,5023,Python,python
+6252,FitText.js,"Austin, TX",5018,HTML,javascript
+16199844,fingerprintjs2,Chicago,5012,JavaScript,javascript
+17527603,http-server,"New York, NY",5005,JavaScript,javascript
+8776028,DateTools,"Tuscaloosa, AL",5004,Objective-C,objective-c
+22554354,redux-persist,Santa Monica,4977,JavaScript,javascript
+6241,BlocksKit,"Atlanta, GA, USA",4971,Objective-C,objective-c
+36798817,electron-vue,"Houston, Texas",4968,JavaScript,javascript
+5842750,linux-dash,"Austin, Texas",4964,JavaScript,javascript
+12543586,pgweb,"Chicago, IL",4954,Go,go
+12305915,SQLite.swift,Brooklyn,4953,Swift,swift
+4314480,mac-setup,Mountain View,4951,JavaScript,javascript
+14301706,XLPagerTabStrip,"San Francisco, CA",4943,Swift,objective-c
+14699,deployd,"Mountain View, CA",4942,JavaScript,javascript
+9104065,XLForm,"San Francisco, CA",4928,Objective-C,objective-c
+16729,geocoder,"Brooklyn, NY",4911,Ruby,ruby
+10849909,source-han-sans,"San Jose, CA",4882,Objective-J,scala
+26125578,otto,"San Francisco, CA",4879,Go,go
+23811108,react-color,San Francisco,4854,JavaScript,javascript
+18975714,pgcli,United States,4848,Python,python
+19631,color-thief,"San Francisco, CA",4816,JavaScript,javascript
+158949,slate,"Sunnyvale, CA",4813,Objective-C,objective-c
+18441086,PermissionScope,San Francisco,4787,Swift,swift
+1030091,Numeral-js,"Mountain View, CA",4747,JavaScript,javascript
+3144,node_redis,"Walnut Creek, CA",4741,JavaScript,javascript
+18976476,nodal,"San Francisco, CA",4733,JavaScript,javascript
+9357044,lua-nginx-module,San Francisco,4705,C,perl
+9734822,AndroidAssetStudio,"New York, NY",4700,JavaScript,javascript
+588,fullcalendar,"San Francisco, CA",4686,JavaScript,javascript
+7178,foreman,"Atlanta, GA",4678,Ruby,ruby
+11124,acts-as-taggable-on,"Oakland, CA",4657,Ruby,ruby
+10739796,derby,"San Francisco, CA",4646,JavaScript,javascript
+9282939,isotope,"Alexandria, VA",4640,JavaScript,javascript
+8972385,viper,NYC,4627,Go,go
+5534142,JazzHands,San Francisco,4623,Objective-C,objective-c
+7182,deck.js,"Portland, OR",4618,JavaScript,javascript
+28331606,Signal-Android,"San Francisco, CA",4605,C,c
+7306673,shepherd,"Cambridge, MA",4604,JavaScript,javascript
+14280165,waypoints,"Portland, OR",4599,JavaScript,javascript
+26145581,CSSgram,"Austin, TX",4596,CSS,javascript
+33565,authlogic,New York City,4592,Ruby,ruby
+6601287,json-editor,"San Mateo, CA",4587,JavaScript,javascript
+18886095,seaweedfs,Bay Area,4573,Go,go
+24299520,vorpal,Los Angeles,4558,JavaScript,javascript
+9698553,RandomColor,San Francisco,4552,HTML,javascript
+17863716,menubar,Oregon,4542,JavaScript,javascript
+1996,tapkulibrary,New York,4541,Objective-C,objective-c
+5245,twitter,San Francisco,4529,Ruby,ruby
+10972,httparty,Indiana,4516,Ruby,ruby
+14093677,flickity,"Alexandria, VA",4509,JavaScript,javascript
+13537680,scientist,"San Francisco, CA",4495,Ruby,ruby
+10926776,interview,Seattle ,4460,Java,java
+3814375,ion,"Seattle, WA",4460,Java,java
+12831,peewee,"Lawrence, KS",4441,Python,python
+28281665,react-native-nw-react-calculator,"New York, NY",4440,JavaScript,javascript
+15480058,docker-alpine,"Austin, TX",4435,Shell,shell
+17899,chroma.js,Brooklyn,4427,CoffeeScript,javascript
+22046921,DisableWinTracking,United States,4426,Python,python
+1530881,howdoi,"Oakland, CA",4415,Python,python
+26138121,Neon,New Hampshire,4414,Swift,swift
+5595406,confd,"Portland, OR",4410,Go,go
+4304960,CoreNLP,"Stanford, CA",4375,Java,java
+26424942,netlify-cms,San Francisco,4373,JavaScript,javascript
+20881107,aerosolve,San Francisco,4367,Java,java
+4605271,NodeOS,San Francisco,4366,Shell,shell
+17694,ceph,"California, USA",4353,C++,c++
+516195,AndroidAsync,"Seattle, WA",4344,Java,java
+12849746,seamless-immutable,"San Francisco, CA",4336,JavaScript,javascript
+18162315,go-ipfs,Earth,4313,Go,go
+24917798,web-design-standards,United States,4303,CSS,javascript
+10140572,SCLAlertView-Swift,"Mountain View, CA",4296,Swift,swift
+5049971,sovereign,"Portland, Oregon, USA",4295,PHP,php
+3759006,Amethyst,"Somerville, MA",4275,Objective-C,objective-c
+5522468,JVFloatLabeledTextField,"Brooklyn, NY",4252,Objective-C,objective-c
+7776438,dlib,"Boston, MA",4246,C++,c++
+6993975,intercooler-js,"Sacramento, CA",4223,HTML,javascript
+11377722,walkway,San Francisco,4222,JavaScript,javascript
+19593,lolcommits,"Brooklyn, NY",4221,Ruby,ruby
+27727160,react-native-code-push,"Redmond, WA",4212,C,c
+26394538,sound-redux,"San Francisco, CA",4212,JavaScript,javascript
+391903,seaborn,"New York, NY",4202,Python,python
+4395431,RoundedImageView,"Oakland, CA",4178,Java,java
+61075,uuid,"Nashville, TN",4174,PHP,php
+18530655,git-lfs,"San Francisco, CA",4170,Go,go
+29002667,Swift-AI,"Provo, UT",4163,Swift,swift
+16554832,elastalert,San Francisco,4156,Python,python
+3637549,FlatUIKit,"New York, NY",4152,Objective-C,objective-c
+6026040,android-proguard-snippets,NYC,4151,IDL,idl
+12813154,swagger-core,,4136,Java,java
+29412779,snowflake,"Columbia, MO",4134,JavaScript,javascript
+3545,dotfiles,San Francisco,4115,Shell,shell
+120682,bgfx,"Seattle, WA",4110,C++,c++
+2275491,waterline,"Austin, TX",4107,JavaScript,javascript
+10148107,npm-check,"Arlington, VA",4080,JavaScript,javascript
+10729742,blackbox,"New York, NY",4078,Shell,shell
+19411,dillinger,"San Francisco, CA",4062,JavaScript,javascript
+20596639,GitTorrent,"New York City, USA",4061,JavaScript,javascript
+41673,node-glob,Oakland CA,4060,JavaScript,javascript
+7703292,flasky,"Portland, OR",4057,Python,python
+13360818,drive,"San Francisco, CA",4053,Go,go
+27457558,aphrodite,"Mountain View, CA",4039,JavaScript,javascript
+6029260,gobot,"Los Angeles, CA",4020,Go,go
+3928,holder,New York City,4009,JavaScript,javascript
+11740562,pup,San Francisco,4002,HTML,go
+168,markup,"San Francisco, CA",3991,Ruby,ruby
+19888030,tota11y,"Mountain View, CA",3988,JavaScript,javascript
+9682053,tablesaw,"Boston, MA",3974,JavaScript,javascript
+3368849,vim-multiple-cursors,Seattle,3971,VimL,ruby
+14976,js-assessment,"Austin, TX",3970,JavaScript,javascript
+8170885,Alcatraz,"San Francisco, CA",3970,Objective-C,objective-c
+43885,analytics.js,"San Francisco, CA",3968,JavaScript,javascript
+18841722,rodeo,"New York, NY",3963,JavaScript,javascript
+10765724,perf-tools,"California, USA",3962,Shell,shell
+17188864,blackbird,New York,3960,C++,c++
+7219129,boom,"San Francisco, CA",3955,Go,go
+12952,mediaelement,"Dallas, TX",3952,JavaScript,javascript
+8544496,android-crop,NYC,3950,Java,java
+89278,lwan,USA,3939,C,c
+1500988,arrow,"San Francisco, CA",3937,Python,python
+5214643,explainshell,San Francisco,3930,Python,python
+525019,bats,Chicago,3929,Shell,shell
+1434458,ActiveAndroid,"Ann Arbor, MI",3919,Java,java
+12813026,swagger-codegen,,3911,Java,java
+15073363,fastlane,San Francisco,3902,Ruby,ruby
+7982,prototype,Chicago,3857,JavaScript,javascript
+29143702,acme-tiny,"Oakland, CA",3848,Python,python
+7045394,spacegray,Not San Francisco ,3845,JavaScript,javascript
+9047,everyauth,"San Francisco, CA",3837,JavaScript,javascript
+1999035,learnGitBranching,"Berkeley, CA",3835,JavaScript,javascript
+13130230,CBStoreHouseRefreshControl,Chicago,3833,Objective-C,objective-c
+2442020,sqlx,New York City,3832,Go,go
+11578477,Surge,"Portland, OR",3831,Swift,swift
+16766337,Atlas-iOS,"San Francisco, CA",3826,Objective-C,objective-c
+3500,MonoGame,"Boston, MA",3822,C#,c#
+12908987,jquery-mousewheel,"Boston, MA",3803,JavaScript,javascript
+11605642,remarkable,"Cincinnati, OH",3792,JavaScript,javascript
+30513547,telegraf,"San Francisco, CA",3790,Go,go
+5980,bones,"Austin, TX",3784,CSS,php
+27657021,Win32-OpenSSH,Redmond,3782,C,c
+15948167,x-ray,San Francisco,3778,JavaScript,javascript
+14342,doom3.gpl,"Dallas, TX, USA",3746,C++,c++
+10947458,pghero,"San Francisco, CA",3744,Ruby,ruby
+46985865,keras-js,"New York, NY",3741,Jupyter Notebook,javascript
+27665838,jquery-tips-everyone-should-know,"Portland, Maine",3732,JavaScript,javascript
+171390,antlr4,San Francisco,3727,Java,java
+912005,redigo,Seattle,3725,Go,go
+13754421,caffeine,"Mountain View, Ca",3724,Java,java
+22044038,redux-actions,"Redwood City, CA",3720,JavaScript,javascript
+29947783,aws-shell,"Seattle, WA",3718,Python,python
+15627284,Hound,"Brooklyn, NY",3709,JavaScript,javascript
+30738,beeswithmachineguns,"Chicago, IL",3703,Python,python
+13534407,smile,"New York, NY",3694,Java,java
+18825,rabl,"San Francisco, California",3685,Ruby,ruby
+20886902,bottomsheet,"Palo Alto, CA",3682,Java,java
+18786948,exercises,New York,3676,JavaScript,javascript
+14368802,alt,"San Jose, CA",3659,JavaScript,javascript
+16982868,nes,"Cary, NC",3654,Go,go
+18351,t,San Francisco,3630,Ruby,ruby
+2749024,assemble,Earth,3629,JavaScript,javascript
+5328944,npm-check-updates,New York,3623,JavaScript,javascript
+10424121,godropbox,San Francisco,3621,Go,go
+8405131,metalsmith,"San Francisco, CA",3613,JavaScript,javascript
+11254,QuickDialog,"San Francisco, CA",3613,Objective-C,objective-c
+6427052,aglio,"Seattle, WA",3610,CoffeeScript,javascript
+1997515,javascript-algorithms,"California, USA",3610,JavaScript,javascript
+3716978,Buttons,San Francisco,3609,JavaScript,javascript
+17645532,msbuild,"Redmond, WA",3609,C#,c#
+24739937,saws,"Washington, D.C.",3608,Python,python
+12890266,CommonMark,"Berkeley, CA",3607,Python,python
+6060995,offline,"Cambridge, MA",3605,CSS,javascript
+29043871,labella.js,"San Francisco, CA",3600,JavaScript,javascript
+5552686,Batsh,New York,3595,OCaml,ocaml
+19589092,neon,"San Diego, CA",3593,Python,python
+10882881,starscream,"Austin, TX",3587,Swift,swift
+16310355,Sunshine-Version-2,"Mountain View, CA",3585,Java,java
+11850309,Stream-Framework,Boulder,3584,Python,python
+16272414,Data-Analysis-and-Machine-Learning-Projects,"Philadelphia, PA",3583,Python,python
+3165942,go-fundamental-programming,"Boston, MA",3581,Go,go
+22100926,kinto,The Cloud,3575,Python,python
+8621553,goji,San Francisco,3574,Go,go
+281254,node-fs-extra,"Lincoln, Nebraska",3556,JavaScript,javascript
+1356110,word_cloud,NYC,3555,Python,python
+16210742,rebass,New York City,3550,JavaScript,javascript
+627,computer-science-in-javascript,"Mountain View, CA",3546,JavaScript,javascript
+8837904,sysdig,San Francisco,3518,C++,c++
+10275823,TLYShyNavBar,"San Francisco, CA",3518,Objective-C,objective-c
+29073150,neural-style,"Cambridge, MA",3515,Python,python
+35140522,GPUImage2,"Madison, WI USA",3509,Swift,swift
+209296,autojump,"San Francisco, CA",3502,Python,python
+31366331,openresty,San Francisco,3475,C,c
+28768110,tpot,"Philadelphia, PA",3461,Python,python
+19565452,CLRS,California,3452,C++,c++
+13645883,MMWormhole,"Austin, TX",3441,Objective-C,objective-c
+3112979,bookshelf,Brooklyn,3436,JavaScript,javascript
+30324,SoundManager2,"San Francisco, CA",3428,JavaScript,javascript
+5381072,vex,"Cambridge, MA",3421,CSS,javascript
+131110,8cc,"Mountain View, CA, USA",3416,C,c
+17277,javascript-state-machine,"Portland, OR",3409,JavaScript,javascript
+2604933,JLRoutes,"San Francisco, CA",3397,Objective-C,objective-c
+4300008,TextBlob,"Charlottesville, VA",3393,Python,python
+22042545,PINRemoteImage,"San Francisco, California",3389,Objective-C,objective-c
+20655177,vantage,Los Angeles,3387,JavaScript,javascript
+22042237,actor-platform,New York,3384,Java,java
+11750990,emojione,"Las Vegas, Nevada",3375,HTML,php
+19189656,azure-quickstart-templates,"Redmond, WA & the cloud",3369,Shell,shell
+6988998,AndroidStaggeredGrid,"Brooklyn, NY",3365,Java,java
+16862,FitVids.js,"Austin, TX",3361,HTML,javascript
+5216326,marathon,"San Francisco, CA",3358,Scala,scala
+26166110,nomad,"San Francisco, CA",3350,Go,go
+1969213,GCDWebServer,San Francisco,3347,Objective-C,objective-c
+27723746,code-push,"Redmond, WA",3323,TypeScript,javascript
+6492727,dejavu,"San Francisco, CA",3309,Python,python
+2841644,redshift,"Providence, RI",3309,C,c
+3287867,vega,San Francisco,3307,,javascript
+12623,tinycon,San Francisco,3298,JavaScript,javascript
+2675,syte,"Kansas City, MO",3296,JavaScript,javascript
+5478,lightbox2,"San Francisco, CA",3295,JavaScript,javascript
+8151708,jspaint,"""The Cloud""",3274,JavaScript,javascript
+28318724,meatier,"San Diego, CA",3273,JavaScript,javascript
+5483,node-restify,"Berkeley, CA",3261,JavaScript,javascript
+30222,fuzzywuzzy,"New York, New York",3260,Python,python
+12222055,sticky-headers-recyclerview,NYC,3256,Java,java
+24177305,hackpad,San Francisco,3253,Java,java
+5161,EpicEditor,"Portland, OR",3252,JavaScript,javascript
+41007156,weight-loss,California,3250,R,r
+11084447,Signal-iOS,"San Francisco, CA",3248,C,c
+3489262,gitfiti,New York,3230,Python,python
+22019,riak,"Cambridge, MA",3230,Shell,shell
+1710214,aws-sdk-js,"Seattle, WA",3216,JavaScript,javascript
+19808894,mui,"New York, NY",3213,JavaScript,javascript
+30020380,ntfy,"Washington, DC",3212,Python,python
+3828093,minimal-mistakes,"Buffalo, New York",3208,JavaScript,javascript
+21998353,flux-standard-action,"Redwood City, CA",3207,JavaScript,javascript
+21552932,simplemde-markdown-editor,"Houston, TX",3205,JavaScript,javascript
+113629,android-autofittextview,San Francisco,3204,Java,java
+17880,sizzle,"Boston, MA",3200,JavaScript,javascript
+2414,grunt,"Boston, MA",3195,JavaScript,javascript
+8938427,Swipe,"San Francisco, CA",3187,JavaScript,javascript
+2746,TiddlyWiki5,Oxford,3185,JavaScript,javascript
+16413483,LoganSquare,"Chicago, IL",3184,Java,java
+42677747,deep-learning-models,Mountain View,3180,,python
+4128054,ungit,New York,3180,JavaScript,javascript
+22245098,jupyter-themes,"Pittsburgh, PA",3176,CSS,python
+8964129,pyston,San Francisco,3164,Python,python
+1933719,social-engineer-toolkit,"Cleveland, Ohio",3161,Python,python
+25677,Jcrop,California,3160,CSS,javascript
+160451,jwt-go,"San Francisco, CA",3157,Go,go
+3408538,stringer,"Indianapolis, IN",3154,Ruby,ruby
+4484156,searchkick,"San Francisco, CA",3153,Ruby,ruby
+3031,Java-WebSocket,"San Francisco, CA",3152,HTML,java
+3094,qunit,"Boston, MA",3150,JavaScript,javascript
+267105,gvm,"San Francisco, CA",3141,Shell,shell
+2402,rainbow,"New York, NY",3136,JavaScript,javascript
+4466072,parceler,"Albuquerque, NM",3136,Java,java
+219601,Two.js,"San Francisco, CA",3134,JavaScript,javascript
+11854803,YapDatabase,"San Francisco, CA",3129,Objective-C,objective-c
+8580389,bullet3,United States,3129,C++,c++
+2608774,peerjs,"Berkeley, CA",3126,JavaScript,javascript
+22051593,govendor,PDX,3122,Go,go
+203353,PathFinding.js,"Mountain View, CA",3121,JavaScript,javascript
+7084826,M13ProgressSuite,"Cincinnati, OH",3117,Objective-C,objective-c
+8329,EGOTableViewPullRefresh,New York,3109,Objective-C,objective-c
+1357,susy,USA,3108,CSS,ruby
+359,state_machine,"Boston, MA",3104,Ruby,ruby
+8924851,pattern_classification,"East Lansing, Michigan",3100,Jupyter Notebook,python
+23575859,express-graphql,"Menlo Park, CA",3099,JavaScript,javascript
+19185130,JAWS,"Oakland, CA",3091,JavaScript,javascript
+7054385,practicalnode,"San Francisco, CA",3090,JavaScript,javascript
+4929,AndEngine,"San Francisco, CA",3088,Java,java
+20233,beanstalkd,San Francisco,3086,C,c
+9382760,write-good,"San Francisco, CA",3076,JavaScript,javascript
+19488061,awesome-appsec,"Orlando, FL",3075,PHP,php
+3468,hogan.js,"San Francisco, CA",3073,JavaScript,javascript
+24939229,diffy,"San Francisco, CA",3071,Scala,scala
+5932962,cylon,"Los Angeles, CA",3057,JavaScript,javascript
+65067,fasd,"Santa Barbara, CA",3055,Shell,shell
+21218,retinajs,"Boulder, CO",3046,CSS,javascript
+29751012,git-secrets,"Seattle, WA",3027,Shell,shell
+13461597,algorithms,"New York, NY",3021,Ruby,ruby
+1298,koala,Chicago,3005,Ruby,ruby
+27258,highcharts.com,USA,3004,JavaScript,javascript
+62686,shortid,"Arlington, VA",2996,JavaScript,javascript
+4721914,tslint,"Palo Alto, CA",2995,TypeScript,javascript
+2724419,go-json-rest,San Francisco,2992,Go,go
+10644579,android-priority-jobqueue,san francisco,2991,Java,java
+31248739,startbootstrap-sb-admin-2,"Orlando, FL",2991,HTML,javascript
+6252549,kryo,"Seattle, WA",2988,HTML,java
+3114264,edge,"Redmond, WA",2986,C++,c++
+3025924,untrusted,"Berkeley, CA",2981,JavaScript,javascript
+22084327,ttystudio,San Francisco,2977,JavaScript,javascript
+7813588,prerender,"Boulder, Co",2972,JavaScript,javascript
+40863,mosh,"Stanford, CA",2971,C++,c++
+4711,hubot-scripts,"San Francisco, CA",2970,CoffeeScript,javascript
+39186,ML_for_Hackers,"San Francisco, CA",2968,R,r
+2975,gist,San Francisco,2967,Ruby,ruby
+22044929,RazzleDazzle,San Francisco,2958,Swift,swift
+11750442,engine,"San Francisco, CA",2956,JavaScript,javascript
+13043,TTTAttributedLabel,"Portland, OR",2956,Objective-C,objective-c
+11616266,es6-promise,"San Jose, CA",2954,JavaScript,javascript
+28700201,react-refetch,"San Francisco, CA",2954,JavaScript,javascript
+5759,mercury,"Denver, CO",2951,JavaScript,javascript
+2826050,php-jwt,"San Francisco, CA",2949,PHP,php
+4492,prefixfree,"Boston, MA",2946,JavaScript,javascript
+32758,html-minifier,New York,2935,JavaScript,javascript
+5545429,home-assistant,"San Diego, California",2935,Python,python
+13597894,AlgoWiki,San Francisco,2934,HTML,javascript
+6328765,Craft,"Cary, NC",2928,C,c
+1182,scalding,"San Francisco, CA",2921,Scala,scala
+29262032,swift-corelibs-foundation,"Cupertino, CA",2918,C,c
+28812753,jump.js,"New York, NY",2915,JavaScript,javascript
+5464,sprockets,Chicago,2911,,ruby
+42669,node-uuid,"Bend, Oregon",2911,JavaScript,javascript
+12225510,RKNotificationHub,"Somerville, MA",2909,Objective-C,objective-c
+17788466,angular2-seed,"California, USA",2905,TypeScript,javascript
+4268837,dat,Oregon,2900,JavaScript,javascript
+28473,jrnl,San Francisco,2893,Python,python
+1775,AQGridView,"Cupertino, CA",2888,Objective-C,objective-c
+21915067,s2n,"Seattle, WA",2887,C,c
+5258434,koa-router,"San Francisco, CA",2885,JavaScript,javascript
+10027260,Dollar.swift,New York City,2885,Swift,swift
+9255155,mailcheck,San Francisco,2883,JavaScript,javascript
+7938391,aiohttp,San Francisco,2880,Python,python
+1443050,grip,"Pittsburgh, PA",2872,HTML,python
+11700432,docker-jumpstart,"Boston, MA",2870,CSS,python
+1405443,otto,San Francisco,2864,Go,go
+7920149,muzei,"New York, NY",2860,Java,java
+5828347,habitrpg,"San Francisco, CA",2860,JavaScript,javascript
+29096633,cnn-text-classification-tf,"Mountain View, CA",2852,Python,python
+10034973,swift-2048,Bay Area,2847,Swift,swift
+18531315,fb-mac-messenger,San Francisco,2844,Objective-C,objective-c
+8920924,mercury,San Francisco,2842,JavaScript,javascript
+17827,flockdb,"San Francisco, CA",2837,Scala,scala
+16475867,registrator,"Austin, TX",2826,Go,go
+6465980,jquery.adaptive-backgrounds.js,Los Angeles,2825,HTML,javascript
+2696671,gitignore.io,"San Francisco, CA",2818,JavaScript,javascript
+3608201,chartkick,"San Francisco, CA",2815,JavaScript,javascript
+1385797,gemoji,"San Francisco, CA",2802,Ruby,ruby
+5286687,goconvey,"Utah, United States",2799,JavaScript,javascript
+5646793,odometer,"Cambridge, MA",2797,CSS,javascript
+15821416,Laravel-5-Boilerplate,New York,2796,PHP,php
+13746905,httpbin,"San Francisco, CA",2792,Python,python
+12662302,BackstopJS,"Berkeley, CA",2787,JavaScript,javascript
+7172,dustjs,"Mountain View, CA, USA",2786,JavaScript,javascript
+6606,django-tastypie,"Lawrence, KS",2783,Python,python
+16074108,rtv,"San Diego, CA",2780,Python,python
+21485272,gnatsd,"San Francisco, CA",2778,Go,go
+15912772,godebug,"San Francisco, USA",2774,Go,go
+6821104,JBChartView,"San Francisco, CA",2764,Objective-C,objective-c
+16340463,wifi-password,SF,2760,Shell,shell
+3925251,MySQLTuner-perl,"San Antonio, TX",2760,Perl,perl
+29092192,floatingsearchview,NYC,2759,Java,java
+35166159,postgraphql,"Boca Raton, Florida",2753,JavaScript,javascript
+12781586,consul-template,"San Francisco, CA",2751,Go,go
+1270737,shiny,"Boston, MA",2744,R,r
+24569,GateOne,"Jacksonville, FL",2736,JavaScript,javascript
+3946,evercookie,"Los Angeles, California",2734,JavaScript,javascript
+19003934,cz-cli,"Minneapolis, MN",2721,JavaScript,javascript
+14991123,joe,Seattle,2720,Python,python
+20337473,h2o-3,"Mountain View, CA",2718,Java,java
+7175236,countUp.js,Denver,2710,JavaScript,javascript
+13465429,icdiff,Cambridge MA,2704,Python,python
+380,cheddar-ios,San Francisco,2696,Objective-C,objective-c
+16592,docco,NYC,2694,CSS,javascript
+2363619,KSImageNamed-Xcode,"Boston, MA",2683,Objective-C,objective-c
+11226972,mapbox-gl-js,Washington DC,2680,JavaScript,javascript
+68508,rack-attack,"Brooklyn, NY",2679,Ruby,ruby
+22101807,dumb-init,San Francisco,2678,Python,python
+8580619,docker-gen,Colorado,2677,Go,go
+9222871,SCRecorder,"New York, NY",2676,Objective-C,objective-c
+44428,TextSecure,"San Francisco, CA",2675,C,c
+31448972,circle-menu,"San Francisco, CA",2672,Swift,swift
+25837358,GSL,"Redmond, WA",2670,C++,c++
+20862,spark,San Francisco,2667,Shell,shell
+2185,titanium_mobile,"San Jose, CA",2664,JavaScript,javascript
+8574193,StackExchange.Redis,"New York, NY",2659,C#,c#
+8439349,bxslider-4,"Chicago, IL",2646,JavaScript,javascript
+31251802,js-bits,San Francisco,2646,JavaScript,javascript
+7034919,elasticsearch-dump,"San Francisco, CA",2642,JavaScript,javascript
+1397979,aws-sdk-ruby,"Seattle, WA",2631,Ruby,ruby
+3150475,balanced-dashboard,"San Francisco, CA",2629,JavaScript,javascript
+8924,jquery-tokeninput,"San Francisco, CA",2627,JavaScript,javascript
+1597489,nui,"San Francisco, CA",2617,Objective-C,objective-c
+6024929,serf,"San Francisco, CA",2611,Go,go
+9685420,compat-table,New York,2610,HTML,javascript
+29073574,flexboxfroggy,Philadelphia,2604,JavaScript,javascript
+14520,jquery-backstretch,Chicago,2603,JavaScript,javascript
+10140290,parallax.js,"Minneapolis, MN",2600,JavaScript,javascript
+23635,goliath,"Mountain View, CA",2599,Ruby,ruby
+11850935,JamsMusicPlayer,California,2594,Java,java
+23410996,dlite,"Kennewick, WA",2589,Go,go
+901629,oauth2-server-php,San Francisco,2589,PHP,php
+20886510,airflow,San Francisco,2588,JavaScript,javascript
+22206580,FirebaseUI-Android,"San Francisco, CA",2587,Java,java
+4232713,pipework,San Francisco,2587,Shell,shell
+29904082,react-native-push-notification,"Miami, Florida",2578,Java,java
+4867,tag-it,Toronto,2575,JavaScript,javascript
+3544340,elasticsearch-HQ,"Atlanta, GA",2575,JavaScript,javascript
+21929469,deeplinkdispatch,San Francisco,2570,Java,java
+10058395,docker-openvpn,"San Francisco, CA",2566,Shell,shell
+29698505,flexibility,United States,2565,HTML,javascript
+13078733,ZLSwipeableView,"Los Angeles, CA",2557,Objective-C,objective-c
+18589591,data-science-from-scratch,Seattle,2554,Python,python
+8000608,bootstrap-treeview,Remote,2550,JavaScript,javascript
+11876664,cpprestsdk,"Redmond, WA",2549,C++,c++
+8981,Lettering.js,"Austin, TX",2549,JavaScript,javascript
+12830,rvm,"Buffalo, NY",2544,Shell,shell
+12726,Toast,"New York, NY",2536,Objective-C,objective-c
+29136621,Polly,"New London, CT",2532,C#,c#
+10039226,mapbox-gl-native,Washington DC,2531,C++,c++
+10663,sskeychain,San Francisco,2527,Objective-C,objective-c
+29066920,dcgan_code,"San Francisco, CA",2521,Python,python
+12716391,transformicons,"Buffalo, New York",2516,JavaScript,javascript
+8292,FormatterKit,"Portland, OR",2513,Objective-C,objective-c
+4252,dygraphs,"New York, NY",2510,JavaScript,javascript
+31678889,aima-python,"Berkeley, CA",2507,Python,python
+23603609,mongotron,"Boston, MA",2505,JavaScript,javascript
+45196316,NakedTensor,"Dallas, TX",2503,,python
+13972,ResponsiveSlides.js,"Menlo Park, CA",2502,JavaScript,javascript
+15985174,graphql-ruby,"Charlottesville, VA",2501,Ruby,ruby
+5626,beets,"Ithaca, NY",2500,Python,python
+14989257,TSMessages,San Francisco,2500,Objective-C,objective-c
+19742661,ctf-tools,"Santa Barbara, CA, USA",2494,Shell,shell
+43221024,gjson,"Tempe, AZ",2490,Go,go
+11536606,mio,"Portland, OR",2484,Rust,rust
+28784137,requery,"San Francisco, CA",2474,Java,java
+29769888,XLActionController,"San Francisco, CA",2467,Swift,swift
+9556089,Sia,"Boston, MA",2467,Go,go
+14768127,AnomalyDetection,"San Francisco, CA",2466,R,r
+29991,mori,New York,2466,Clojure,clojure
+22099034,Parse-SDK-iOS-OSX,"Menlo Park, CA",2466,Objective-C,objective-c
+6119361,agenda,"Brooklyn, NY",2462,JavaScript,javascript
+29047417,material-camera,"Minneapolis, Minnesota",2456,Java,java
+8151952,corpora,"Portland, OR",2446,JavaScript,javascript
+13680016,paper-switch,"San Francisco, CA",2444,Swift,swift
+19296,Log.io,"Chicago, IL USA",2441,CoffeeScript,javascript
+8993606,amplitudejs,"Milwaukee, WI",2441,JavaScript,javascript
+9571007,dex-method-counts,"Cupertino, CA",2440,Java,java
+521061,Minecraft,"Cary, NC",2434,Python,python
+26173131,mobileplayer-ios,"San Francisco, CA",2432,Swift,swift
+26176323,VisualStudioUninstaller,"Redmond, WA",2429,C#,c#
+29169814,Signal-Desktop,"San Francisco, CA",2427,JavaScript,javascript
+10586209,react-datepicker,"San Francisco, CA",2426,JavaScript,javascript
+3623,dalli,"Portland, OR",2425,Ruby,ruby
+12812475,swagger-spec,,2417,JavaScript,javascript
+84211,ssh2,Ohio,2416,JavaScript,javascript
+21359607,empire,"San Francisco, CA",2411,Go,go
+4316597,bootstrap-slider,"Oshkosh, WI",2407,JavaScript,javascript
+16270689,logspout,"Austin, TX",2405,Go,go
+28800410,EZSwiftExtensions,San Francisco,2405,Swift,swift
+29107295,magspoof,"Los Angeles, California",2405,Eagle,c
+27419768,curio,Chicago,2400,Python,python
+10843920,juliusjs,"San Francisco, CA",2400,JavaScript,javascript
+8017495,plottable,"Palo Alto, CA",2399,TypeScript,javascript
+6490831,wren,"Seattle, WA",2393,C,c
+3143,colors.js,"New York City, New York",2391,JavaScript,javascript
+7222746,BEMSimpleLineGraph,"Seattle, WA",2387,Objective-C,objective-c
+20842462,aws-sdk-go,"Seattle, WA",2380,Go,go
+6471826,gox,"San Francisco, CA",2378,Go,go
+1041,zipkin,"San Francisco, CA",2378,Java,java
+17165,ruby-build,Chicago,2378,Shell,shell
+21530278,MBE,"Troy, NY",2373,C,c
+45935,watchdog,"Santa Clara, CA",2370,Python,python
+45658,hue,"California, USA",2370,Python,python
+11013677,react-draggable,"Provo, UT",2369,JavaScript,javascript
+30675,reptyr,San Francisco,2367,C,c
+3113,swig,"Bend, OR",2360,JavaScript,javascript
+64630,appscale,Santa Barbara CA,2360,Python,python
+3918,mrjob,San Francisco,2359,Python,python
+209466,Xenia,"Seattle, WA",2359,C++,c++
+10598772,css-colorguard,"Austin, TX",2358,JavaScript,javascript
+18044999,NYTPhotoViewer,"New York, NY",2351,Objective-C,objective-c
+9031,scroller,"San Francisco, CA",2349,JavaScript,javascript
+1591231,datamaps,"Austin, TX",2348,JavaScript,javascript
+24921644,algs4,"Princeton, New Jersey",2345,Java,java
+15430259,chef,"Seattle, WA",2342,Ruby,ruby
+15867234,Ionic-Material,"Salt Lake City, UT",2342,JavaScript,javascript
+30531,dotjs,San Francisco,2338,Ruby,ruby
+25528,reqwest,California,2338,JavaScript,javascript
+5385,php-resque,"San Francisco, CA",2338,PHP,php
+22087753,git-remote-dropbox,"Cambridge, MA",2336,Python,python
+7173830,ocrad.js,"Cambridge, MA",2335,C++,c++
+30861885,wmail,North Wales,2334,JavaScript,javascript
+16462,grit,San Francisco,2332,Ruby,ruby
+6914919,30-days-of-elixir,"Tulsa, OK",2329,Elixir,elixir
+9006047,DeepBeliefSDK,San Francisco,2328,JavaScript,javascript
+27344,flower,"San Francisco, CA",2321,Python,python
+148499,jsdiff,"Chicago, IL",2317,JavaScript,javascript
+13376322,Sketch-Toolbox,"New York, NY",2316,Objective-C,objective-c
+14643402,ejs,"San Francisco, California, USA",2310,JavaScript,javascript
+20858830,dexcount-gradle-plugin,San Francisco,2309,Groovy,groovy
+17074912,airpal,San Francisco,2306,Java,java
+4189282,daux.io,"Bismarck, ND",2306,PHP,php
+74132557,src2png,"Denver, CO, USA",2306,,javascript
+9242861,pourover,"New York, NY",2304,JavaScript,javascript
+5841321,node-sqlite3,Washington DC,2303,PLpgSQL,javascript
+21250443,ZipArchive,"San Francisco, California",2303,C,c
+7331386,gulp-starter,"Falls Church, VA",2299,JavaScript,javascript
+10792136,convnet-benchmarks,"New York, USA",2296,Python,python
+19106,scala_school,"San Francisco, CA",2288,HTML,scala
+6512545,Cerberus,New Jersey,2288,HTML,javascript
+24174649,Typeset,San Francisco,2286,JavaScript,javascript
+17270853,autograd,"Harvard University, Cambridge, MA",2286,Python,python
+34303125,styletron,"San Francisco, US",2285,JavaScript,javascript
+32453,OpenCC,New York,2278,C++,c++
+37672,fuckitjs,"New York, NY",2277,JavaScript,javascript
+10579038,hamburger-button,"San Francisco, CA",2276,Swift,swift
+11228639,source-sans-pro,"San Jose, CA",2276,Makefile,shell
+29172277,phan,"Brooklyn, NY",2275,PHP,php
+11494266,simplify,"Oakland, CA",2273,Java,java
+958892,grammars-v4,San Francisco,2270,ANTLR,vhdl
+20662707,deep-visualization-toolbox,"Ithaca, NY",2269,Python,python
+505287,hashids.php,"San Francisco, CA",2268,PHP,php
+2470,parallel_tests,"San Francisco, CA",2266,Ruby,ruby
+1952638,fingerprintjs,Chicago,2263,JavaScript,javascript
+5031823,mautic,"Raleigh, NC",2259,PHP,php
+12656792,react-infinite,"New York, New York",2255,JavaScript,javascript
+10696,globalize,"Boston, MA",2254,JavaScript,javascript
+10305482,learning-spark,"California, USA",2253,Java,java
+23529458,angr,"Santa Barbara, CA, USA",2251,Python,python
+10946521,TypeScriptSamples,"Redmond, WA",2251,TypeScript,javascript
+21675,testem,Atlanta,2249,JavaScript,javascript
+280617,figaro,Michigan,2245,Ruby,ruby
+9068863,MDCSwipeToChoose,"Brooklyn, NY",2243,Objective-C,objective-c
+10651163,RakNet,"Menlo Park, CA",2241,HTML,c
+2602,monodevelop,"Boston, MA",2241,C#,c#
+6761827,https-everywhere,San Francisco,2235,JavaScript,javascript
+18740233,Hygieia,"McLean, VA",2234,Java,java
+7755175,ZSSRichTextEditor,Washington State,2232,Objective-C,objective-c
+15583272,esprima,"Boston, MA",2231,TypeScript,javascript
+26517989,cross-env,"Salt Lake City, Utah, USA",2230,JavaScript,javascript
+25844269,rustlings,"Pittsburgh, PA, USA",2229,Rust,rust
+6458355,bootstrap-validator,"Austin, TX",2216,JavaScript,javascript
+19088926,smoothState.js,"Philadelphia, PA",2214,CSS,javascript
+10605698,textract,"Chicago, IL",2213,HTML,python
+30758289,ln,"Cary, NC",2212,Go,go
+53787751,truffleHog,USA,2212,Python,python
+15333,fake-s3,"San Francisco, CA",2209,Ruby,ruby
+10537,jsrender,Bellevue WA,2206,JavaScript,javascript
+10525868,PleaseJS,"Philadelphia, PA",2206,JavaScript,javascript
+19868476,PagingMenuController,"San Francisco, CA",2205,Swift,swift
+12748684,jquery-mockjax,"Washington, DC",2201,JavaScript,javascript
+1459566,moloch,"Dulles, VA",2200,JavaScript,javascript
+225766,rimraf,Oakland CA,2197,JavaScript,javascript
+6113099,JDStatusBarNotification,SF,2195,Objective-C,objective-c
+9860934,xamarin-forms-samples,"Boston, MA",2194,C#,c#
+10051503,radiant-player-mac,"Tempe, AZ",2191,Objective-C,javascript
+25646236,smart-mirror,Seattle,2182,JavaScript,javascript
+30010960,gizmo,"New York, NY",2178,Go,go
+22170922,spring-cloud-microservice-example,"San Mateo, CA",2177,Java,java
+1410846,gobyexample,"San Francisco, CA",2177,CSS,go
+13575,hashie,"Washington, DC",2174,Ruby,ruby
+22762,minify,"Gainesville, FL",2172,PHP,php
+10982706,node-semver,earth,2172,JavaScript,javascript
+3296829,Snap.js,Los Angeles,2167,JavaScript,javascript
+31173450,goa,Earth,2166,Go,go
+30645989,cms.js,United States,2166,JavaScript,javascript
+17211496,essential-react,New York,2162,JavaScript,javascript
+20355670,agar.io-clone,"San Jose, CA",2162,JavaScript,javascript
+4654,rails-composer,San Francisco,2160,Ruby,ruby
+26195019,react-responsive,"New York, NY",2159,JavaScript,javascript
+13397964,WebSocket-Node,"Los Angeles, Ca",2159,JavaScript,javascript
+12813799,swagger-editor,,2159,JavaScript,javascript
+25158614,design-system,San Francisco,2157,JavaScript,javascript
+19633266,data,San Francisco,2156,JavaScript,javascript
+1350219,aws-sdk-php,"Seattle, WA",2156,PHP,php
+1369530,Laravel-Administrator,"West Hollywood, CA",2149,PHP,php
+184442,gcc-explorer,"Chicago, IL",2147,JavaScript,javascript
+3971741,Supertoasts,United States,2146,Java,java
+25105645,GloVe,"Stanford, CA",2146,C,c
+85794287,twirp,"San Francisco, CA",2144,Go,go
+11779710,android-shape-imageview,San Francisco,2142,Java,java
+22046843,random_compat,"Orlando, FL",2139,PHP,php
+3819597,hopscotch,"Mountain View, CA, USA",2137,JavaScript,javascript
+9852,drag-sort-listview,"Portland, Oregon",2137,Java,java
+26686314,git-fire,"Dallas, Texas",2134,Shell,shell
+21447351,awesome-honeypots,"ann arbor, mi",2133,Python,python
+2607518,bro,"Berkeley, CA",2133,C++,c++
+24878,script.js,California,2132,JavaScript,javascript
+5235158,refit,San Francisco,2128,C#,c#
+790470,Recorderjs,"New York, NY",2127,JavaScript,javascript
+11468579,jquery.smoothState.js,"Old City, Philadelphia",2127,CSS,javascript
+14756689,write-you-a-haskell,"Boston, MA",2126,Haskell,haskell
+7902172,Flask-SocketIO,"Portland, OR",2125,Python,python
+12304144,style-guides,"Mountain View, CA",2116,Shell,shell
+8029,nu,"Mountain View, CA",2113,Objective-C,objective-c
+13360545,arrayfire,"Atlanta, GA, USA",2112,C++,c++
+7304063,joda-time-android,Minneapolis,2109,Java,java
+25002891,neuralart,"Stanford, CA",2109,Lua,lua
+18022682,ScreenCat,Oregon,2107,CSS,javascript
+13778,forge,"Blacksburg, VA",2104,JavaScript,javascript
+21040730,react-native-image-picker,"Baltimore, MD",2104,Objective-C,objective-c
+28547613,openwrt,Earth,2104,C,c
+7084418,Algorithm-Implementations,"Fort Worth, TX",2102,Lua,lua
+5057,parallel,"San Francisco, CA",2095,Ruby,ruby
+3194172,angularFire,"San Francisco, CA",2091,JavaScript,javascript
+25972431,lost,"Portland, Oregon",2089,JavaScript,javascript
+21998535,redux-promise,"Redwood City, CA",2088,JavaScript,javascript
+18243384,overcommit,"San Francisco, CA",2087,Ruby,ruby
+39902,OmniGroup,Seattle WA,2087,Objective-C,objective-c
+31129349,how2heap,Santa Barbara,2085,C,c
+8466261,magic-of-css,"Cambridge, MA",2082,HTML,javascript
+11732282,accessible-html5-video-player,"San Jose, CA",2082,JavaScript,javascript
+16275631,AtomicGameEngine,"Eugene, Oregon",2081,C,c
+1838223,GitGutter,"Atlanta, GA",2077,Python,python
+18289567,reel-search,"San Francisco, CA",2075,Swift,swift
+6291,validate.js,"San Francisco, CA",2072,JavaScript,javascript
+29228181,docker-curriculum,"Manhattan, NY",2072,Python,python
+18144215,How-To-Ask-Questions-The-Smart-Way,New York,2071,JavaScript,javascript
+3207718,FrameworkBenchmarks,"El Segundo, CA",2070,PHP,php
+16037417,node-osmosis,"Wooster, Ohio",2070,JavaScript,javascript
+27409526,BEMCheckBox,"Seattle, WA",2070,Objective-C,objective-c
+1394747,html-pipeline,"Berkeley, CA",2069,Ruby,ruby
+11324005,migrate,Palo Alto,2068,Go,go
+9934,VivaGraphJS,Seattle ,2066,JavaScript,javascript
+24642,CamanJS,"Charleston, SC",2059,HTML,javascript
+517497,python-ftfy,"Cambridge, MA",2058,Python,python
+390637,pydub,New York,2058,Python,python
+18433027,PTVS,"Redmond, WA",2056,C#,c#
+22052490,react-burger-menu,San Francisco,2055,JavaScript,javascript
+2406311,JazzyViewPager,"New York, NY",2052,Java,java
+2415026,design-patterns-in-ruby,"Louisville, Kentucky",2051,Ruby,ruby
+29393609,bliss,"Boston, MA",2049,JavaScript,javascript
+3381757,packery,"Alexandria, VA",2046,JavaScript,javascript
+4346,peertalk,San Francisco,2044,Objective-C,objective-c
+15631498,react-waypoint,"San Francisco, CA",2043,JavaScript,javascript
+29134359,dev-setup,"Washington, D.C.",2043,Python,python
+8171121,xcpretty,"San Francisco, CA",2041,Ruby,ruby
+31283,foresight.js,"Madison, Wisconsin",2041,JavaScript,javascript
+3479,github-services,"San Francisco, CA",2041,Ruby,ruby
+53159862,laravel-mix,"Chattanooga, TN",2038,JavaScript,javascript
+31205312,teletraan,"San Francisco, California",2035,JavaScript,javascript
+29105017,directus,"Brooklyn, NY",2032,JavaScript,javascript
+3534,localtunnel,"Austin, TX",2032,Go,go
+10295993,doitlive,"Charlottesville, VA",2030,Python,python
+3513117,Mining-the-Social-Web-2nd-Edition,"Franklin, TN",2025,Ruby,ruby
+4816,browsercms,"Bethesda, MD",2024,Ruby,ruby
+6147696,python_reference,"East Lansing, Michigan",2022,Jupyter Notebook,python
+10647,python_koans,Columbus OH,2022,Python,python
+2622698,KeyBox,"Cleveland, OH",2019,Java,java
+27671937,react-dom-stream,"San Francisco, CA",2017,JavaScript,javascript
+4050797,clojure-cookbook,"Durham, NC",2017,Clojure,clojure
+28581649,caffe-tensorflow,"Stanford, CA",2014,Python,python
+898600,Torque3D,"Las Vegas,NV",2014,C++,c++
+11747883,bootlint,San Francisco,2013,JavaScript,javascript
+6988298,ouibounce,New York City,2011,JavaScript,javascript
+1344179,rsvp.js,"San Francisco, CA",2011,JavaScript,javascript
+23970,uniform,"San Francisco, CA",2010,JavaScript,javascript
+206279,cron-expression,"Seattle, WA",2010,PHP,php
+8793102,ffjson,"San Francisco, CA",2010,Go,go
+19774971,git-it-electron,"Portland, Ore",2010,Perl,perl
+25793,jison,"Santa Monica, CA",2002,JavaScript,javascript
+17354,hello-world,"San Antonio, TX",2000,Assembly,assembly
+1321143,Responder,Earth,1999,Python,python
+4480366,game-programming-patterns,"Seattle, WA",1999,HTML,c++
+17967,XRegExp,"Washington, DC, USA",1997,JavaScript,javascript
+10849191,expect,California,1997,JavaScript,javascript
+7260288,ClangFormat-Xcode,Toronto,1997,Objective-C,objective-c
+85313,gizzard,"San Francisco, CA",1995,Scala,scala
+3111988,chronos,"Berkeley, CA",1994,JavaScript,javascript
+1849696,Algorithms,"Manhattan, NY",1994,Python,python
+252,rstudio,"Boston, MA",1994,Java,java
+24962074,Office-UI-Fabric,"Redmond, WA",1994,CSS,javascript
+2739927,jsencrypt,"Dallas, TX",1993,JavaScript,javascript
+12804861,KMCGeigerCounter,"Durham, NC",1986,Objective-C,objective-c
+5076,pnotify,"Santa Clara, CA",1983,HTML,javascript
+25037,tabletop,"Brooklyn, NY",1982,JavaScript,javascript
+4035252,hologram,"San Francisco, CA",1982,Ruby,ruby
+21251959,glow,Bay Area,1980,Go,go
+3630462,ZeroTierOne,"Irvine, California",1977,C,c
+13627003,underlineJS,New York City,1975,JavaScript,javascript
+17598807,Windows-driver-samples,"Redmond, WA",1973,C,c
+18244227,scss-lint,"San Francisco, CA",1973,Ruby,ruby
+8906917,JTSImageViewController,Oklahoma City,1972,Objective-C,objective-c
+6716532,dogecoin,The Moon,1966,C++,c++
+3242732,tachyon,"Berkeley, CA, USA",1965,Java,java
+10236812,schematics,"Brooklyn, NY",1962,Python,python
+2362450,Durandal,"Tallahassee, FL",1962,JavaScript,javascript
+1349763,ModSecurity,Earth,1958,C,c
+18547,HTML5-Reset,NYC,1956,CSS,javascript
+34190,jvm-serializers,"Mountain View, CA",1956,Java,java
+31422195,machine-learning,"Mountain View, CA",1956,Jupyter Notebook,python
+78951,tooltipster,"Denver, CO",1953,JavaScript,javascript
+39705,oauth2orize,"Berkeley, CA",1951,JavaScript,javascript
+14329,vim-markdown,"Boston, MA",1951,VimL,shell
+3460473,vim-tmux-navigator,"Boston, MA",1950,VimL,shell
+34153,backbone-rails,New York City,1949,Ruby,ruby
+11884,ShareKit,San Francisco,1948,Objective-C,objective-c
+1473834,Harpy,"Washington, DC",1942,Objective-C,objective-c
+6611850,PDTSimpleCalendar,"Palo Alto, CA",1940,Objective-C,objective-c
+4388153,flight,"San Francisco, CA",1938,JavaScript,javascript
+24256700,guesstimate-app,San Francisco,1937,JavaScript,javascript
+998727,polyglot.js,San Francisco,1930,JavaScript,javascript
+4896850,Medium.js,Los Angeles,1930,JavaScript,javascript
+10188194,komanda,"Boston, MA",1929,JavaScript,javascript
+6514068,java-algorithms-implementation,"Mount Laurel, NJ",1928,Java,java
+17867788,hjs-webpack,"Spokane, WA",1928,JavaScript,javascript
+22188122,pipeline,"San Francisco, CA",1926,Shell,shell
+13475670,twitter-text,"San Francisco, CA",1925,JavaScript,javascript
+5465315,rippled,San Francisco,1925,C++,c++
+1966422,timber,"Boston, MA",1924,PHP,php
+26549499,Swift-Radio-Pro,"Denver, CO",1923,Swift,swift
+17519,assetic,"Portland, Oregon USA",1919,PHP,php
+3669,qlmarkdown,"San Antonio, TX",1919,C,c
+27550,pg_search,"New York, NY",1919,Ruby,ruby
+30950029,spread,"San Francisco, CA",1914,Go,go
+34608,v2ex,California,1912,Python,python
+2634,ruby_koans,"Columbus, OH",1910,Ruby,ruby
+4682767,angular-file-upload,Toronto,1910,JavaScript,javascript
+11799425,nuclear-js,"San Francisco, CA, USA",1910,JavaScript,javascript
+3283627,SimpleCV,"Ann Arbor, MI",1909,Python,python
+305081,infinity,San Francisco,1908,JavaScript,javascript
+6936196,drop,"Cambridge, MA",1907,CSS,javascript
+61734,screenFetch,"Honolulu, HI",1906,Shell,shell
+9018576,angularjs-in-patterns,"California, USA",1904,JavaScript,javascript
+31251745,tensorpack,Pittsburgh,1903,Python,python
+10440101,nsenter,San Francisco,1902,Shell,shell
+16785824,PINCache,"San Francisco, California",1902,Objective-C,objective-c
+12643474,derailed_benchmarks,"Austin, Tx",1901,Ruby,ruby
+3168128,glTF,Beaverton OR,1900,JavaScript,javascript
+105580,proxyquire,nomad,1899,JavaScript,javascript
+11785760,SwiftStructures,"Seattle, Washington",1895,Swift,swift
+23238,todo.txt-cli,"Brooklyn, NY",1894,Shell,shell
+6986882,myth,"San Francisco, CA",1893,JavaScript,javascript
+8866528,LocationManager,"Mountain View, CA",1888,Objective-C,objective-c
+8719321,robospice,"San Francisco, USA",1888,Java,java
+12346,gl-matrix,"Mountain View, CA",1887,JavaScript,javascript
+13865588,elasticsearch-gmail,NYC,1885,Python,python
+7057451,C-41,New York,1883,Objective-C,objective-c
+28831860,gethttpsforfree,"Oakland, CA",1878,JavaScript,javascript
+3435428,TMCache,New York City,1878,Objective-C,objective-c
+158585,XChange,Santa Fe,1877,Java,java
+26298009,gopl.io,United States,1877,Go,go
+14746,http-request,"Redwood City, CA",1876,Java,java
+7742016,textql,"San Francisco, CA",1876,Go,go
+19305473,awesome-ctf,NYU,1874,JavaScript,javascript
+4491899,TrustedProxy,"San Antonio, TX",1873,PHP,php
+9728993,ViewPagerTransforms,"Orlando, FL",1870,Java,java
+1129,mysql2,"San Francisco, Ca",1869,Ruby,ruby
+25879303,SBShortcutMenuSimulator,"San Francisco, CA",1869,Objective-C,objective-c
+10524583,TinderSimpleSwipeCards,"Somerville, MA",1868,Objective-C,objective-c
+19696936,react-notification-system,"Austin, TX",1867,JavaScript,javascript
+6321708,ahoy,"San Francisco, CA",1865,Ruby,ruby
+8737438,kite,San Francisco,1865,Go,go
+9590945,betty,"San Francisco, CA",1864,Ruby,ruby
+14940288,Slidr,"Columbia, SC",1864,Java,java
+22049560,mojibar,Not San Francisco,1863,JavaScript,javascript
+47846085,dynet,Pittsburgh,1861,,c++
+1377549,aws-sdk-java,"Seattle, WA",1856,Java,java
+12363088,syntaxhighlighter,"Oakland, CA",1851,JavaScript,javascript
+11753338,djinni,San Francisco,1850,C++,java
+21992444,pachyderm,"San Francisco, CA",1850,Go,go
+15027,annotate_models,"San Diego, CA",1849,Ruby,ruby
+30233490,lda2vec,San Francisco,1842,Python,python
+6531,mochiweb,"San Francisco, CA",1837,Erlang,erlang
+30473995,pev,"Los Angeles, CA",1837,CSS,javascript
+31408684,react-redux-form,"Orlando, FL",1834,JavaScript,javascript
+11132347,mitro,"New York, NY, USA",1832,HTML,java
+6781656,MailKit,"Boston, MA, USA",1831,C#,c#
+36264,rack-cors,"Atlanta, GA",1831,JavaScript,javascript
+12589539,pgcli,United States,1828,Python,python
+37609171,docker-lambda,New York,1828,,javascript
+12866575,flummox,"Redwood City, CA",1826,JavaScript,javascript
+26118962,sketch-palettes,"Brooklyn, NY",1825,JavaScript,javascript
+18047,DACircularProgress,"New York, NY",1825,Objective-C,objective-c
+23613029,EffectiveAndroid,San Francisco,1823,Java,java
+2365860,messenger,"Cambridge, MA",1821,JavaScript,javascript
+40389,tilt,"Cleveland, OH",1820,Ruby,ruby
+16236,dancer.js,San Francisco,1820,JavaScript,javascript
+4822857,emoji,Not San Francisco,1820,CSS,javascript
+5121880,ginkgo,"Berkeley, CA",1819,Go,go
+30172944,qs,"San Mateo, CA",1818,JavaScript,javascript
+6593864,generator-ionic,San Francisco,1816,JavaScript,javascript
+11242997,express-handlebars,"Boston, MA",1816,JavaScript,javascript
+54973,plax,San Francisco,1815,JavaScript,javascript
+16798726,Laravel-5-Generators-Extended,"Chattanooga, TN",1812,PHP,php
+11980,iOS-Framework,"New York, NY",1812,Objective-C,objective-c
+24326,LABjs,"Austin, TX",1811,HTML,javascript
+8484582,ng-demos,"Orlando, FL",1810,JavaScript,javascript
+7164842,vim-anywhere,"Seattle, WA",1810,Shell,shell
+884222,device.js,New York City,1807,JavaScript,javascript
+9735448,fluxxor,"San Francisco, CA",1805,JavaScript,javascript
+13021669,react-d3,"Columbia, SC",1804,JavaScript,javascript
+11466230,GoJS,"Nashua, NH",1804,HTML,javascript
+10327257,SwiftHTTP,"Austin, TX",1802,Swift,swift
+12417544,HAP-NodeJS,"Santa Clara, CA",1800,JavaScript,javascript
+26127664,bqplot,"New York, NY",1797,JavaScript,javascript
+18938664,filepizza,"San Francisco, CA",1797,JavaScript,javascript
+6174125,videojs-contrib-hls,"San Francisco, CA",1795,JavaScript,javascript
+25862184,gitflow-avh,"Baltimore, MD",1794,Shell,shell
+6345,ggplot2,"Houston, TX",1790,R,r
+13438581,daydream,"San Francisco, CA",1789,JavaScript,javascript
+41540521,buntdb,"Tempe, AZ",1789,Go,go
+3213902,responsive-nav.js,"Menlo Park, CA",1784,JavaScript,javascript
+3333626,firepad,"San Francisco, CA",1783,JavaScript,javascript
+29067056,redux-orm,San Francisco,1782,JavaScript,javascript
+48099,OpenBLAS,"Boston, MA",1782,FORTRAN,assembly
+20477,easyXDM,"San Francisco, California",1782,JavaScript,javascript
+14927850,bond,"Redmond, WA",1780,C++,c++
+11468058,tint2,Salt Lake City,1779,JavaScript,javascript
+4788164,webgl-globe,San Francisco,1779,JavaScript,javascript
+16789163,FastttCamera,San Francisco,1776,Objective-C,objective-c
+3176839,ctci,United States,1774,Java,java
+12147136,adaptive-tab-bar,"San Francisco, CA",1774,Swift,swift
+30975237,git-draw,"San Jose, California",1773,JavaScript,javascript
+7550224,Colours,"Irvine, CA",1773,Objective-C,objective-c
+46948,wifite,seattle,1773,Python,python
+41973,doctoc,nomad,1773,JavaScript,javascript
+12809051,Talon-for-Twitter,Iowa,1770,Java,java
+13564662,dinghy,Salt Lake City,1770,Ruby,ruby
+6401040,snipe-it,"San Diego, CA",1769,PHP,php
+7144011,react-server-example,New York,1767,JavaScript,javascript
+32614477,react-project,"Seattle, WA",1758,JavaScript,javascript
+11015596,RKSwipeBetweenViewControllers,"Somerville, MA",1758,Objective-C,objective-c
+28740575,letsencrypt-win-simple,Utah,1756,C#,c#
+5425519,CWStatusBarNotification,"San Francisco, CA",1750,Objective-C,objective-c
+3474222,PhysicsJS,Toronto,1748,JavaScript,javascript
+75918,node-spdy,USA,1748,JavaScript,javascript
+606,bowser,California,1747,JavaScript,javascript
+237453,TinyColor,"Columbia, MO",1747,JavaScript,javascript
+25211596,FileKit,"Miami, FL",1744,Swift,swift
+501,binaryjs,"Berkeley, CA",1743,JavaScript,javascript
+10735,python-oauth2,"San Francisco, CA",1743,Python,python
+18060345,nodejstools,"Redmond, WA",1742,C#,c#
+8342973,predawn,"Dallas, Texas",1738,JavaScript,javascript
+266651,reconnecting-websocket,Chicago,1738,JavaScript,javascript
+2326,novocaine,"Boston, MA",1735,Objective-C,objective-c
+3012671,dropplets,"Seattle, WA",1734,PHP,php
+39312,PHP-CS-Fixer,San Francisco,1734,PHP,php
+10729803,PunchClock,"Portland, OR",1732,Objective-C,objective-c
+3449842,groupdate,"San Francisco, CA",1731,Ruby,ruby
+10474128,KLCPopup,San Francisco,1730,Objective-C,objective-c
+9438436,rouge,"Berkeley, CA",1730,Ruby,ruby
+3538,The-Nature-of-Code,"New York, NY",1729,JavaScript,javascript
+8165694,nearley,Bay Area,1728,JavaScript,javascript
+14567191,isomorphic-react-example,San Francisco,1727,JavaScript,javascript
+27501721,source-map-explorer,"New York, NY",1725,JavaScript,javascript
+31080973,vapor,NYC,1724,Swift,swift
+2728868,Laravel-4-Generators,"Chattanooga, TN",1724,PHP,php
+3355763,rewind,Santa Fe NM,1722,Shell,shell
+12963085,react-widgets,New Jersey,1721,JavaScript,javascript
+1906647,pushpin,Mountain View,1721,C++,c++
+788376,python-twitter,"Philadelphia, PA",1719,Python,python
+16344560,budo,Toronto,1719,JavaScript,javascript
+54351,oauth2,"Washington, DC",1717,Ruby,ruby
+6651996,gmail.js,San Francisco,1714,JavaScript,javascript
+7931843,mac-dev-playbook,"St. Louis, MO",1714,JavaScript,javascript
+10075641,sqlpad,"Minneapolis, MN, USA",1711,JavaScript,javascript
+27871,aleph,"San Francisco, CA",1709,Clojure,clojure
+20574517,react-native-swipeout,United States,1708,JavaScript,javascript
+5356235,tmuxp,USA,1706,Python,python
+4950263,cookiecutter-flask,"Charlottesville, VA",1705,JavaScript,javascript
+11852968,Rant,Minneapolis,1703,C#,c#
+30590,git-sweep,New York,1702,Python,python
+16775749,clap-rs,USA,1701,Rust,rust
+2641953,apostrophe,"Philadelphia, PA",1700,JavaScript,javascript
+18795972,t3js,"Los Altos, CA",1699,JavaScript,javascript
+18784,sisyphus,"Chicago, IL",1699,JavaScript,javascript
+7356346,Borderless-Gaming,Miami,1697,C#,c#
+11586993,routable-ios,"San Francisco, CA",1695,Objective-C,objective-c
+29155651,react-big-calendar,Washington D.C.,1695,JavaScript,javascript
+1769481,nconf,"New York, NY",1694,JavaScript,javascript
+20492561,ZLSwipeableViewSwift,"Los Angeles, CA",1691,Swift,swift
+10492908,simple-peer,"Mountain View, CA",1689,JavaScript,javascript
+34235002,futures-rs,"San Francisco, CA",1689,,rust
+12227241,tcpkali,"Palo Alto, CA, US",1686,C,c
+24176334,Gloss,New York City,1684,Swift,swift
+10175046,centurion,"San Francisco, CA",1684,Ruby,ruby
+116931,cocoa-rest-client,Philadelphia,1683,Objective-C,objective-c
+3598168,xunit,"Seattle, WA",1682,C#,c#
+1397723,killbill,"San Francisco, CA",1680,Java,java
+10232793,pixyll,"Boise, Idaho",1677,CSS,ruby
+9275504,raft,"San Francisco, CA",1675,Go,go
+38485,MIDI.js,Portland OR,1675,JavaScript,javascript
+911100,recast,New York City,1674,JavaScript,javascript
+22248743,loadjs,"New York, NY",1673,JavaScript,javascript
+4433088,go-web-foundation,"Boston, MA",1672,Go,go
+10519541,pencilblue,"Raleigh, NC",1671,JavaScript,javascript
+8994552,encom-boardroom,"Boston, MA",1671,JavaScript,javascript
+22047995,vim-devicons,"Charlotte, NC, USA",1669,VimL,python
+19386695,docker,"Santa Clara, CA",1668,Shell,shell
+19996064,jot,San Francisco,1665,Objective-C,objective-c
+2428283,formula.js,"Palo Alto, CA",1663,JavaScript,javascript
+268284,swagger-php,"Chicago, IL",1663,PHP,php
+28194636,pokedex.org,Seattle,1661,JavaScript,javascript
+8344693,webcamjs,"San Mateo, CA",1660,ActionScript,actionscript
+7198861,ga-beacon,"San Francisco, CA",1660,Go,go
+20974917,re-base,"Salt Lake City, Utah",1658,JavaScript,javascript
+22086,animatable,"Boston, MA",1657,HTML,javascript
+5434319,TextJustify-Android,"San Francisco, CA",1657,Java,java
+5184,django-haystack,"Lawrence, KS",1656,Python,python
+59387,effectivescala,"San Francisco, CA",1654,HTML,c++
+3310,Seriously.js,"New York, NY",1653,JavaScript,javascript
+11364132,decent_exposure,"Jacksonville Beach, FL",1652,Ruby,ruby
+8331730,MediatR,"Austin, TX",1649,C#,c#
+1927874,drywall,San Francisco,1646,JavaScript,javascript
+47486797,Colorful,United States,1646,Java,java
+12605097,dockerize,Colorado,1645,Go,go
+55587484,chromedp,Colorado,1644,Go,go
+28184349,NG6-starter,"San Francisco, CA",1643,JavaScript,javascript
+28110457,js-ipfs,Earth,1642,JavaScript,javascript
+17878986,AutoRest,"Redmond, WA & the cloud",1641,C#,c#
+5934036,sphinx_rtd_theme,"Petaluma, CA",1639,CSS,javascript
+13095216,st2,,1638,Python,python
+24028,activerecord-import,"Grand Rapids, MI, USA",1635,Ruby,ruby
+13153553,deliver,San Francisco,1635,Ruby,ruby
+31290501,s,CA,1635,Go,go
+89607,flight,"San Francisco, CA",1633,PHP,php
+12980706,Today-Scripts,"San Francisco, CA",1633,Objective-C,objective-c
+4403102,firechat,"San Francisco, CA",1633,JavaScript,javascript
+6268680,faraday,"Miami, FL",1633,Python,python
+22075157,react-native-modalbox,Miami,1630,JavaScript,javascript
+25056986,Backboard,New York City,1629,Java,java
+29641,SpoofMAC,"Mountain View, CA",1627,Python,python
+42684,node-lru-cache,Oakland CA,1626,JavaScript,javascript
+10396798,aerospike-server,"Mountain View, CA",1625,C,c
+15704497,react-resolver,"Houston, Texas",1624,JavaScript,javascript
+30947705,formspree,"Austin, TX",1623,CSS,python
+21713,scrollorama,Chicago,1619,JavaScript,javascript
+19579523,miller,Washington DC,1617,C,c
+59386,praw,Earth,1616,Python,python
+12623983,goth,"Boston, MA",1615,Go,go
+13354301,snapshot,San Francisco,1613,Ruby,ruby
+8024578,did_you_mean,"New York, NY",1611,Ruby,ruby
+18419765,sync-engine,"San Francisco, California",1611,Python,python
+13742311,please-wait,"New York, NY",1609,CoffeeScript,javascript
+90041,later,"Seattle, WA",1607,HTML,javascript
+14037,web,"San Francisco, CA",1606,Go,go
+18969910,slack-poker-bot,"San Francisco, CA",1606,JavaScript,javascript
+9149559,circuit,"New York, NY",1606,Go,go
+15474861,bento,"Seattle, WA",1605,Shell,shell
+6840187,pritunl,New York,1598,Python,python
+24163479,qark,"Mountain View, CA, USA",1597,HTML,python
+22181390,siesta,"Minneapolis, MN",1597,Swift,swift
+5217073,summingbird,"San Francisco, CA",1597,Scala,scala
+9887457,lunchy,"Brooklyn, New York",1597,Ruby,ruby
+11533,wicked_pdf,Indianapolis,1597,Ruby,ruby
+6413,commons,"San Francisco, CA",1596,Java,java
+25273468,neural-network-papers,New York,1591,JavaScript,javascript
+17511366,ASCIImage,"Palo Alto, CA",1589,Objective-C,objective-c
+10537426,flash,"Chattanooga, TN",1589,PHP,php
+885216,grunticon,"Boston, MA",1589,HTML,javascript
+12193686,CNPPopupController,Toronto,1587,Objective-C,objective-c
+18622941,TypeScript-Handbook,"Redmond, WA",1586,JavaScript,javascript
+15473546,pt,"Cary, NC",1585,Go,go
+120322,algebird,"San Francisco, CA",1585,Scala,scala
+10955983,transit-format,"Durham, NC",1584,Clojure,clojure
+9783463,passwordless,"Cambridge, MA",1583,JavaScript,javascript
+23661147,xv6-public,"Cambridge, MA",1583,C,c
+9350055,101,San Francisco,1582,JavaScript,javascript
+1062714,sstoolkit,San Francisco,1578,Objective-C,objective-c
+1416473,topojson,"San Francisco, CA",1578,JavaScript,javascript
+191641,go-metrics,"San Francisco, CA",1577,Go,go
+10474247,Open-XML-SDK,"Redmond, WA",1577,C#,c#
+10225247,microsoft.github.io,"Redmond, WA",1576,CSS,javascript
+219415,hashids.js,"San Francisco, CA",1576,JavaScript,javascript
+11902,Silex,San Francisco,1575,PHP,php
+22052532,pipelinedb,San Francisco,1575,C,c
+87770827,thanks,"Mountain View, CA",1574,JavaScript,javascript
+23379642,My-FreeCodeCamp-Code,"Bronx, NY",1573,JavaScript,javascript
+10213297,videogrep,brooklyn,1573,Python,python
+7145329,Vaprobash,"San Antonio, TX",1571,Shell,shell
+2247922,databus,"Mountain View, CA, USA",1567,Java,java
+13782,obtvse,"San Francisco, CA",1561,Ruby,ruby
+62587,pika,"Philadelphia, PA",1561,Python,python
+17965686,AirMapView,San Francisco,1560,Java,java
+5410707,json11,San Francisco,1556,C++,c++
+1381021,gitlab-ci,Earth,1556,Ruby,ruby
+22108313,d3-shape,"San Francisco, CA",1554,JavaScript,javascript
+115455,massive-js,"Seattle, WA",1548,JavaScript,javascript
+31248526,startbootstrap,"Orlando, FL",1546,HTML,javascript
+215211,node-webshot,San Francisco,1545,JavaScript,javascript
+33171,i2cdevlib,"Roanoke, VA",1544,C++,c++
+11736293,brototype,Chicago,1543,JavaScript,javascript
+13415092,referencesource,"Redmond, WA",1542,C#,c#
+6027434,synapse,San Francisco,1542,Ruby,ruby
+11138880,blast,San Francisco,1540,JavaScript,javascript
+8873349,vulcand,"San Francisco, USA",1540,Go,go
+4660452,12factor,"San Francisco, CA",1537,CSS,ruby
+2391896,textbelt,"Mountain View, CA",1537,JavaScript,javascript
+19908050,ptf,"Cleveland, Ohio",1536,Python,python
+15315749,dex-ui,CA,1535,C++,c++
+9098503,AsymmetricGridView,"San Francisco, CA",1534,Java,java
+9322260,reactable,"Brooklyn, NY",1532,JavaScript,javascript
+47497,util,"San Francisco, CA",1532,Scala,scala
+24502997,Dwifft,"New York, NY",1532,Swift,swift
+64504,eco,Chicago,1531,CoffeeScript,javascript
+30622670,scrollMonitor,"Brooklyn, NY",1529,JavaScript,javascript
+6972327,ngReact,"Seattle, WA",1528,JavaScript,javascript
+4237058,anonymouth,"Philadelphia, PA",1525,Java,java
+42776,jquip,New York,1523,JavaScript,javascript
+17969,xunlei-lixian,Home,1520,Python,python
+15001315,Lean,New York City,1520,C#,c#
+12482203,coconut,"Claremont, California",1520,Python,python
+854485,pannellum,Baltimore,1519,JavaScript,javascript
+1301,heroku,"San Francisco, CA",1518,Ruby,ruby
+195743,ec2instances.info,California,1518,HTML,python
+12506675,skel,Nashville,1518,JavaScript,javascript
+7013168,git-it,"Portland, Ore",1517,HTML,javascript
+3922782,ShareJS,San Francisco,1516,JavaScript,javascript
+1287758,selfstarter,"Mountain View, CA",1514,Ruby,ruby
+25181342,angular2-rxjs-chat,San Francisco,1514,TypeScript,javascript
+21269930,python-scraping,"Needham, MA",1514,Python,python
+24541438,dockers,"San Francisco, CA",1513,HTML,shell
+8833,twython,Washington DC,1513,Python,python
+3908795,CLNDR,San Francisco,1513,JavaScript,javascript
+8538802,chromium-vim,North Carolina,1513,JavaScript,javascript
+3476826,python-cookbook,Chicago,1512,Shell,shell
+4644781,PBJVision,SF,1508,Objective-C,objective-c
+31621075,SwiftString,"Brooklyn, NY",1507,Swift,swift
+13488,superscrollorama,Chicago,1506,JavaScript,javascript
+1949651,openbr,"Washington, DC, USA",1506,C++,c++
+1829893,lapis,San Francisco,1501,MoonScript,lua
+10888748,hextris,"Boston, MA",1500,JavaScript,javascript
+35153647,babel-react-optimize,"San Francisco, CA",1497,JavaScript,javascript
+8207683,PHP-Vars-To-Js-Transformer,"Chattanooga, TN",1497,PHP,php
+391616,BigVideo.js,"Chicago, IL",1496,JavaScript,javascript
+27987066,autovpn,Chicago,1495,Shell,shell
+3098710,vagrant-aws,"San Francisco, CA",1494,Ruby,ruby
+11809,rails_apps_composer,San Francisco,1494,Ruby,ruby
+6357343,range-v3,"Seattle, WA",1494,C++,c++
+40879232,go-chart,"San Francisco, CA",1494,Go,go
+25846682,SimpleWebRTC,"Richland, WA",1493,JavaScript,javascript
+199180,go-koans,"San Francisco, CA",1493,Go,go
+12215371,sslyze,San Francisco,1493,Python,python
+17620,psd.js,"Charleston, SC",1492,JavaScript,javascript
+9745493,Sketch-Toolbox,"Los Angeles, CA",1492,Objective-C,objective-c
+1382617,dplyr,"Houston, TX",1490,R,r
+34903,CsvHelper,"Minneapolis, MN",1488,C#,c#
+11227453,osxcollector,San Francisco,1488,Python,python
+12192051,inspeqtor,"Portland, OR",1487,Go,go
+15038122,OwlCarousel2,"Durham, NC",1486,JavaScript,javascript
+11405,Physijs,"Denver, CO",1485,JavaScript,javascript
+10446082,QuickReturn,San Francisco,1482,Java,java
+26760,microjs.com,"Philadelphia, PA",1481,JavaScript,javascript
+92559,isMobile,"New York, NY",1481,JavaScript,javascript
+9121,therubyracer,"Austin, TX",1480,C++,c++
+11215385,SDCAlertView,"San Francisco, CA",1479,Swift,swift
+29261,WordPress-Plugin-Boilerplate,"Atlanta, Georgia",1478,PHP,php
+44686,foreman,Earth,1477,Ruby,ruby
+8285108,iperf,"Berkeley, CA",1475,Shell,shell
+7040,yard,"Los Angeles, CA",1474,Ruby,ruby
+27262,node-qrcode,Brooklyn NY,1474,JavaScript,javascript
+21409,Wookmark-jQuery,"Columbus, Ohio",1473,HTML,javascript
+16877596,Source-Code-from-Tutorials,"Pasadena, CA",1471,Python,python
+7119738,antimony,"Cambridge, MA",1471,C++,c++
+3449743,angular-busy,"Maryland, US",1469,CSS,javascript
+12091,mysql,"San Francisco, CA",1468,C++,c++
+4455,monodroid-samples,"Boston, MA",1468,C#,c#
+16643893,react-stockcharts,"Chicago, IL",1467,JavaScript,javascript
+21458435,codeclimate,New York City,1466,Ruby,ruby
+18847237,egg.js,"San Francisco, CA",1465,JavaScript,javascript
+17909355,react-portal,"Atlanta, GA",1465,JavaScript,javascript
+11799440,transducers.js,"Richmond, VA",1464,JavaScript,javascript
+36455,arbor,"Brooklyn, NY",1463,JavaScript,javascript
+4101,xsbt,"Boston, MA",1462,Scala,scala
+8555860,go-plus,"Denver, CO",1462,CoffeeScript,go
+12912664,rtail,"San Francisco, CA",1462,CSS,javascript
+5146373,word2vec,Austin,1461,C,c
+38717,jackson-databind,"Seattle, WA",1459,Java,java
+18059042,benchm-ml,"Santa Monica, California",1459,R,r
+27729086,furni-ios,"San Francisco, CA",1459,Swift,swift
+111025,Keypress,Brooklyn,1458,CoffeeScript,shell
+26604138,sharedb,San Francisco,1457,JavaScript,javascript
+29499,em-websocket,"San Francisco, CA",1457,Ruby,ruby
+8677214,deepdive,"Palo Alto, CA",1457,Shell,java
+9553457,ReactFire,"San Francisco, CA",1457,JavaScript,javascript
+18587424,react-engine,"San Jose, CA",1456,JavaScript,javascript
+31517520,parse-server-example,"Menlo Park, CA",1454,JavaScript,javascript
+22059232,material-sheet-fab,San Francisco,1454,Java,java
+12151641,blazer,"San Francisco, CA",1453,JavaScript,javascript
+21141451,youmightnotneedjs,"Austin, TX",1453,HTML,javascript
+36464,algorithms,"Atlanta, GA",1452,Ruby,ruby
+187885,pyrasite,"Denver, CO",1452,Python,python
+341854,frontend,"San Francisco / Sunnyvale, CA USA",1451,JavaScript,javascript
+9213131,vagrant-manager,"Scottsdale, AZ",1450,Objective-C,objective-c
+29631521,zerodb,San Francisco Bay Area,1450,Python,python
+2279,idev-recipes,"Seattle, WA",1448,Objective-C,objective-c
+9697066,git-town,"California, USA",1448,Cucumber,shell
+12047270,node-wit,"Palo Alto, CA",1447,JavaScript,javascript
+1453177,node-soap,"New York, NY",1447,JavaScript,javascript
+27410634,pixelmatch,Washington DC,1445,JavaScript,javascript
+30164069,lucida,University of Michigan,1444,Java,java
+28497,Pears,"Salem, MA",1444,PHP,php
+587147,gitreflow,"Philadelphia, PA",1444,Ruby,ruby
+26817,iisnode,"Redmond, WA",1440,C++,c++
+20180484,scrape,"New York, NY",1438,Go,go
+9384738,nginx-tutorials,San Francisco,1438,Perl,perl
+6302840,envconfig,"Portland, OR",1437,Go,go
+21544616,gx,"Seattle, Wa",1436,Go,go
+5641833,ggplot,"New York, NY",1434,Python,python
+20138455,snake,"Chicago, IL",1433,Python,python
+17244783,justice,"Astoria, NY",1431,JavaScript,javascript
+3181429,PyPDF2,"Friendswood, TX",1431,Python,python
+23857,twui,"San Francisco, CA",1430,Objective-C,objective-c
+31123,chronic,San Francisco,1428,Ruby,ruby
+3451537,launchrocket,"Austin, TX",1428,Objective-C,objective-c
+11374516,docker-squash,Colorado,1427,Go,go
+27905,Command-T,"San Francisco, CA",1424,Ruby,ruby
+7200074,front-end-Interview-Questions,Chicago,1421,HTML,javascript
+60349,wicked,"Austin, Tx",1420,Ruby,ruby
+2285664,secureheaders,"San Francisco, CA",1420,Ruby,ruby
+2815979,angular-socket-io,"San Francisco, CA",1419,JavaScript,javascript
+29037229,scissors,"San Francisco, CA",1416,Java,java
+21839346,npm-windows-upgrade,San Francisco,1416,JavaScript,javascript
+297802,stat-cookbook,"Berkeley, CA",1415,TeX,r
+16541138,bootstrap-notify,United States,1415,JavaScript,javascript
+14446595,pomegranate,University of Washington,1414,Python,python
+17384063,typography.js,San Francisco,1413,CoffeeScript,javascript
+17540877,DICSS,Chicago,1413,JavaScript,javascript
+12864,sqlite-net,"Seattle, WA",1411,C#,c#
+11591,JASidePanels,"San Francisco, CA",1411,Objective-C,objective-c
+10408,khan-exercises,"Mountain View, CA",1408,HTML,javascript
+12941061,PayPal-PHP-SDK,"San Jose, CA",1405,PHP,php
+7035381,MHN,"Redwood City, CA",1404,Shell,shell
+5050591,dind,San Francisco,1404,Shell,shell
+26024581,flask-base,"Philadelphia, PA",1404,Python,python
+8089806,Ono,"Portland, OR",1403,Objective-C,objective-c
+15372089,xonsh,"Columbia, SC",1402,Python,python
+3282180,chrome-devtools-zerodarkmatrix-theme,"Jersey City, NJ",1402,CSS,ruby
+2743115,spine-runtimes,"Seattle, WA",1401,C#,c#
+22046130,DotNetty,"Redmond, WA & the cloud",1401,C#,c#
+234646,minimatch,Oakland CA,1400,JavaScript,javascript
+62257,passport-local,"Berkeley, CA",1396,JavaScript,javascript
+18201056,react-native-refreshable-listview,"San Francisco, CA",1396,JavaScript,javascript
+16184819,TouchDevelop,"Redmond, WA",1396,TypeScript,javascript
+142162,spectrum,"Columbia, MO",1395,JavaScript,javascript
+8634501,training-kit,"San Francisco, CA",1395,CSS,javascript
+25127271,netboot.xyz,"San Antonio, TX",1394,Shell,shell
+6285,Diamond,"Cambridge, MA",1394,Python,python
+27364,node-imap,Ohio,1393,JavaScript,javascript
+9949950,poison,"Austin, TX",1393,Elixir,elixir
+5390124,ServiceWorker,San Francisco,1393,HTML,javascript
+37265,gitit,"Berkeley, CA",1390,Haskell,haskell
+943946,timecop,Toronto,1389,Ruby,ruby
+18224465,react-native-htmlview,"San Francisco, CA",1389,JavaScript,javascript
+13570675,yup,New Jersey,1389,JavaScript,javascript
+36032,node-serialport,"Reston, VA",1387,C++,c++
+22076089,zombodb,"El Paso, TX",1385,Java,java
+25114491,LayerVisualizer,"New York, NY",1384,HTML,javascript
+31908,moonscript,San Francisco,1382,Lua,lua
+22041933,DirectX-Graphics-Samples,"Redmond, WA",1381,C++,c++
+2728465,rest.li,"Mountain View, CA, USA",1381,Java,java
+20848396,swagger-node,,1380,JavaScript,javascript
+27113,backbone-directory,Boston,1379,PHP,php
+11089978,idle_master,"Oregon, USA",1378,C#,c#
+52581,huey,"Lawrence, KS",1376,Python,python
+20665,Kibana,"Phoenix, AZ",1374,JavaScript,javascript
+15485930,RGCardViewLayout,West Hollywood,1374,Objective-C,objective-c
+28370577,magma,"Dallas, TX",1374,C,c
+29071160,ResponsifyJS,New York City,1373,HTML,javascript
+61424,jquery-timepicker,"New York, NY",1373,JavaScript,javascript
+3054,developer.github.com,"San Francisco, CA",1372,Ruby,ruby
+2713033,moto,"New York, NY",1371,Python,python
+12770740,code-snippets,"Boston, MA",1370,JavaScript,javascript
+163374,tomcat-redis-session-manager,"Greenville, SC",1370,Java,java
+4868539,Web-Font-Load,Atlanta GA,1370,Shell,shell
+10458736,TremulaJS,"Berkeley, CA",1370,JavaScript,javascript
+22167428,redux-promise-middleware,"Mountain View, CA",1370,JavaScript,javascript
+14899662,fecha,New York,1368,JavaScript,javascript
+20673745,doctl,"New York, NY",1368,Go,go
+15149419,spout,"Los Altos, CA",1365,PHP,php
+12708631,sudolikeaboss,"Los Angeles, California",1364,Go,go
+2639473,peerjs-server,"Berkeley, CA",1363,JavaScript,javascript
+21123204,axe-core,Ann Arbor,1363,JavaScript,javascript
+16333,flask-login,San Francisco,1359,Python,python
+25983652,parinfer,"Houston, TX",1357,Clojure,clojure
+22102986,Parse-SDK-Android,"Menlo Park, CA",1357,Java,java
+18232883,TypeScript-Sublime-Plugin,"Redmond, WA",1357,JavaScript,javascript
+16945529,gg,"Dallas, Texas",1357,Shell,shell
+6399992,finatra,"San Francisco, CA",1357,Scala,scala
+19348804,electron-packager,Oregon,1356,JavaScript,javascript
+11082,jQuery-Tags-Input,"Austin, TX",1354,JavaScript,javascript
+9431,CoffeeScriptRedux,"Sunnyvale, CA",1354,CoffeeScript,javascript
+35423307,flask-ask,"San Diego, California",1353,,python
+11337232,hcl,"San Francisco, CA",1353,Go,go
+28690,polymaps,"San Francisco, CA",1351,JavaScript,javascript
+6007308,component,"New York, NY",1351,Clojure,clojure
+5368758,usb-serial-for-android,"san francisco, ca",1350,Java,java
+10205941,adversarial,San Francisco,1350,Python,python
+5496,sstoolkit,San Francisco,1349,Ruby,ruby
+10010,Frank,San Francisco,1348,Objective-C,objective-c
+2040,backbone.layoutmanager,"San Francisco, CA",1348,JavaScript,javascript
+11380568,mlxtend,"East Lansing, Michigan",1348,Python,python
+27686978,AndroidProcesses,"Orange County, CA",1347,Java,java
+15015092,visualfsharp,"Redmond, WA",1346,F#,f#
+12960458,afero,NYC,1346,Go,go
+26073,iodocs,"San Francisco, CA",1346,JavaScript,javascript
+12702,lens,"Cambridge, MA",1346,Haskell,haskell
+30382278,FloatingSearchView,New-York,1344,Java,java
+52985,password_compat,"New York, NY",1344,PHP,php
+4021,rebar,"Cambridge, MA",1344,Erlang,erlang
+123676,string.js,"Lincoln, Nebraska",1344,JavaScript,javascript
+11297330,source-serif-pro,"San Jose, CA",1344,Shell,shell
+8815870,kafka-python,"San Francisco, CA",1342,Python,python
+8973473,wiwinwlh,"Boston, MA",1342,Haskell,haskell
+4374260,mapshaper,New York,1341,JavaScript,javascript
+9310125,rawgit,"Portland, OR",1341,JavaScript,javascript
+31007736,react-native-maps,"San Francisco, CA",1341,Objective-C,objective-c
+60637947,warp,San Francisco,1340,Go,go
+13410682,kibana2,"Phoenix, AZ",1340,JavaScript,javascript
+9313455,voice-elements,California,1339,HTML,javascript
+3345,simplecart-js,"Chicago,IL",1336,JavaScript,javascript
+119967,githubarchive.org,"San Francisco, CA",1336,Ruby,ruby
+8006171,sphinx,USA,1336,C++,c++
+11570943,rqlite,"San Francisco, CA",1334,Go,go
+17563811,ExoMedia,"Utah, USA",1334,Java,java
+22053225,ruby-jwt,Earth,1333,Ruby,ruby
+7484311,fabric8,the cloud,1332,Java,java
+4567,Pokemon-Showdown,Minnesota,1331,JavaScript,javascript
+22738786,imageflow,"Boulder, CO",1329,C,c
+16420260,aqua,San Francisco,1329,JavaScript,javascript
+9136,jquery-color,"Boston, MA",1329,JavaScript,javascript
+6451353,git-subrepo,Seattle,1328,Shell,shell
+307546,winsw,"San Jose, California",1327,C#,c#
+16739338,unindexed,"Brooklyn, NY",1327,JavaScript,javascript
+5429183,Background-Check,San Francisco,1325,JavaScript,javascript
+31823738,xo,Colorado,1325,Go,go
+13640316,BAFluidView,San Francisco,1323,Objective-C,objective-c
+5931,janky,"San Francisco, CA",1322,Ruby,ruby
+10575,knitr,"Omaha, NE",1320,R,r
+541853,go-humanize,"San Jose, CA",1319,Go,go
+27455271,RandomKit,"Miami, FL",1318,Swift,swift
+2647916,UICountingLabel,"Pasadena, CA",1318,Objective-C,objective-c
+1452180,sentiment,"Cambridge, MA",1318,JavaScript,javascript
+21302,jsonschema,"Brooklyn, NY",1318,Python,python
+5671,ghi,Brooklyn,1315,Ruby,ruby
+42326,glfx.js,San Francisco,1311,JavaScript,javascript
+25262931,UI-Testing-Cheat-Sheet,"Brooklyn, NY",1310,Swift,swift
+7616111,json_resume,San Francisco,1309,Ruby,ruby
+2489310,iOS-System-Services,Washington DC,1308,Objective-C,objective-c
+12395574,rayon,"Boston, MA",1308,Rust,rust
+19134750,bottledwater-pg,"Palo Alto, CA",1306,C,c
+16208667,seldon-server,London / Cambridge,1306,Java,java
+4915774,abot,"Phoenix, Arizona",1305,C#,c#
+11669280,RKDropdownAlert,"Somerville, MA",1303,Objective-C,objective-c
+81658,pugixml,San Francisco,1300,C++,c++
+11560529,react-sticky,"Baltimore, MD",1299,JavaScript,javascript
+5372332,gulp-sass,"Portland, OR",1299,JavaScript,javascript
+20010953,speedment,Palo Alto,1297,Java,java
+6415,jquery-smooth-scroll,"Grand Rapids, MI",1296,JavaScript,javascript
+9094,Anypic,"Menlo Park, CA",1296,Objective-C,objective-c
+25462,ImageViewZoom,"New York, NY",1295,Java,java
+2424438,scss-lint,"San Francisco, CA",1294,Ruby,ruby
+9754341,EventHub,"New York, NY",1294,Java,java
+29649301,dev-summit-architecture-demo,san francisco,1294,Java,java
+28565848,MaterialKit,Toronto,1294,Swift,swift
+28363433,confidant,"San Francisco, CA",1293,Python,python
+61600,einhorn,"San Francisco, CA",1292,Ruby,ruby
+21639906,Android-TextView-LinkBuilder,Iowa,1291,Java,java
+15049504,blog,"Richmond, VA",1291,JavaScript,javascript
+6832477,om,New York,1289,Clojure,clojure
+16448,resty,USA,1288,HTML,shell
+11794471,fitter-happier-text,New York City,1286,HTML,javascript
+6744494,gitless,"Cambridge, MA",1285,Python,python
+18110495,cayman-theme,"Columbus, Ohio",1285,HTML,javascript
+18480842,staticgen,San Francisco,1284,JavaScript,javascript
+13415303,YosemiteSanFranciscoFont,"San Francisco, CA",1284,Ruby,ruby
+8421679,KafkaOffsetMonitor,"Menlo Park, CA",1283,Scala,scala
+3793129,mapstructure,"San Francisco, CA",1283,Go,go
+1737444,xcharts,"San Francisco, CA",1283,JavaScript,javascript
+23096640,elixir-school,"Denver, CO",1282,CSS,ruby
+10487,photon,DC,1282,JavaScript,javascript
+3162388,htmlbars,"San Francisco, CA",1281,JavaScript,javascript
+30018441,react-native-auto-updater,"Palo Alto, CA, 94301",1281,Objective-C,objective-c
+9903917,What-s-New,California,1280,Objective-C,objective-c
+6694351,lazy-load-xt,San Francisco,1280,JavaScript,javascript
+11208582,time-elements,"San Francisco, CA",1279,JavaScript,javascript
+9107035,treed,"Provo, UT",1276,JavaScript,javascript
+5527602,sublime-text-git,"Saint Louis, MO",1275,Python,python
+11171772,pytesseract,"Baltimore, MD",1275,Python,python
+37887,NSDate-TimeAgo,USA,1274,Objective-C,objective-c
+21316774,pbrt-v3,"San Francisco, CA",1274,C++,c++
+7570332,nintengo,"NH, USA",1273,Go,go
+15644776,ysoserial,"San Diego, CA",1273,Java,java
+174060,underscore-cli,"Seattle, WA",1272,JavaScript,javascript
+13816143,Django-Hackathon-Starter,New York City,1272,Python,python
+4316375,cereal,University of Southern California,1271,C++,c++
+1560313,hawk,"Los Gatos, CA",1269,JavaScript,javascript
+976238,HLearn,"Riverside, CA",1268,Haskell,haskell
+13451604,deku,"San Francisco, CA",1267,JavaScript,javascript
+2110,node-pool,"Seattle, WA",1267,JavaScript,javascript
+4486115,angular-bootstrap-datetimepicker,"Minneapolis, MN",1266,JavaScript,javascript
+19117512,jsxstyle,"San Francisco, CA",1263,JavaScript,javascript
+33403587,yo-yo,Oregon,1263,JavaScript,javascript
+1448227,github-buttons,"San Francisco, CA",1262,CSS,javascript
+22077026,JAWS,"Oakland, CA.",1261,JavaScript,javascript
+81580,filer.js,"San Francisco, CA",1260,JavaScript,javascript
+12176218,duckling,"Palo Alto, CA",1260,Clojure,clojure
+55557,webmachine,"Cambridge, MA",1259,Erlang,erlang
+641622,GroundControl,"Portland, OR",1259,Objective-C,objective-c
+22094983,expandable-recycler-view,"Atlanta, GA, USA",1256,Java,java
+26284149,Git-Credential-Manager-for-Windows,"Redmond, WA",1255,C#,c#
+22724,fsnotify,Houston,1255,Go,go
+696107,Nocilla,"New York, USA",1255,Objective-C,objective-c
+8572433,ansible-vagrant-examples,"St. Louis, MO",1255,Ruby,ruby
+24495980,react-native-spinkit,Miami,1253,Objective-C,objective-c
+22064588,mind,"San Francisco, CA",1253,JavaScript,javascript
+12322661,Theano-Tutorials,"San Francisco, CA",1252,Python,python
+23322,jquery.hotkeys,"Brooklyn, NY",1252,JavaScript,javascript
+46310,WordPress-Skeleton,"Tampa, FL",1249,PHP,php
+14774900,service,PDX,1249,Go,go
+24549133,graphiql-app,"Redwood City, CA",1249,JavaScript,javascript
+1688359,numbers.js,"New York, New York",1248,JavaScript,javascript
+25848097,Pyjion,"Redmond, WA",1247,C++,c++
+6292,Kalendae,"San Diego, CA",1247,JavaScript,javascript
+6128465,RBBAnimation,"San Francisco, CA",1247,Objective-C,objective-c
+4753323,PiCAST,"Las Vegas, NV",1247,Shell,shell
+10793530,ngFx,"San Francisco, CA",1246,JavaScript,javascript
+25190603,style-transfer,San Francisco,1245,Python,python
+11744837,cross-storage,San Francisco,1243,JavaScript,javascript
+33484,pycrypto,"San Francisco, CA",1242,Python,python
+5789846,localtunnel,NYC,1242,JavaScript,javascript
+23633429,DAT8,"Washington, DC, USA",1242,Python,python
+27180,d3-plugins,"San Francisco, CA",1240,JavaScript,javascript
+27889375,drag-select-recyclerview,"Minneapolis, Minnesota",1240,Java,java
+1927265,Adafruit_NeoPixel,New york city,1238,C++,c++
+1840606,gradle-versions-plugin,"Mountain View, Ca",1238,Groovy,groovy
+11743963,ig-json-parser,"San Francisco, CA",1238,Java,java
+314458,maid,"Iowa City, IA",1236,Ruby,ruby
+1260015,impala,"California, USA",1235,C++,c++
+29660368,astexplorer,"Sunnyvale, CA",1233,JavaScript,javascript
+4743245,packer-windows,"Denver, CO",1233,PowerShell,powershell
+4485,brackets-shell,"San Jose, CA",1233,Python,python
+22525,ice,"New York, NY",1231,JavaScript,javascript
+11449786,SourceKitten,"San Francisco, CA",1231,Swift,swift
+25947815,goofys,"San Francisco, CA",1230,Go,go
+26259,worldedit,United States,1230,Java,java
+13355643,wrk2,"Palo Alto, CA",1228,C,c
+11515709,dockersh,San Francisco,1227,Go,go
+4846274,TileView,"Austin, TX",1226,Java,java
+4431545,asynquence,"Austin, TX",1226,JavaScript,javascript
+43300229,create-react-pwa,"Brooklyn, NY",1226,HTML,javascript
+12765,flask-admin,"Atlanta, GA",1225,Python,python
+23155,actionHero,"San Francisco, CA",1224,JavaScript,javascript
+10016432,packages,Earth,1224,Makefile,shell
+6213180,ember-cli,"San Jose, CA",1223,JavaScript,javascript
+62738,node-feedparser,"Washington, DC",1223,JavaScript,javascript
+5615902,fixed-sticky,"Boston, MA",1222,HTML,javascript
+17953675,ParseReact,"Menlo Park, CA",1222,JavaScript,javascript
+18045886,beep.js,Brooklyn NY,1222,JavaScript,javascript
+9550562,beaker-notebook,"New York, NY",1222,JavaScript,javascript
+4024,io,San Francisco,1221,C,c
+14596606,Node-oracledb,"Redwood Shores, CA",1220,JavaScript,javascript
+11845607,clasp,"Philadelphia, PA",1220,C++,c++
+2259357,soundcloud2000,New York,1220,Ruby,ruby
+8662,yajl-ruby,"San Francisco, Ca",1219,C,c
+3319940,chromeview,"San Francisco, CA",1219,Java,java
+9389729,ansible-for-devops,"St. Louis, MO",1219,Python,python
+8970,webdis,"San Francisco, California",1217,C,c
+21977635,react-native-mapbox-gl,Washington DC,1216,Objective-C,objective-c
+21929228,scripts-to-rule-them-all,"San Francisco, CA",1216,Shell,shell
+3816852,sheetsee.js,"Portland, Ore",1215,JavaScript,javascript
+30831411,bash-concurrent,"Detroit, MI",1214,Shell,shell
+15747,django-activity-stream,Baltimore MD,1214,Python,python
+24865,cedar,"San Francisco, CA",1213,Objective-C++,objective-c
+4020990,pycparser,California,1211,Python,python
+746376,doppio,"Amherst, Massachusetts",1211,TypeScript,java
+6842063,chewy,Remote,1211,Ruby,ruby
+11004608,encfs,United States,1211,C++,c++
+29263442,swift-corelibs-libdispatch,"Cupertino, CA",1210,C,c
+16368175,appdash,"San Francisco, CA",1209,Go,go
+15628,lessphp,San Francisco,1209,PHP,php
+11156928,cuid,"San Francisco, California",1208,JavaScript,javascript
+846421,webgl-fundamentals,Earth,1207,HTML,javascript
+28088275,neal-react,"Mountain View, CA",1207,JavaScript,javascript
+28476244,ReLinker,San Francisco,1205,Java,java
+30201859,ToggleDrawable,New-York,1205,Java,java
+852,ey-cloud-recipes,"San Francisco, CA",1204,HTML,ruby
+6253478,kryonet,"Seattle, WA",1204,Java,java
+8309725,YLGIFImage,"Menlo Park, CA",1203,Objective-C,objective-c
+25375,recess,"San Francisco, CA",1203,CSS,javascript
+14573,Django-facebook,Boulder,1203,Python,python
+7457245,ripple,"San Francisco, CA",1203,JavaScript,javascript
+8025,taffydb,"Seattle, WA",1202,JavaScript,javascript
+60708,helium-css,San Francisco,1202,JavaScript,javascript
+11657099,comcastifyjs,"Chicago, IL",1201,JavaScript,javascript
+1835935,ColorArt,"Portland, OR",1201,Objective-C,objective-c
+75444980,detect.location,San Francisco,1200,Objective-C,objective-c
+2494966,devtools-snippets,"Columbia, MO",1200,HTML,javascript
+41628,machina.js,"Chattanooga, TN",1199,JavaScript,javascript
+18138,jit,"San Francisco, California",1198,JavaScript,javascript
+28584132,paasta,San Francisco,1196,Python,python
+14361,XobotOS,"Boston, MA",1195,Java,java
+18343743,strml.net,"Milwaukee, WI",1195,JavaScript,javascript
+29219752,reagent,San Francisco,1195,JavaScript,javascript
+20814423,libtorrent,New York,1194,C++,c++
+1399573,asm.js,"San Francisco, CA",1193,HTML,javascript
+27610273,lite-server,"Orlando, FL",1193,JavaScript,javascript
+20860094,kala,"Santa Barbara, CA",1192,Go,go
+3839613,angular-cache,"Seattle, WA",1192,JavaScript,javascript
+4066370,bootstrap-toggle,New York,1192,HTML,javascript
+38627,jackson-core,"Seattle, WA",1192,Java,java
+1841860,freezegun,"New York, NY",1192,Python,python
+5423569,StreamusChromeExtension,"San Luis Obispo, CA",1191,JavaScript,javascript
+1490,lettuce,"Brooklyn, NY",1191,Python,python
+18936026,node,"Redmond, WA",1190,JavaScript,javascript
+3320238,fenix,"Austin, TX",1189,JavaScript,javascript
+38409,flipper,Indiana,1188,Ruby,ruby
+89069,SuperSocket,"Irvine, CA",1188,C#,c#
+6087,barkeep,"Mountain View, CA",1187,Ruby,ruby
+8207,httpful,"Pittsburgh, PA",1187,PHP,php
+941326,Source-Code-Pro,"San Jose, CA",1187,Python,python
+13595364,NimbusBase_Android_Tutorial,"New York, NY",1186,Java,java
+8163924,plotly,"Berkeley, CA",1186,R,r
+10438220,react-list,"Dallas, TX",1186,JavaScript,javascript
+28901563,nyc-taxi-data,"New York, NY",1185,R,r
+15700,crossroads.js,"Redwood City, CA",1185,JavaScript,javascript
+3965733,share-button,"Brooklyn, NY",1183,JavaScript,javascript
+9984816,ng-sortable,SanFrancisco,1182,JavaScript,javascript
+6425972,cdto,"Saint Louis, MO",1182,Python,python
+5415871,graphviz,"Eatontown, New Jersey, USA",1181,C,c
+4464,sqitch,"Portland, OR, USA",1181,Perl,perl
+9315126,android-resource-remover,San Francisco,1181,Python,python
+13761804,amazon-ecs-agent,"Seattle, WA",1180,Go,go
+7537997,courses,"Baltimore, MD",1179,HTML,javascript
+8971331,azure-sdk-for-net,"Redmond, WA & the cloud",1179,C#,c#
+11393974,angularjs-gulp-browserify-boilerplate,"San Francisco, California",1178,JavaScript,javascript
+79924,font-awesome-rails,"Washington, DC",1177,HTML,ruby
+4046751,skyline,"Brooklyn, NY",1176,Python,python
+8171445,ObjectiveSugar,"San Francisco, CA",1175,Objective-C,objective-c
+31177317,librealsense,"Santa Clara, CA",1174,C++,c++
+2851077,Lightning-Browser,"Brooklyn, NY",1174,Java,java
+85938,markdown-resume,"Albuquerque, NM",1173,PHP,php
+22513,Kal,San Francisco,1173,Objective-C,objective-c
+31632937,Freddy,"Atlanta, GA, USA",1172,Swift,swift
+66136,stripe-php,"San Francisco, CA",1170,PHP,php
+6041,job-dsl-plugin,"Santa Clara, CA",1168,Groovy,groovy
+1937275,vigil,"Seattle, WA",1168,Python,python
+3859937,busboy,Ohio,1168,JavaScript,javascript
+771049,c-algorithms,"Cambridge, MA",1167,C,c
+2306335,artoo,"Los Angeles, CA",1167,Ruby,ruby
+19455704,samples,"Seattle, WA",1167,C,c
+21314151,brubeck,"San Francisco, CA",1167,C,c
+44660725,whatsapp,"Austin, TX",1167,JavaScript,javascript
+27029502,webpack-visualizer,San Antonio,1167,JavaScript,javascript
