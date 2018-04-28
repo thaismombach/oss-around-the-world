@@ -805,7 +805,7 @@ function popularityData() {
   for(var i = 0; i < 6; i++) { 
     div = document.createElement('div');
     div.setAttribute('id', 'div_'+i);
-    div.setAttribute('style', 'overflow:auto')
+    div.style.overflow = 'auto';
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
