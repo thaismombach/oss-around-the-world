@@ -542,7 +542,7 @@ function popularityChart(file_name, div_num, country_name, div_i) {
               return array[Math.floor(length / 2)];
             }
           }
-          var height = div_height*0.8;
+          var height = div_height*0.75;
           var width = div_width*0.15;
           var options = {
               title: country_name,
@@ -577,8 +577,6 @@ function popularityChart(file_name, div_num, country_name, div_i) {
           // document.getElementById('download_button').style.display = "inline";
           console.log('div_'+div_num);
           var div = document.getElementById('div_'+div_num);
-          div.style.width = "100px";
-          div.style.height = "100px";
           div.style.display = "table-cell";
           
           var chart = new google.visualization.LineChart(div);
