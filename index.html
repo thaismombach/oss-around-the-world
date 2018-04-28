@@ -12,7 +12,7 @@ body {
     font-family: "Lato", sans-serif;
 }
 
-.sidenav {
+/*.sidenav {
     height: 100%;
     width: 180px;
     position: fixed;
@@ -37,33 +37,101 @@ body {
 }
 
 .main {
-    margin-left: 180px; /* Same as the width of the sidenav */
-    padding: 0px 10px;
+    /*margin-left: 10px;  Same as the width of the sidenav 
+    margin-right: 10px;*/
+    /*padding: 0px 10px;*/
+    /*width: 100%; 
+    height: 80%;*/
+/*}*/
+/*.navbar { 
+    z-index:999;
+    margin-bottom: 0px;
+    position: fixed; /* Set the navbar to fixed position */
+    /*top: 0; /* Position the navbar at the top of the page */
+    /*width: 100%; /* Full width */
+/*}*/
+#main_div1 {
+    /*position: absolute;*/
+    /*top: 15;*/
+    background:#f4f4f4;
 }
 
-@media screen and (max-height: 450px) {
+/*#main_div2 {
+    position: absolute;
+    top: 50;
+}*/
+
+#main_div3 {
+    /*position: absolute;*/
+    /*top: 50;*/
+    background:#f4f4f4;
+}
+/*@media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
-}
+}*/
 </style>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 </head>
 <body>
+<nav class="navbar navbar-inverse navbar-fixed-top" id='navbar'>
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">OSS Around the World</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="test"><a class="goSmoothly" href="#main_div">Home</a></li>
+      <li class="test"><a class="goSmoothly" href="#main_div1">Projects</a></li>
+      <li class="test"><a class="goSmoothly" href="#main_div2">Popularity</a></li>
+      <li class="test"><a class="goSmoothly" href="#main_div3">Programming Languages</a></li>
+    </ul>
+  </div>
+</nav>
 
-
-<div class="sidenav">
+<!-- <div class="sidenav">
   <a>About</a>
   <a onclick='projectsData()'>Projects</a>
   <a onclick='popularityData()'>Popularity</a>
   <a onclick='languageData()'>Programming Languages</a>
   <a onclick='coreDevData()'>Core Developers</a>
+</div> -->
+<div id="main_div">
+    <h1 style="top:30">1OSS Around the World</h1>
+    <h1 style="text-align:center">OSS Around the World</h1>
+</div>
+<div id="main_div1">
+</div>
+<div id="main_div2">
+</div>
+<div id="main_div3">
 </div>
 
-<div class="main" id="main_div">
+<script type="text/javascript">
+    document.getElementById("main_div").setAttribute("style",("height:"+window.innerHeight+"px"));
+    projectsData(); 
+    popularityData();
+    languageData();
 
-</div>
-     
+    $(window).scroll(function() {
+        var currentScroll = $(window).scrollTop();
+    });
+
+    $('.goSmoothly').click(function(event){ 
+        event.preventDefault();
+        $(this).addClass('active');
+        
+        $('html,body').animate({
+            scrollTop: $(this.hash).offset().top - 55
+        }, 500);    
+        window.location = event[target][hash];
+    });
+
+    $('.test').click(function(event){ 
+        $("li").removeClass("active");
+        $(this).addClass('active');
+    });
+</script>   
 </body>
 </html> 

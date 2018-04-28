@@ -250,31 +250,34 @@ var code_to_name = {
     'ZW' : 'Zimbabwe'
   };
 
-function createPageBasics() { 
-  var dvMain = document.getElementById('main_div');
-  var dvElements = '<select id="top20_countries" style="display:none"></select><button id="confirm_button" style="display:none">Generate Charts</button>';
-  dvElements += '<div id="chart_div" style="width: 100%; height: 75vh; display: table;"></div>';
+var div_height, div_width;
+
+function createPageBasics(i) { 
+  var dvMain = document.getElementById('main_div'+i);
+  var dvElements = '<h1 id="page_header'+i+'"></h1><p id="page_explanation'+i+'"></p>'; 
+  dvElements += '<select id="top20_countries'+i+'" style="display:none"></select><button id="confirm_button'+i+'" style="display:none">Generate Charts</button>';
+  dvElements += '<div id="chart_div'+i+'" style="width: 100%; height: 80%;"></div>';
   // dvElements += '<form method="get" id ="download_file"><button id="download_button" type="submit" style="display:none">Download</button></form>';
-  dvElements += '<div id="table_div"></div>';
+  dvElements += '<div id="table_div'+i+'"></div>';
   dvMain.innerHTML = dvElements; 
 
 }
-function createDataTable(arrayData) {
-  var table = "<table class='table table-striped' id='table_data'><thread><tr>"; 
+function createDataTable(arrayData, div_i) {
+  var table = "<table class='table table-striped' id='table_data"+div_i+"'><thread><tr>"; 
   var i; 
   for(i=0;i<arrayData.length;i++){
-   table+= "<th onclick='sortTable(" + i + ")'>";
+   table+= "<th onclick='sortTable(" + i + "," + div_i + ")'>";
    table+= arrayData[i];
    table+= "</th>";
   }
-  table += "</tr></thread><tbody id='table_body'>"; 
+  table += "</tr></thread><tbody id='table_body"+div_i+"'>"; 
   table+= "</tbody></table>";
-  var dvTable = document.getElementById('table_div');
+  var dvTable = document.getElementById('table_div'+div_i);
   dvTable.innerHTML = table;
 }
 
-function insertDataOnTable(arrayData) { 
-  var table_body = document.getElementById('table_body');
+function insertDataOnTable(arrayData, div_i) { 
+  var table_body = document.getElementById('table_body'+div_i);
   // console.log(table_body);
   for (i=0; i<arrayData.length; i++){
       var tr = document.createElement('tr');   
@@ -289,9 +292,9 @@ function insertDataOnTable(arrayData) {
   }
 }
 
-function sortTable(n) {
+function sortTable(n, div_i) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("table_data");
+  table = document.getElementById("table_data"+div_i);
   switching = true;
   //Set the sorting direction to ascending:
   dir = "asc"; 
@@ -355,7 +358,7 @@ function sortTable(n) {
 /*
     Function to draw chart to show the number of project per country
 */
-function projectsChart() { 
+function projectsChart(div_i) { 
 
   // document.getElementById('download_file').action = "projects_per_country.csv"; 
 
@@ -398,14 +401,16 @@ function projectsChart() {
           // document.getElementById('download_button').style.display = "inline";
           var data = new google.visualization.arrayToDataTable(dataTable);
           // console.log(data);
-          var options = {};
+          var options = {
+            backgroundColor: '#f4f4f4'
+          };
 
-          var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+          var chart = new google.visualization.GeoChart(document.getElementById('chart_div'+div_i));
 
           chart.draw(data, options);
 
-          createDataTable(dataTable[0]);
-          insertDataOnTable(dataTable.slice(1));
+          // createDataTable(['Country', 'Number of Projects']);
+          // insertDataOnTable(dataTable.slice(1));
     }
   });
 }
@@ -415,7 +420,7 @@ function projectsChart() {
 /*
     Function to draw popularity chart
 */
-function popularityChart(file_name, div_num, country_name) { 
+function popularityChart(file_name, div_num, country_name, div_i) { 
     // document.getElementById('download_file').action = file_name; 
 
     google.charts.load('current', {'packages':['corechart']});
@@ -488,7 +493,7 @@ function popularityChart(file_name, div_num, country_name) {
               var thirdQuartile = getMedian(arr.slice(midLower));
 
               var arr_result = []
-              arr_result[0] = 'num_watchers'; 
+              arr_result[0] = 'Stars'; 
               var begin = firstQuartile-1.5*(thirdQuartile-firstQuartile);
               var end = thirdQuartile+1.5*(thirdQuartile -firstQuartile); 
               for(var j = 0; j < arr.length; j++){
@@ -537,11 +542,12 @@ function popularityChart(file_name, div_num, country_name) {
               return array[Math.floor(length / 2)];
             }
           }
-
+          var height = div_height*0.8;
+          var width = div_width*0.15;
           var options = {
               title: country_name,
-              height: 500,
-              width: 200,
+              height: height,
+              width: width,
               legend: {position: 'none'},
               hAxis: {
                 gridlines: {color: '#fff'}
@@ -569,21 +575,21 @@ function popularityChart(file_name, div_num, country_name) {
           };
 
           // document.getElementById('download_button').style.display = "inline";
-          var div = document.createElement('div_'+div_num);
+          console.log('div_'+div_num);
+          var div = document.getElementById('div_'+div_num);
           div.style.width = "100px";
           div.style.height = "100px";
           div.style.display = "table-cell";
           
           var chart = new google.visualization.LineChart(div);
 
-          document.getElementById("chart_div").appendChild(div);
           chart.draw(data, options);
 
-          if(div_num === 0) {
-            createDataTable(arrayData[0]);
-          }
+          // if(div_num === 0) {
+          //   createDataTable(arrayData[0]);
+          // }
 
-          insertDataOnTable(arrayData.slice(1));
+          // insertDataOnTable(arrayData.slice(1));
         }
       });
     }
@@ -592,7 +598,7 @@ function popularityChart(file_name, div_num, country_name) {
 /*
     Function to draw programming language chart 
 */
-function programmingLanguagesChart(file_name) {
+function programmingLanguagesChart(file_name, div_i) {
     // document.getElementById('download_file').action = file_name;
     google.charts.load("current", {packages:['corechart']});
     google.charts.setOnLoadCallback(drawChart);
@@ -649,16 +655,17 @@ function programmingLanguagesChart(file_name) {
 
       var options = {
         title: "Popular Languages",
+        backgroundColor: '#f4f4f4',
         // width: 1100,
         bar: {groupWidth: "95%"},
         legend: { position: "none" },
       };
 
       // document.getElementById('download_button').style.display = "inline";
-      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'+div_i));
       chart.draw(view, options);
-      createDataTable(arrayData[0]);
-      insertDataOnTable(arrayData.slice(1));
+      // createDataTable(arrayData[0]);
+      // insertDataOnTable(arrayData.slice(1));
   }
   });
 }
@@ -699,7 +706,7 @@ function programmingLanguagesChart(file_name) {
 /*
     Generate option with top 20 contries
 */
-function top20CountriesOptions() {
+function top20CountriesOptions(div_i) {
   $.ajax({
        type: "GET",  
        url: "data/projects_per_country_code.csv",
@@ -709,7 +716,7 @@ function top20CountriesOptions() {
           arrayData = $.csv.toArrays(response);
           var i; 
 
-          var dvTable = document.getElementById('top20_countries');
+          var dvTable = document.getElementById('top20_countries'+div_i);
 
           for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
             var option = document.createElement("option");
@@ -724,66 +731,101 @@ function top20CountriesOptions() {
 /*
     Functions to update chart for different countries (popularity and programming languages)
 */
-function updatePopularityChart(){ 
-  var countries_code = $('#top20_countries').val();
-  if(countries_code.length > 5) { 
-    alert('Cannot select more than 5 countries.');
+function updatePopularityChart(div_i){ 
+  var countries_code = $('#top20_countries'+div_i).val();
+  if(countries_code.length > 6) { 
+    alert('Cannot select more than 6 countries.');
   }
   else { 
     // document.getElementById('download_button').style.display = "none";
-    document.getElementById("chart_div").innerHTML = "";
-    document.getElementById("table_div").innerHTML = ""
+    // document.getElementById("chart_div"+div_i).innerHTML = "";
+    document.getElementById("table_div"+div_i).innerHTML = ""
+    var div; 
+    for(var i = 0; i < 6; i++) { 
+      document.getElementById("div_"+i).innerHTML = "";
+      // div = document.createElement('div');
+      // div.setAttribute('id', 'div_'+i);
+      // document.getElementById("chart_div"+div_i).appendChild(div);
+    }
     // console.log(countries_code);
     countries_code.forEach(function(code, i){
       var file_name = 'data/github_data_code_' + code.toLowerCase() + '.csv'; 
-      popularityChart(file_name, i, code_to_name[code.toUpperCase()]);
+      popularityChart(file_name, i, code_to_name[code.toUpperCase()], div_i);
     });
   }
   
 }
 
-function updateLanguageChart(){
-  var country_code = document.getElementById('top20_countries').value;
+function updateLanguageChart(div_i){
+  var country_code = document.getElementById('top20_countries'+div_i).value;
   var file_name = 'data/github_data_code_' + country_code.toLowerCase() + '.csv';
 
-  programmingLanguagesChart(file_name);
+  programmingLanguagesChart(file_name, div_i);
 }
 
 /*
     Functions to handle different data
 */
-function projectsData() { 
-  document.getElementById("main_div").innerHTML = "";
-  createPageBasics();
 
-  document.getElementById('top20_countries').style.display = "none";
-  // document.getElementById('download_button').style.display = "none";
-  projectsChart();
+function projectsData() { 
+  var div_i = 1; 
+  document.getElementById("main_div"+div_i).innerHTML = "";
+  div_height = window.innerHeight - document.getElementById('navbar').clientHeight;
+  div_width = window.innerWidth;
+  document.getElementById("main_div"+div_i).setAttribute("style",("height:"+div_height+"px"));
+  createPageBasics(div_i);
+  document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
+  document.getElementById("page_header"+div_i).style.textAlign = "center";
+  document.getElementById("page_explanation"+div_i).style.marginBottom = 20 + 'px';
+  document.getElementById("page_header"+div_i).innerHTML = "Number of Projects per Country";
+  document.getElementById('top20_countries'+div_i).style.display = "none";
+  // document.getElementById("main_div1").style.display = "none";
+  projectsChart(div_i);
 }
 
 function popularityData() {
-  document.getElementById("main_div").innerHTML = "";
-  createPageBasics();
-  document.getElementById('top20_countries').style.display = "inline";
-  document.getElementById('confirm_button').style.display = "inline";
+  var div_i = 2;
+  document.getElementById("main_div"+div_i).innerHTML = "";
+  document.getElementById("main_div"+div_i).setAttribute("style",("height:"+div_height+"px"));
+  createPageBasics(div_i);
+  document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
+  document.getElementById("page_header"+div_i).style.textAlign = "center";
+  document.getElementById("page_header"+div_i).style.marginTop = '0px';
+  document.getElementById("page_header"+div_i).innerHTML = "Compare Star Variation per Country";
+  document.getElementById('top20_countries'+div_i).style.display = "inline";
+  document.getElementById('confirm_button'+div_i).style.display = "inline";
   // document.getElementById('download_button').style.display = "none"; 
-  document.getElementById('top20_countries').multiple = true;
-  top20CountriesOptions();
+  document.getElementById('top20_countries'+div_i).multiple = true;
+  top20CountriesOptions(div_i); 
   
-  document.getElementById('confirm_button').onclick = function() { 
-    updatePopularityChart();
+  document.getElementById('confirm_button'+div_i).onclick = function() { 
+    updatePopularityChart(div_i);
   };    
+  
+  for(var i = 0; i < 6; i++) { 
+    div = document.createElement('div');
+    div.setAttribute('id', 'div_'+i);
+    document.getElementById("chart_div"+div_i).appendChild(div);
+  }
+
+  popularityChart('data/github_data_code_cn.csv', 0, code_to_name['CN']);
 }
 
 function languageData() { 
-  document.getElementById("main_div").innerHTML = "";
-  createPageBasics();
-
-  document.getElementById('top20_countries').style.display = "inline";
+  var div_i = 3;
+  document.getElementById("main_div"+div_i).innerHTML = "";
+  document.getElementById("main_div"+div_i).setAttribute("style",("height:"+div_height+"px"));
+  createPageBasics(div_i);
+  document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
+  document.getElementById("page_header"+div_i).style.textAlign = "center";
+  document.getElementById("page_header"+div_i).style.marginTop = '0px';
+  document.getElementById("page_header"+div_i).innerHTML = "Popular Programming Languages per Country";
+  document.getElementById('top20_countries'+div_i).style.display = "inline";
   // document.getElementById('download_button').style.display = "none";
-  document.getElementById('top20_countries').multiple = false;
-  top20CountriesOptions();
-  document.getElementById('top20_countries').onchange = function() { 
-    updateLanguageChart();
+  document.getElementById('top20_countries'+div_i).multiple = false;
+  top20CountriesOptions(div_i);
+  document.getElementById('top20_countries'+div_i).onchange = function() { 
+    updateLanguageChart(div_i);
   };    
+  programmingLanguagesChart('data/github_data_code_cn.csv', div_i);
 }
