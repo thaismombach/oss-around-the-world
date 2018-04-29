@@ -542,10 +542,14 @@ function popularityChart(file_name, div_num, country_name, div_i) {
               return array[Math.floor(length / 2)];
             }
           }
-          // var height = div_height*0.75;
+          var height = document.getElementById('chart_div'+div_i).clientHeight * 0.95;
           // var width = div_width*0.15;
           var options = {
               title: country_name,
+              x: 0, 
+              y: 0,
+              height: height,
+              chartArea: {width: '60%', height: '70%'},
               legend: {position: 'none'},
               hAxis: {
                 gridlines: {color: '#fff'}
@@ -704,7 +708,7 @@ function programmingLanguagesChart(file_name, div_i) {
 function top20CountriesOptions(div_i) {
   $.ajax({
        type: "GET",  
-       url: "data/projects_per_country_code.csv",
+       url: "https://thaismombach.github.io/oss-around-the-world/data/projects_per_country_code.csv",
        dataType: "text",       
        success: function(response)  
        {
@@ -787,9 +791,9 @@ function popularityData() {
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
   document.getElementById("page_header"+div_i).innerHTML = "Compare Star Variation per Country";
+  // document.getElementById('download_button').style.display = "none";
   document.getElementById('top20_countries'+div_i).style.display = "inline";
-  document.getElementById('confirm_button'+div_i).style.display = "inline";
-  // document.getElementById('download_button').style.display = "none"; 
+  document.getElementById('confirm_button'+div_i).style.display = "inline"; 
   document.getElementById('top20_countries'+div_i).multiple = true;
   top20CountriesOptions(div_i); 
   
@@ -803,10 +807,11 @@ function popularityData() {
     div.style.display = "inline-table";
     div.style.height = '100%';
     div.style.width = '20%';
+    div.style.verticalAlign="top"; 
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
-  popularityChart('data/github_data_code_cn.csv', 0, code_to_name['CN']);
+  popularityChart('https://thaismombach.github.io/oss-around-the-world/data/github_data_code_cn.csv', 0, code_to_name['CN'],div_i);
 }
 
 function languageData() { 
