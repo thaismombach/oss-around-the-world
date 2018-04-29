@@ -542,12 +542,10 @@ function popularityChart(file_name, div_num, country_name, div_i) {
               return array[Math.floor(length / 2)];
             }
           }
-          var height = div_height*0.75;
-          var width = div_width*0.15;
+          // var height = div_height*0.75;
+          // var width = div_width*0.15;
           var options = {
               title: country_name,
-              height: height,
-              width: width,
               legend: {position: 'none'},
               hAxis: {
                 gridlines: {color: '#fff'}
@@ -577,7 +575,6 @@ function popularityChart(file_name, div_num, country_name, div_i) {
           // document.getElementById('download_button').style.display = "inline";
           console.log('div_'+div_num);
           var div = document.getElementById('div_'+div_num);
-          div.style.display = "table-cell";
           
           var chart = new google.visualization.LineChart(div);
 
@@ -731,15 +728,15 @@ function top20CountriesOptions(div_i) {
 */
 function updatePopularityChart(div_i){ 
   var countries_code = $('#top20_countries'+div_i).val();
-  if(countries_code.length > 6) { 
-    alert('Cannot select more than 6 countries.');
+  if(countries_code.length > 5) { 
+    alert('Cannot select more than 5 countries.');
   }
   else { 
     // document.getElementById('download_button').style.display = "none";
     // document.getElementById("chart_div"+div_i).innerHTML = "";
     document.getElementById("table_div"+div_i).innerHTML = ""
     var div; 
-    for(var i = 0; i < 6; i++) { 
+    for(var i = 0; i < 5; i++) { 
       document.getElementById("div_"+i).innerHTML = "";
       // div = document.createElement('div');
       // div.setAttribute('id', 'div_'+i);
@@ -800,10 +797,12 @@ function popularityData() {
     updatePopularityChart(div_i);
   };    
 
-  for(var i = 0; i < 6; i++) { 
+  for(var i = 0; i < 5; i++) { 
     div = document.createElement('div');
     div.setAttribute('id', 'div_'+i);
-    div.style.overflow = 'auto';
+    div.style.display = "inline-table";
+    div.style.height = '100%';
+    div.style.width = '20%';
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
