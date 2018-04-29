@@ -708,7 +708,7 @@ function programmingLanguagesChart(file_name, div_i) {
 function top20CountriesOptions(div_i) {
   $.ajax({
        type: "GET",  
-       url: "https://thaismombach.github.io/oss-around-the-world/data/projects_per_country_code.csv",
+       url: "data/projects_per_country_code.csv",
        dataType: "text",       
        success: function(response)  
        {
@@ -811,7 +811,7 @@ function popularityData() {
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
-  popularityChart('https://thaismombach.github.io/oss-around-the-world/data/github_data_code_cn.csv', 0, code_to_name['CN'],div_i);
+  popularityChart('data/github_data_code_cn.csv', 0, code_to_name['CN'],div_i);
 }
 
 function languageData() { 
