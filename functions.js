@@ -562,6 +562,13 @@ function popularityChart(file_name, div_num, country_name, div_i) {
                 lineWidth: 2,
                 style: 'boxes'
               },
+              vAxis: {
+                  viewWindowMode:'explicit',
+                  viewWindow: {
+                    max:10000,
+                    min:500
+                  }
+              },
               interval: {
                 max: {
                   style: 'bars',
@@ -673,34 +680,84 @@ function programmingLanguagesChart(file_name, div_i) {
 /*
     TODO: CORE DEVELOPERS INFO
 */
-// function coreDevelopersChart() { 
-  // google.charts.load("current", {packages:["corechart"]});
-  // google.charts.setOnLoadCallback(drawChart);
-  // function drawChart() {
-  //   var data = google.visualization.arrayToDataTable([
-  //       ['Genre', 'Fantasy & Sci Fi', 'Romance', 'Mystery/Crime', 'General',
-  //        'Western', 'Literature', { role: 'annotation' } ],
-  //       ['2010', 10, 24, 20, 32, 18, 5, ''],
-  //       ['2020', 16, 22, 23, 30, 16, 9, ''],
-  //       ['2030', 28, 19, 29, 30, 12, 13, '']
-  //     ]);
+function coreDevelopersChart(div_i) { 
+  google.charts.load("current", {packages:["corechart"]});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+    var top20_countries = []; 
+    $.ajax({
+       type: "GET",  
+       url: "data/projects_per_country_code.csv",
+       dataType: "text",
+       async: false,       
+       success: function(response)  
+       {
+          arrayData = $.csv.toArrays(response);
+          var i; 
+          for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
+            top20_countries.push(arrayData[i][0]);
+          }
+       }
+    });
+
+    var arrayDataChart = [['Genre', 'Domestic', 'International', 'Undefined']];
+      console.log(top20_countries.length);
+      console.log(top20_countries[3]);
+      var callback = 0; 
+      top20_countries.forEach(function(country_code){
+        console.log(country_code);
+        $.ajax({
+         type: "GET",  
+         url: "data/core_dev_"+country_code+".csv",
+         dataType: "text", 
+         async: false,      
+         success: function(response)  
+         {
+            arrayData1 = $.csv.toArrays(response);
+            var i; 
+
+            var projectType = 1; 
+            var ant = arrayData1[0][0]; 
+            var quant = [country_code, 0, 0, 0];
+
+            for(i = 0; i < arrayData1.length; i++) {
+              if(ant != arrayData1[i][0]) {
+                quant[projectType]++; 
+                projectType = 1
+                ant = arrayData1[i][0];  
+              }
+
+              if(arrayData1[i][2].length == 0) {
+                projectType = 3;  
+              }
+              else if(arrayData1[i][2] != country_code){ 
+                projectType = 2; 
+              }
+            }
+            console.log(quant)
+            arrayDataChart.push(quant); 
+            callback++; 
+          }
+        });
+      });  
+
+      console.log(arrayDataChart)
+      var data = google.visualization.arrayToDataTable(arrayDataChart);
 
 
-  //   var view = new google.visualization.DataView(data);
+      var view = new google.visualization.DataView(data);
+      var height = document.getElementById('chart_div'+div_i).clientHeight * 0.95;
 
-  //   var options = {
-  //         isStacked: 'percent',
-  //         height: 300,
-  //         legend: {position: 'top', maxLines: 3},
-  //         hAxis: {
-  //           minValue: 0,
-  //           ticks: [0, .3, .6, .9, 1]
-  //         }
-  //       };
-  //   var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
-  //     chart.draw(view, options);
-  // }
-// }
+      var options = {
+            isStacked: 'percent',
+            height: height,
+            legend: {position: 'top'}, 
+            bar: {groupWidth: "75%"}
+          };
+      var chart = new google.visualization.BarChart(document.getElementById("chart_div"+div_i));
+        chart.draw(view, options);
+  }
+}
 
 /*
     Generate option with top 20 contries
@@ -831,4 +888,19 @@ function languageData() {
     updateLanguageChart(div_i);
   };    
   programmingLanguagesChart('data/github_data_code_cn.csv', div_i);
+}
+
+function coreDevelopersData() { 
+  var div_i = 4;
+  document.getElementById("main_div"+div_i).innerHTML = "";
+  document.getElementById("main_div"+div_i).setAttribute("style",("height:"+div_height+"px"));
+  createPageBasics(div_i);
+  document.getElementById("chart_div"+div_i).setAttribute("style",("height:100%")); 
+  document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
+  document.getElementById("page_header"+div_i).style.textAlign = "center";
+  document.getElementById("page_header"+div_i).style.marginTop = '0px';
+  document.getElementById("page_header"+div_i).innerHTML = "Core Developers per Country";
+  document.getElementById('top20_countries'+div_i).style.display = "none";
+  
+  coreDevelopersChart(div_i);
 }

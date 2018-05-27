@@ -86,6 +86,7 @@ body {
       <li class="test"><a class="goSmoothly" href="#main_div1">Projects</a></li>
       <li class="test"><a class="goSmoothly" href="#main_div2">Popularity</a></li>
       <li class="test"><a class="goSmoothly" href="#main_div3">Programming Languages</a></li>
+      <li class="test"><a class="goSmoothly" href="#main_div4">Core Developers</a></li>
     </ul>
   </div>
 </nav>
@@ -107,12 +108,14 @@ body {
 </div>
 <div id="main_div3">
 </div>
-
+<div id="main_div4">
+</div>
 <script type="text/javascript">
     document.getElementById("main_div").setAttribute("style",("height:"+window.innerHeight+"px"));
     projectsData(); 
     popularityData();
     languageData();
+    coreDevelopersData();
 
     $(window).scroll(function() {
         var currentScroll = $(window).scrollTop();
