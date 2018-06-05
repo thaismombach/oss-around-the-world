@@ -381,7 +381,7 @@ function projectsChart(div_i) {
           arrayData = $.csv.toArrays(response); 
           var i, new_end = 0, headers; 
           var dataTable = []; 
-          dataTable[0] = arrayData[0];
+          dataTable[0] = ["Country","Number of Projects"];
           arrayData.reverse();
           // console.log(arrayData);
           for(i = 1; i < arrayData.length; i++) {
@@ -402,7 +402,8 @@ function projectsChart(div_i) {
           var data = new google.visualization.arrayToDataTable(dataTable);
           // console.log(data);
           var options = {
-            backgroundColor: '#f4f4f4'
+            backgroundColor: '#f4f4f4', 
+            colorAxis: {colors: ['#cedee0', '#84c6ce', '#70c5d1', '#18b3c9']}
           };
 
           var chart = new google.visualization.GeoChart(document.getElementById('chart_div'+div_i));
@@ -555,12 +556,13 @@ function popularityChart(file_name, div_num, country_name, div_i) {
                 gridlines: {color: '#fff'}
               },
               lineWidth: 0,
-              series: [{'color': '#D3362D'}],
+              series: [{'color': '#0A555C'}],
               intervals: {
                 barWidth: 1,
                 boxWidth: 1,
                 lineWidth: 2,
-                style: 'boxes'
+                style: 'boxes', 
+                color: '#0A555C'
               },
               vAxis: {
                   viewWindowMode:'explicit',
@@ -573,12 +575,12 @@ function popularityChart(file_name, div_num, country_name, div_i) {
                 max: {
                   style: 'bars',
                   fillOpacity: 1,
-                  color: '#777'
+                  color: '#0A555C'
                 },
                 min: {
                   style: 'bars',
                   fillOpacity: 1,
-                  color: '#777'
+                  color: '#0A555C'
                 }
               }
           };
@@ -660,11 +662,11 @@ function programmingLanguagesChart(file_name, div_i) {
       view.setColumns([0, 1]);
 
       var options = {
-        title: "Popular Languages",
         backgroundColor: '#f4f4f4',
         // width: 1100,
         bar: {groupWidth: "95%"},
         legend: { position: "none" },
+        colors: ['#3E606F']
       };
 
       // document.getElementById('download_button').style.display = "inline";
@@ -718,7 +720,7 @@ function coreDevelopersChart(div_i) {
 
             var projectType = 1; 
             var ant = arrayData1[0][0]; 
-            var quant = [country_code, 0, 0, 0];
+            var quant = [code_to_name[country_code.toUpperCase()], 0, 0, 0];
 
             for(i = 0; i < arrayData1.length; i++) {
               if(ant != arrayData1[i][0]) {
@@ -752,7 +754,8 @@ function coreDevelopersChart(div_i) {
             isStacked: 'percent',
             height: height,
             legend: {position: 'top'}, 
-            bar: {groupWidth: "75%"}
+            bar: {groupWidth: "75%"}, 
+            colors: ['#72A7A3', '#417378', '#0A555C']
           };
       var chart = new google.visualization.BarChart(document.getElementById("chart_div"+div_i));
         chart.draw(view, options);
