@@ -753,7 +753,9 @@ function coreDevelopersChart(div_i) {
       var options = {
             isStacked: 'percent',
             height: height,
-            legend: {position: 'top'}, 
+            legend: {position: 'top', 
+                     textStyle:{fontSize:12}}, 
+            vAxis: {textStyle:{fontSize:12}},
             bar: {groupWidth: "75%"}, 
             colors: ['#72A7A3', '#417378', '#0A555C']
           };
