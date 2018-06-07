@@ -12,64 +12,20 @@ body {
     font-family: "Lato", sans-serif;
 }
 
-/*.sidenav {
-    height: 100%;
-    width: 180px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #f1f1f1;
-    overflow-x: hidden;
-    padding-top: 20px;
+
+.container div {
+  display: inline-block;
+  font-family: 'Courier New';
 }
 
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-}
-
-.sidenav a:hover {
-    color: #337ab7;
-}
-
-.main {
-    /*margin-left: 10px;  Same as the width of the sidenav 
-    margin-right: 10px;*/
-    /*padding: 0px 10px;*/
-    /*width: 100%; 
-    height: 80%;*/
-/*}*/
-/*.navbar { 
-    z-index:999;
-    margin-bottom: 0px;
-    position: fixed; /* Set the navbar to fixed position */
-    /*top: 0; /* Position the navbar at the top of the page */
-    /*width: 100%; /* Full width */
-/*}*/
 #main_div1 {
-    /*position: absolute;*/
-    /*top: 15;*/
     background:#f4f4f4;
 }
-
-/*#main_div2 {
-    position: absolute;
-    top: 50;
-}*/
 
 #main_div3 {
-    /*position: absolute;*/
-    /*top: 50;*/
     background:#f4f4f4;
 }
-/*@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}*/
+
 </style>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -103,12 +59,87 @@ body {
     <h1 style="text-align:center">OSS Around the World</h1>
 </div>
 <div id="main_div1">
+    <div class="container" style="width: 100%; height: 10%; align-items: center;">
+        <h1 id="page_header1"></h1>
+    </div>
+    <div class="container" style="width: 100%; height: 90%; align-items: center;">
+        <div id="chart_div1" style="width: 70%; height: 100%; float: left;"></div>
+        <div id="text_div1" style="width: 30%; height: 100%; float: right;">
+            <div style="position: relative; top: 50%; transform: translateY(-50%); text-align: justify; margin-left: 10%">
+                <p>
+                    This chart shows the distribution of selected OSS projects around the world. The location of each project was defined according to the location of its owner. 
+                </p>
+                <p> 
+                    United States has the largest number of projects (1,690 projects, 42\%), which is three times greater than China, that is the second with 514 projects.
+                </p>
+                <p> 
+                    Check out the number of projects for each country by placing the mouse on top of them.  
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 <div id="main_div2">
+    <div class="container" style="width: 100%; height: 10%; align-items: center;">
+        <h1 id="page_header2"></h1>
+    </div>
+    <div class="container" style="width: 100%; height: 90%; align-items: center;">
+        <div id="chart_div2" style="width: 70%; height: 100%; align-items: center;"></div>
+        <div id="text_div2" style="width: 30%; height: 100%; float: right;">
+            <div style="position: relative; top: 50%; transform: translateY(-50%); text-align: justify; margin-left: 10%;">
+                <div style="margin-bottom: 10%">
+                    <select id="top20_countries2" multiple=""></select>
+                    <button id="confirm_button2" style="position: relative;">Generate Charts</button>
+                </div>
+                <p>
+                    This chart presents the distribution of the number of stars for the projects in each studied country. 
+                </p>
+                <p> 
+                    Check out the distribution of the number of stars for the projects for each country by selecting it from the box above (up to 3 at a time).  
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 <div id="main_div3">
+    <div class="container" style="width: 100%; height: 10%; align-items: center;">
+        <h1 id="page_header3"></h1>
+    </div>
+    <div class="container" style="width: 100%; height: 90%;">
+        <div id="chart_div3" style="width: 70%; height: 100%; float: left;"></div>
+        <div id="text_div3" style="width: 30%; height: 100%; float: right;">
+            <div style="position: relative; top: 50%; transform: translateY(-50%); text-align: justify; margin-left: 10%;">
+                <select id="top20_countries3" style="margin-bottom: 10%"></select>
+                <p>
+                    This chart shows the top-10 most popular programming languages for each country, i.e., for each country we computed the primary programming language of its projects. 
+                </p>
+                <p> 
+                    Check out the top-10 most popular programming languages for each country by selecting it from the box above.  
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 <div id="main_div4">
+    <div class="container" style="width: 100%; height: 10%; align-items: center;">
+        <h1 id="page_header4"></h1>
+    </div>
+    <div class="container" style="width: 100%; height: 90%;">
+        <div id="chart_div4" style="width: 70%; height: 100%; float: left;"></div>
+        <div id="text_div4" style="width: 30%; height: 100%; float: right;">
+            <div style="position: relative; top: 50%; transform: translateY(-50%); text-align: justify; margin-left: 10%;">
+                <p>
+                    The projects of each country were classified in three groups: (a) <i>domestic projects</i>, when all core developers are from the same country of the project owner; (b) <i>international projects</i>, when at least one core developer is from a country distinct from the project owner; (c) <i>undefined</i>, when it is not possible to infer the country of at least one of the core developers and the remaining developers are from the same country of the project owner. 
+                </p>
+                <p> 
+                    The chart shows the distribution of projects in the proposed categories, for each country.  
+                </p>
+                <p> 
+                    Check out the percentage of projects in each group for each country by placing the mouse on top of the corresponding bar. 
+                </p>
+            </div>
+        </div>
+    </div>
 </div>
 <script type="text/javascript">
     document.getElementById("main_div").setAttribute("style",("height:"+window.innerHeight+"px"));
