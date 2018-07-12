@@ -840,7 +840,7 @@ function popularityData() {
   document.getElementById("main_div"+div_i).setAttribute("style",("height:"+div_height+"px"));
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
-  document.getElementById("page_header"+div_i).innerHTML = "Compare Star Variation per Country";
+  document.getElementById("page_header"+div_i).innerHTML = "Number of Stars per Country";
 
   top20CountriesOptions(div_i); 
   
@@ -887,7 +887,7 @@ function coreDevelopersData() {
   document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
-  document.getElementById("page_header"+div_i).innerHTML = "Core Developers per Country";
+  document.getElementById("page_header"+div_i).innerHTML = "Domestic vs International Projects per Country";
   
   coreDevelopersChart(div_i);
 }
