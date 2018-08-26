@@ -1,0 +1,3 @@
+owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
+stamparm,maltrail,stamparm/maltrail,2604,"Zagreb, Croatia",hr,"Python,JavaScript,CSS,HTML,Shell,Dockerfile",Python,1739,https://api.github.com/users/stamparm,https://api.github.com/repos/stamparm/maltrail/languages,https://api.github.com/repos/stamparm/maltrail/contributors
+dmilicic,Android-Clean-Boilerplate,dmilicic/Android-Clean-Boilerplate,1989,Croatia,hr,Java,Java,17,https://api.github.com/users/dmilicic,https://api.github.com/repos/dmilicic/Android-Clean-Boilerplate/languages,https://api.github.com/repos/dmilicic/Android-Clean-Boilerplate/contributors

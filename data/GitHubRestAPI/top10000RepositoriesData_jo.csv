@@ -1,0 +1,2 @@
+owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
+faressoft,terminalizer,faressoft/terminalizer,5284,"Jordan, Amman",jo,"JavaScript,CSS,HTML",JavaScript,70,https://api.github.com/users/faressoft,https://api.github.com/repos/faressoft/terminalizer/languages,https://api.github.com/repos/faressoft/terminalizer/contributors

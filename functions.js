@@ -250,6 +250,7 @@ var code_to_name = {
     'ZW' : 'Zimbabwe'
   };
 
+var chosenAPI = 'GHTorrent';
 var div_height, div_width;
 
 // function createPageBasics(i) { 
@@ -262,6 +263,11 @@ var div_height, div_width;
 //   dvMain.innerHTML = dvElements; 
 
 // }
+
+function changeChosenAPI(value) { 
+  chosenAPI = value; 
+}
+
 function createDataTable(arrayData, div_i) {
   var table = "<table class='table table-striped' id='table_data"+div_i+"'><thread><tr>"; 
   var i; 
@@ -374,12 +380,12 @@ function projectsChart(div_i) {
     var arrayData = []; 
     $.ajax({
        type: "GET",  
-       url: "data/projects_per_country_code.csv",
+       url: "data/" + chosenAPI + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
        dataType: "text",       
        success: function(response)  
        {
           arrayData = $.csv.toArrays(response); 
-          var i, new_end = 0, headers; 
+          var i, new_end = arrayData.length, headers; 
           var dataTable = []; 
           dataTable[0] = ["Country","Number of Projects"];
           arrayData.reverse();
@@ -437,7 +443,7 @@ function popularityChart(file_name, div_num, country_name, div_i) {
           var arrayData = $.csv.toArrays(response);
           var i, starsCol; 
           for(i = 0; i < arrayData[0].length; i++) { 
-            if(arrayData[0][i] === 'num_watchers') {
+            if(chosenAPI === 'GHTorrent' && arrayData[0][i] === 'num_watchers' || chosenAPI === 'GitHubRestAPI' && arrayData[0][i] === 'numberOfStars') {
               starsCol = i; 
               break;
             }
@@ -620,7 +626,7 @@ function programmingLanguagesChart(file_name, div_i) {
           var arrayData = $.csv.toArrays(response);
           var i, langCol; 
           for(i = 0; i < arrayData[0].length; i++) { 
-            if(arrayData[0][i] === 'newLanguage') {
+            if(chosenAPI === 'GHTorrent' && arrayData[0][i] === 'newLanguage' || chosenAPI === 'GitHubRestAPI' && arrayData[0][i] === 'language') {
               langCol = i; 
               break;
             }
@@ -631,12 +637,14 @@ function programmingLanguagesChart(file_name, div_i) {
           var arrayLang = [];
 
           for(i = 1; i < arrayData.length; i++) {
-            lang = arrayData[i][langCol]; 
-            if(!languageQuant[lang]) { 
-              languageQuant[lang] = 0; 
-            } 
+            lang = arrayData[i][langCol].toLowerCase(); 
+            if (lang != "") {
+              if(!languageQuant[lang]) { 
+                languageQuant[lang] = 0; 
+              } 
 
-            languageQuant[lang]++;
+              languageQuant[lang]++;
+            }
           }
 
           var keys = Object.keys(languageQuant);
@@ -655,7 +663,7 @@ function programmingLanguagesChart(file_name, div_i) {
             arrayLang[i + 1][1] = languageQuant[keys[i]];
           }
 
-      // console.log();
+      console.log(arrayLang);
       var data = google.visualization.arrayToDataTable(arrayLang);
 
       var view = new google.visualization.DataView(data);
@@ -690,7 +698,7 @@ function coreDevelopersChart(div_i) {
     var top20_countries = []; 
     $.ajax({
        type: "GET",  
-       url: "data/projects_per_country_code.csv",
+       url: "data/" + chosenAPI + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
        dataType: "text",
        async: false,       
        success: function(response)  
@@ -711,7 +719,7 @@ function coreDevelopersChart(div_i) {
         console.log(country_code);
         $.ajax({
          type: "GET",  
-         url: "data/core_dev_"+country_code+".csv",
+         url: "data/" + chosenAPI + "/core_dev_"+country_code+ ".csv",
          dataType: "text", 
          async: false,      
          success: function(response)  
@@ -772,7 +780,7 @@ function coreDevelopersChart(div_i) {
 function top20CountriesOptions(div_i) {
   $.ajax({
        type: "GET",  
-       url: "data/projects_per_country_code.csv",
+       url: "data/" + chosenAPI + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
        dataType: "text",       
        success: function(response)  
        {
@@ -780,6 +788,7 @@ function top20CountriesOptions(div_i) {
           var i; 
 
           var dvTable = document.getElementById('top20_countries'+div_i);
+          dvTable.options.length = 0
 
           for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
             var option = document.createElement("option");
@@ -806,16 +815,16 @@ function updatePopularityChart(div_i){
     }
 
     countries_code.forEach(function(code, i){
-      var file_name = 'data/github_data_code_' + code.toLowerCase() + '.csv'; 
+      var file_name = 'data/' + chosenAPI + '/top10000RepositoriesData_' + code.toLowerCase() + '.csv'; 
       popularityChart(file_name, i, code_to_name[code.toUpperCase()], div_i);
     });
   }
   
 }
 
-function updateLanguageChart(div_i){
+function updateLanguageChart(div_i, e){
   var country_code = document.getElementById('top20_countries'+div_i).value;
-  var file_name = 'data/github_data_code_' + country_code.toLowerCase() + '.csv';
+  var file_name = 'data/' + chosenAPI + '/top10000RepositoriesData_' + country_code.toLowerCase() + '.csv';
 
   programmingLanguagesChart(file_name, div_i);
 }
@@ -832,6 +841,27 @@ function projectsData() {
   document.getElementById("page_header"+div_i).style.fontFamily="Courier New";
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).innerHTML = "Number of Projects per Country";
+  document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+  document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7';
+
+  document.getElementById('ghtorrent_div'+div_i).onclick = function() {
+    if (chosenAPI !== 'GHTorrent') {
+      changeChosenAPI('GHTorrent'); 
+      document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+      projectsChart(div_i);
+    }
+  };
+  
+  document.getElementById('restapi_div'+div_i).onclick = function() { 
+    if (chosenAPI !== 'GitHubRestAPI') {
+      changeChosenAPI('GitHubRestAPI');
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('restapi_div'+div_i).style.background = '#255F92';
+      projectsChart(div_i);
+    }
+  };
+  
   projectsChart(div_i);
 }
 
@@ -841,12 +871,40 @@ function popularityData() {
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
   document.getElementById("page_header"+div_i).innerHTML = "Number of Stars per Country";
+  document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+  document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7';
 
   top20CountriesOptions(div_i); 
   
   document.getElementById('confirm_button'+div_i).onclick = function() { 
-    updatePopularityChart(div_i);
+    updatePopularityChart(div_i, chosenAPI);
   };    
+
+  document.getElementById('ghtorrent_div'+div_i).onclick = function() { 
+    if (chosenAPI !== 'GHTorrent') {
+      changeChosenAPI('GHTorrent');
+      document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92'; 
+      top20CountriesOptions(div_i);
+      for(var i = 0; i < 3; i++) { 
+        document.getElementById("div_"+i).innerHTML = "";
+      }
+      popularityChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
+    }
+  };
+  
+  document.getElementById('restapi_div'+div_i).onclick = function() { 
+    if (chosenAPI !== 'GitHubRestAPI') {
+      changeChosenAPI('GitHubRestAPI');
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('restapi_div'+div_i).style.background = '#255F92';
+      top20CountriesOptions(div_i);
+      for(var i = 0; i < 3; i++) { 
+        document.getElementById("div_"+i).innerHTML = "";
+      }
+      popularityChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
+    }
+  };
 
   for(var i = 0; i < 3; i++) { 
     div = document.createElement('div');
@@ -859,7 +917,7 @@ function popularityData() {
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
-  popularityChart('data/github_data_code_cn.csv', 0, code_to_name['CN'],div_i);
+  popularityChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
 }
 
 function languageData() { 
@@ -871,12 +929,35 @@ function languageData() {
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
   document.getElementById("page_header"+div_i).innerHTML = "Popular Programming Languages per Country";
+  document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+  document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7';
 
   top20CountriesOptions(div_i);
   document.getElementById('top20_countries'+div_i).onchange = function() { 
-    updateLanguageChart(div_i);
-  };    
-  programmingLanguagesChart('data/github_data_code_cn.csv', div_i);
+    updateLanguageChart(div_i, chosenAPI);
+  };   
+
+  document.getElementById('ghtorrent_div'+div_i).onclick = function() { 
+    if (chosenAPI !== 'GHTorrent') {
+      changeChosenAPI('GHTorrent');
+      document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+      top20CountriesOptions(div_i);
+      programmingLanguagesChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', div_i);
+    }
+  };
+  
+  document.getElementById('restapi_div'+div_i).onclick = function() { 
+    if (chosenAPI !== 'GitHubRestAPI') {
+      changeChosenAPI('GitHubRestAPI');
+      document.getElementById('ghtorrent_div'+div_i).style.background = '#e7e7e7'; 
+      document.getElementById('restapi_div'+div_i).style.background = '#255F92';
+      top20CountriesOptions(div_i);
+      programmingLanguagesChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', div_i);
+    }
+  };
+
+  programmingLanguagesChart('data/' + chosenAPI + '/top10000RepositoriesData_cn.csv', div_i);
 }
 
 function coreDevelopersData() { 
@@ -888,6 +969,17 @@ function coreDevelopersData() {
   document.getElementById("page_header"+div_i).style.textAlign = "center";
   document.getElementById("page_header"+div_i).style.marginTop = '0px';
   document.getElementById("page_header"+div_i).innerHTML = "Domestic vs International Projects per Country";
+  document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
+  document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7';
+
+  // document.getElementById('ghtorrent_div'+div_i).onclick = function() { 
+  //   changeChosenAPI('ghtorrent')
+  // };
   
+  // document.getElementById('restapi_div'+div_i).onclick = function() {
+  //   changeChosenAPI('restapi')
+  //   coreDevelopersChart(div_i);
+  // };
+
   coreDevelopersChart(div_i);
 }
