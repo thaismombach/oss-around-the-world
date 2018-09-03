@@ -1,0 +1,2584 @@
+repository,repositoryCountry,login,totalNumberOfCommits,location,country
+vuejs/vue,,yyx990803,2068,New Jersey / China,cn
+EbookFoundation/free-programming-books,,vhf,1541,Switzerland,ch
+EbookFoundation/free-programming-books,,MHM5000,301,"Tehran and Hamedan, Iran",ir
+d3/d3,us,mbostock,3004,"San Francisco, CA",us
+d3/d3,us,jasondavies,776,"London, UK",gb
+github/gitignore,us,shiftkey,552,Australia,au
+github/gitignore,us,arcresu,334,"Sydney, Australia",au
+webpack/webpack,,sokra,4320,Germany,de
+iluwatar/java-design-patterns,fi,iluwatar,1001,"Tampere, Finland",fi
+iluwatar/java-design-patterns,fi,npathai,121,"Ahmedabad, India",in
+vuejs/awesome-vue,,yyx990803,140,New Jersey / China,cn
+impress/impress.js,,bartaz,199,"Poznań, Poland",pl
+impress/impress.js,,henrikingo,62,Finland,fi
+ant-design/ant-design,,afc163,6777,"Hangzhou, China",cn
+ant-design/ant-design,,benjycui,1116,China,cn
+ant-design/ant-design,,yesmeck,674,Hangzhou China,cn
+necolas/normalize.css,us,necolas,206,"San Francisco, CA",us
+necolas/normalize.css,us,jonathantneal,95,"Georgia, USA",ge
+gulpjs/gulp,,contra,486,"New York, NY",us
+gulpjs/gulp,,phated,111,"Phoenix, AZ",us
+googlesamples/android-architecture,,JoseAlcerreca,70,"Madrid, Spain",es
+googlesamples/android-architecture,,malmstein,17,London,gb
+awesomedata/awesome-public-datasets,,caesar0301,183,Shanghai,cn
+gogs/gogs,,Unknwon,3237,"Hangzhou, China",cn
+parcel-bundler/parcel,,devongovett,299,San Francisco,us
+parcel-bundler/parcel,,DeMoorJasper,96,San Francisco,us
+serverless/serverless,us,pmuens,1662,"San Francisco, CA",us
+serverless/serverless,us,ac360,1467,"San Francisco, CA.",us
+serverless/serverless,us,eahefnawy,1206,"Istanbul, Turkey.",tr
+gatsbyjs/gatsby,,KyleAMathews,2643,San Francisco,us
+gatsbyjs/gatsby,,m-allanson,327,London,gb
+facebook/immutable-js,,leebyron,1189,San Francisco,us
+PhilJay/MPAndroidChart,at,PhilJay,1480,Austria,at
+PhilJay/MPAndroidChart,at,danielgindi,295,Israel,il
+koajs/koa,,tj,345,"Victoria, BC, Canada",ca
+koajs/koa,,jonathanong,273,"Los Angeles, CA",us
+koajs/koa,,dead-horse,94,"Hangzhou, China",cn
+bayandin/awesome-awesomeness,gb,m1guelpf,130,"Oviedo, Spain",es
+bayandin/awesome-awesomeness,gb,bayandin,38,"London, UK",gb
+syncthing/syncthing,,calmh,3253,Sweden,se
+syncthing/syncthing,,AudriusButkevicius,904,London,gb
+apache/incubator-dubbo,,chickenlj,220,"Hangzhou, China",cn
+apache/incubator-dubbo,,beiwei30,133,"HangZhou, China",cn
+apache/incubator-dubbo,,liangfei0201,131,"Hangzhou, China",cn
+jaywcjlove/awesome-mac,cn,jaywcjlove,727,"Shanghai, China",cn
+jaywcjlove/awesome-mac,cn,alichtman,77,"Boston, MA",us
+ZuzooVn/machine-learning-for-software-engineers,vn,ZuzooVn,198,Vietnam,vn
+ZuzooVn/machine-learning-for-software-engineers,vn,lsvih,18,"Beijing, China",cn
+react-boilerplate/react-boilerplate,,mxstbr,599,"Vienna, Austria",at
+quilljs/quill,,jhchen,4554,"San Francisco, CA",us
+postcss/postcss,,ai,2041,"New York, USA",us
+ryanmcdermott/clean-code-javascript,us,ryanmcdermott,195,San Francisco,us
+ryanmcdermott/clean-code-javascript,us,vsemozhetbyt,32,"Kyiv, Ukraine",ua
+GitbookIO/gitbook,,SamyPesse,1880,"Lyon, France",fr
+GitbookIO/gitbook,,AaronO,237,Palo Alto / France,fr
+danielgindi/Charts,il,danielgindi,1004,Israel,il
+danielgindi/Charts,il,petester42,148,"Montreal, Quebec",ca
+danielgindi/Charts,il,liuxuan30,135,Beijing,cn
+standard/standard,,feross,989,"San Francisco, CA",us
+hammerjs/hammer.js,nl,jtangelder,889,"Zürich, Switzerland",ch
+freeCodeCamp/devdocs,,Thibaut,2493,"Ottawa, Canada",ca
+apache/spark,,mateiz,1588,"San Francisco, CA",us
+apache/spark,,rxin,1455,San Francisco,us
+kriasoft/react-starter-kit,ru,koistya,565,"Saint Petersburg, Russia",ru
+kriasoft/react-starter-kit,ru,frenzzy,94,"Saint Petersburg, Russia",ru
+kriasoft/react-starter-kit,ru,langpavel,52,"Hradec Králové, Czech Republic",cz
+VundleVim/Vundle.vim,,gmarik,452,"Toronto, ON, Canada",ca
+VundleVim/Vundle.vim,,jdevera,37,"Tenerife, Spain",es
+ajaxorg/ace,nl,nightwing,2715,"Yerevan, Armenia",am
+ajaxorg/ace,nl,fjakobs,1628,Amsterdam,nl
+getsentry/sentry,,dcramer,11150,"San Francisco, CA",us
+getsentry/sentry,,ckj,1904,San Francisco,us
+getsentry/sentry,,mattrobenolt,1769,"San Francisco, CA",us
+getsentry/sentry,,mitsuhiko,1421,Austria,at
+webtorrent/webtorrent,,feross,1905,"San Francisco, CA",us
+SwiftyJSON/SwiftyJSON,,tangplin,179,China,cn
+SwiftyJSON/SwiftyJSON,,wongzigii,105,"Shenzhen, China",cn
+SwiftyJSON/SwiftyJSON,,zhigang1992,98,China,cn
+SwiftyJSON/SwiftyJSON,,lingoer,57,Chengdu China,cn
+pugjs/pug,,tj,1246,"Victoria, BC, Canada",ca
+pugjs/pug,,ForbesLindesay,412,"London, UK",gb
+pugjs/pug,,TimothyGu,261,"New York City, USA",us
+DefinitelyTyped/DefinitelyTyped,,vvakame,4297,"Tokyo, Japan",jp
+futurice/android-best-practices,,staltz,75,"Helsinki, Finland",fi
+futurice/android-best-practices,,jonikarppinen,20,Helsinki,fi
+futurice/android-best-practices,,peter-tackage,20,Berlin,de
+futurice/android-best-practices,,minsoopark,18,"Seoul, South Korea",kr
+ftlabs/fastclick,gb,mattcg,249,"Berlin, Germany",de
+ftlabs/fastclick,gb,matthew-andrews,73,"Tokyo, Japan",jp
+mobxjs/mobx,,mweststrate,1670,Netherlands,nl
+vuejs/vuex,,yyx990803,379,New Jersey / China,cn
+vuejs/vuex,,ktsn,64,"Tokyo, Japan",jp
+CodeHubApp/CodeHub,,thedillonb,567,"Boston, MA",us
+defunkt/jquery-pjax,us,josh,212,"San Francisco, CA",us
+defunkt/jquery-pjax,us,mislav,112,Amsterdam,nl
+defunkt/jquery-pjax,us,defunkt,78,San Francisco,us
+dokku/dokku,,josegonzalez,2347,"New York, NY",us
+dokku/dokku,,michaelshobbs,591,"Phoenix, AZ",us
+postcss/autoprefixer,,ai,1852,"New York, USA",us
+composer/composer,,Seldaek,4277,"Zürich, Zurich, Switzerland",ch
+composer/composer,,naderman,526,"Berlin, Germany",de
+syl20bnr/spacemacs,ca,syl20bnr,3888,"Quebec City, Canada",ca
+syl20bnr/spacemacs,ca,TheBB,464,"Trondheim, Norway",no
+sequelize/sequelize,,sdepold,1867,Berlin,de
+sequelize/sequelize,,mickhansen,1867,"Copenhagen, Denmark",dk
+sequelize/sequelize,,janmeier,1121,Denmark,dk
+codemirror/CodeMirror,,marijnh,4235,Berlin,de
+vuejs/vue-cli,,yyx990803,912,New Jersey / China,cn
+vuejs/vue-cli,,Akryum,584,France,fr
+bower/bower,,satazor,1327,"Porto, Portugal",pt
+bower/bower,,sheerun,488,Poland,pl
+cmderdev/cmder,,Stanzilla,225,Germany,de
+cmderdev/cmder,,MartiUK,181,"Staffordshire, England, United Kingdom",gb
+cmderdev/cmder,,samvasko,112,"London, UK",gb
+hyperapp/hyperapp,,jorgebucaran,715,"Tokyo, Japan",jp
+fffaraz/awesome-cpp,us,fffaraz,537,United States,us
+fffaraz/awesome-cpp,us,myd7349,103,China,cn
+facebook/fresco,,oprisnik,323,London,gb
+facebook/fresco,,massimocarli,213,London ,gb
+facebook/fresco,,tyronen,195,"London, United Kingdom",gb
+facebook/fresco,,kirwan,188,London,gb
+facebook/fresco,,lambdapioneer,115,London,gb
+redux-saga/redux-saga,,yelouafi,653,Morocco,ma
+redux-saga/redux-saga,,Andarist,288,"Wrocław, Poland",pl
+jdg/MBProgressHUD,us,matej,445,"Ljubljana, Slovenia",si
+tootsuite/mastodon,,Gargron,2420,Germany,de
+tootsuite/mastodon,,ykzts,411,"Tokyo, Japan",jp
+HeroTransitions/Hero,,lkzhao,368,"Vancouver, BC, Canada",ca
+MostlyAdequate/mostly-adequate-guide,,DrBoolean,252,"San Francisco, CA",us
+MostlyAdequate/mostly-adequate-guide,,KtorZ,128,Amsterdam,nl
+geekcompany/ResumeSample,,easychen,19,"Beijing,China",cn
+nuxt/nuxt.js,,Atinux,1256,France,fr
+nuxt/nuxt.js,,pi0,836,"Islamic Republic of Iran, Tehran",ir
+nuxt/nuxt.js,,clarkdo,463,"Dublin, Ireland",ie
+rubocop-hq/ruby-style-guide,,bbatsov,387,"Sofia, Bulgaria",bg
+ReactiveX/RxSwift,,kzaher,1642,"Zürich, Switzerland",ch
+wsargent/docker-cheat-sheet,us,wsargent,213,San Francisco,us
+wsargent/docker-cheat-sheet,us,geminiyellow,63,Japan,jp
+shadowsocks/ShadowsocksX-NG,,qiuyuzhou,326,"ShenZhen, China",cn
+HubSpot/pace,,zackbloom,194,Boston,us
+HubSpot/pace,,adamschwartz,105,"Boston, MA",us
+nefe/You-Dont-Need-jQuery,,camsong,233,"Hangzhou, China",cn
+vim/vim,,brammool,8815,Switzerland,ch
+chrisbanes/PhotoView,gb,chrisbanes,127,"London, UK",gb
+chrisbanes/PhotoView,gb,smarek,125,Prague,cz
+chrisbanes/PhotoView,gb,Jawnnypoo,98,Dallas,us
+elixir-lang/elixir,,josevalim,8624,"Kraków, Poland",pl
+git-tips/tips,,hemanth,192,India ,in
+github/hub,us,mislav,1035,Amsterdam,nl
+github/hub,us,jingweno,879,Vancouver,ca
+github/hub,us,defunkt,240,San Francisco,us
+SnapKit/SnapKit,,robertjpayne,362,"Auckland, New Zealand",nz
+wagerfield/parallax,gb,reneroth,93,Germany,de
+wagerfield/parallax,gb,wagerfield,53,London,gb
+etsy/statsd,,mrtazz,255,Berlin,de
+etsy/statsd,,draco2003,104,Boston,us
+wekan/wekan,,xet7,1401,Finland,fi
+wekan/wekan,,mquandalle,295,"Paris, France",fr
+riot/riot,,GianlucaGuarini,1721,Zürich - Switzerland,ch
+riot/riot,,tipiirai,389,Helsinki / Finland,fi
+adobe-fonts/source-code-pro,cr,miguelsousa,156,"San Jose, CA",cr
+adobe-fonts/source-code-pro,cr,pauldhunt,133,"Melbourne, AU",au
+localstack/localstack,,whummer,437,New York,us
+react-navigation/react-navigation,,brentvatne,286,"Vancouver, Canada",ca
+react-navigation/react-navigation,,ericvicenti,72,"San Francisco, CA",us
+framework7io/framework7,,nolimits4web,2855,"Rostov-on-Don, Russia",ru
+Bilibili/flv.js,cn,xqq,375,Japan,jp
+infernojs/inferno,,trueadm,1149,"London, United Kingdom",gb
+infernojs/inferno,,Havunen,1137,Finland,fi
+twbs/bootstrap-sass,us,glebm,547,London,gb
+twbs/bootstrap-sass,us,thomas-mcdonald,196,London,gb
+Meituan-Dianping/mpvue,,yyx990803,1743,New Jersey / China,cn
+benweet/stackedit,ma,benweet,224,"Marrakech, Morocco",ma
+benweet/stackedit,ma,flxwu,23,"Hesse, Germany",de
+tj/commander.js,ca,tj,183,"Victoria, BC, Canada",ca
+tj/commander.js,ca,zhiyelee,149,Dallas,us
+tj/commander.js,ca,abetomo,52,"Tokyo, Japan",jp
+google/flexbox-layout,,thagikura,305,"Tokyo, Japan",jp
+sqlmapproject/sqlmap,,stamparm,6234,"Zagreb, Croatia",hr
+sqlmapproject/sqlmap,,inquisb,1880,"London, United Kingdom",gb
+SheetJS/js-xlsx,,SheetJSDev,280,New York,us
+tj/git-extras,ca,tj,248,"Victoria, BC, Canada",ca
+tj/git-extras,ca,hemanth,231,India ,in
+tj/git-extras,ca,spacewander,169,"Guangzhou,China",cn
+textmate/textmate,,sorbits,4229,Denmark,dk
+crystal-lang/crystal,,asterite,6994,"Buenos Aires, Argentina",ar
+crystal-lang/crystal,,waj,781,"Buenos Aires, Argentina",ar
+TeamStuQ/skill-map,,lmdeditor,271,Beijing China,cn
+transloadit/uppy,,arturi,2629,New York,us
+transloadit/uppy,,goto-bus-stop,1062,"Groningen area, Netherlands",nl
+transloadit/uppy,,kvz,649,"Amsterdam, The Netherlands",nl
+PHPMailer/PHPMailer,,Synchro,1028,France,fr
+nicolargo/glances,fr,nicolargo,2254,"Valbonne, France",fr
+nicolargo/glances,fr,asergi,506,Italy,it
+shieldfy/API-Security-Checklist,,netcode,50,"Alexandria, Egypt",eg
+shieldfy/API-Security-Checklist,,Maikuolan,44,"Perth, Western Australia",au
+adobe-webplatform/Snap.svg,,DmitryBaranovskiy,250,"Sydney, Australia",au
+foreverjs/forever,,indexzero,317,"New York, NY",us
+foreverjs/forever,,mmalecki,102,"Poznań, Poland",pl
+Shopify/draggable,,tsov,175,"Ottawa, Canada",ca
+Shopify/draggable,,beefchimi,52,"Ottawa, ON",ca
+labstack/echo,,vishr,953,San Francisco,us
+leereilly/games,us,leereilly,274,"San Francisco, CA",us
+leereilly/games,us,filipkonieczny,84,"Warsaw, Poland",pl
+jhipster/generator-jhipster,,jdubois,4515,"Suresnes, France",fr
+jhipster/generator-jhipster,,deepu105,3326,Netherlands,nl
+jhipster/generator-jhipster,,pascalgrimaud,812,"Paris, France",fr
+winstonjs/winston,,indexzero,602,"New York, NY",us
+winstonjs/winston,,chjj,67,San Francisco,us
+SVProgressHUD/SVProgressHUD,,honkmaster,310,Oldenburg (Germany),de
+SVProgressHUD/SVProgressHUD,,samvermette,239,Montréal,ca
+Shopify/dashing,,pushmatrix,95,"Ottawa, Ontario",ca
+google/fonts,,davelab6,562,New York City,us
+google/fonts,,m4rc1e,527,United Kingdom,gb
+vuejs/vue-router,,yyx990803,421,New Jersey / China,cn
+vuejs/vue-router,,posva,87,Paris ,fr
+aria2/aria2,,tatsuhiro-t,4820,Japan,jp
+rbenv/rbenv,,mislav,218,Amsterdam,nl
+rbenv/rbenv,,sstephenson,214,Chicago,us
+rbenv/rbenv,,josh,38,"San Francisco, CA",us
+Microsoft/monaco-editor,,alexandrudima,216,Switzerland,ch
+fabricjs/fabric.js,,kangax,2000,New York,us
+fabricjs/fabric.js,,asturur,1062,"Italy, Rome",it
+nlohmann/json,de,nlohmann,2158,"Berlin, Germany",de
+nlohmann/json,de,theodelrieu,146,Paris,fr
+HubSpot/youmightnotneedjquery,,zackbloom,26,Boston,us
+HubSpot/youmightnotneedjquery,,adamschwartz,26,"Boston, MA",us
+facebook/yoga,,emilsjolander,353,"London, England",gb
+facebook/yoga,,vjeux,247,"San Francisco, California",us
+facebook/yoga,,priteshrnandgaonkar,106,"London, UK",gb
+daimajia/AndroidSwipeLayout,cn,daimajia,109,"Beijing, China",cn
+daimajia/AndroidSwipeLayout,cn,HarshEvilGeek,16,Bangalore,in
+js-cookie/js-cookie,,FagnerMartinsBrack,281,"Sydney, Australia",au
+js-cookie/js-cookie,,carhartl,209,"Berlin, Germany",de
+algorithm-visualizer/algorithm-visualizer,,parkjs814,318,"Atlanta, GA",us
+algorithm-visualizer/algorithm-visualizer,,nem035,84,"Miami, FL",us
+algorithm-visualizer/algorithm-visualizer,,TornjV,50,Serbia,rs
+algorithm-visualizer/algorithm-visualizer,,duaraghav8,45,New Delhi,in
+flatpickr/flatpickr,,chmln,1929,"Toronto, Canada",ca
+swoole/swoole-src,,matyhtf,4953,"Shanghai, China",cn
+swoole/swoole-src,,twose,540,ShangHai,cn
+petehunt/react-howto,us,petehunt,46,"San Francisco, CA",us
+petehunt/react-howto,us,jurgob,21,London,gb
+petehunt/react-howto,us,stmoreau,19,London,gb
+RestKit/RestKit,,blakewatters,2004,"San Francisco, CA",us
+RestKit/RestKit,,segiddins,250,"San Francisco, CA",us
+loopj/android-async-http,us,smarek,459,Prague,cz
+loopj/android-async-http,us,loopj,125,"San Francisco, CA",us
+loopj/android-async-http,us,fineswap,73,"Oslo, Norway",no
+svg/svgo,,deepsweet,391,"Stockholm, Sweden",se
+svg/svgo,,GreLI,332,Moscow,ru
+libuv/libuv,,bnoordhuis,1239,The Netherlands,nl
+libuv/libuv,,piscisaureus,694,Amsterdam,nl
+libuv/libuv,,saghul,407,Amsterdam,nl
+karma-runner/karma,,vojtajina,1042,San Francisco Bay Area,us
+karma-runner/karma,,dignifiedquire,618,"Freiburg, Germany",de
+tj/co,ca,tj,145,"Victoria, BC, Canada",ca
+tj/co,ca,jonathanong,76,"Los Angeles, CA",us
+janpaepke/ScrollMagic,at,janpaepke,474,"Vienna, Austria",at
+janpaepke/ScrollMagic,at,johnpolacek,56,Chicago,us
+reduxjs/redux-devtools,,gaearon,208,"London, UK",gb
+reduxjs/redux-devtools,,dzannotti,44,"Hayle, United Kingdom",gb
+google/flatbuffers,,aardappel,689,San Francisco,us
+elastic/kibana,,spalger,4246,"Phoenix, AZ",us
+elastic/kibana,,w33ble,1612,Phoenix,us
+elastic/kibana,,stormpython,1190,"San Francisco, CA",us
+elastic/kibana,,rashidkpc,1001,"Phoenix, AZ",us
+getredash/redash,,arikfr,3796,Israel,il
+getredash/redash,,kocsmy,308,"Budapest, Hungary",hu
+briannesbitt/Carbon,ca,briannesbitt,537,"Ottawa, Canada",ca
+briannesbitt/Carbon,ca,kylekatarnls,363,France,fr
+briannesbitt/Carbon,ca,lucasmichot,267,"Berlin, Germany",de
+vuejs/vue-devtools,,yyx990803,358,New Jersey / China,cn
+vuejs/vue-devtools,,Akryum,221,France,fr
+datasciencemasters/go,,clarecorthell,232,San Francisco,us
+react-community/lottie-react-native,,gpeal,72,"San Francisco, CA",us
+react-community/lottie-react-native,,lelandrichardson,59,"San Francisco, CA",us
+react-community/lottie-react-native,,emilioicai,33,Copenhagen,dk
+react-community/lottie-react-native,,Minishlink,21,"Paris, France",fr
+go-gitea/gitea,,Unknwon,2635,"Hangzhou, China",cn
+go-gitea/gitea,,lunny,561,"Shanghai, China",cn
+InterviewMap/CS-Interview-Knowledge-Map,,KieSun,408,"Hangzhou, China",cn
+paperjs/paper.js,,lehni,5431,Switzerland,ch
+paperjs/paper.js,,puckey,1122,Amsterdam,nl
+Flipboard/FLEX,,ryanolsonk,414,"Vancouver, BC / Palo Alto, CA",ca
+luongvo209/Awesome-Linux-Software,vn,luongvo209,351,"Ho Chi Minh city, Vietnam",vn
+luongvo209/Awesome-Linux-Software,vn,SaintFenix,110,United States,us
+deeplearning4j/deeplearning4j,us,raver119,5405,"Vancouver, CA",ca
+deeplearning4j/deeplearning4j,us,AlexDBlack,4989,"Melbourne, Australia",au
+deeplearning4j/deeplearning4j,us,agibsonccc,4295,San Francisco California,us
+tonybeltramelli/pix2code,dk,tonybeltramelli,13,Denmark,dk
+tonybeltramelli/pix2code,dk,hippyk,6,Hangzhou China,cn
+stylus/stylus,,tj,2519,"Victoria, BC, Canada",ca
+stylus/stylus,,Panya,545,"Korolev, Russia",ru
+stylus/stylus,,kizu,424,Paris,fr
+gaearon/react-hot-loader,gb,gaearon,562,"London, UK",gb
+gaearon/react-hot-loader,gb,theKashey,250,Sydney,au
+gaearon/react-hot-loader,gb,neoziro,223,Paris,fr
+facebook/graphql,,leebyron,190,San Francisco,us
+rubocop-hq/rubocop,,bbatsov,2632,"Sofia, Bulgaria",bg
+rubocop-hq/rubocop,,jonas054,792,"Karlstad, Sweden",se
+rubocop-hq/rubocop,,alexdowad,411,"Lusaka, Zambia",zm
+systemjs/systemjs,,guybedford,1688,Cape Town,za
+google/grumpy,,trotterdylan,72,San Francisco,us
+google/grumpy,,S-YOU,64,Tokyo,jp
+google/grumpy,,m4ns0ur,24,"Rotterdam, The Netherlands",nl
+forkingdog/UITableView-FDTemplateLayoutCell,,sunnyxx,77,Beijing,cn
+thx/RAP,,Bosn,851,"Peking, China",cn
+thx/RAP,,wangjeaf,144,Beijing,cn
+apenwarr/sshuttle,ca,apenwarr,166,Canada.  Sometimes.,ca
+apenwarr/sshuttle,ca,brianmay,158,"Melbourne, Australia",au
+thoughtbot/paperclip,gb,sikachu,261,"Tokyo, Japan",jp
+google/googletest,,gennadiycivil,845,New York,us
+google/googletest,,BillyDonahue,164,New York,us
+xmartlabs/Eureka,us,mtnbarreto,419,Uruguay,uy
+xmartlabs/Eureka,us,mats-claassen,88,Uruguay,uy
+vuejs/vuepress,,yyx990803,274,New Jersey / China,cn
+vuejs/vuepress,,ulivz,205,"Hangzhou, China",cn
+guillaumepotier/Parsley.js,fr,marcandre,589,"Montreal, Canada",ca
+guillaumepotier/Parsley.js,fr,guillaumepotier,585,Paris,fr
+ruby-grape/grape,,dblock,930,"New York, NY",us
+carhartl/jquery-cookie,de,carhartl,184,"Berlin, Germany",de
+carhartl/jquery-cookie,de,FagnerMartinsBrack,24,"Sydney, Australia",au
+vue-bulma/vue-admin,,fundon,450,"Quanzhou, China",cn
+vue-bulma/vue-admin,,luventa,31,Pudong Shanghai China,cn
+nightwatchjs/nightwatch,,beatfactor,991,"Oslo, Norway",no
+matthieua/WOW,pt,attilaolah,156,"Oberrieden, Switzerland",ch
+erusev/parsedown,bg,erusev,464,EU › Bulgaria › Sofia,bg
+erusev/parsedown,bg,aidantwoods,218,United Kingdom,gb
+pagekit/vue-resource,,steffans,402,"Hamburg, Germany",de
+pagekit/vue-resource,,MalteScharenberg,36,"Hamburg, Germany",de
+ShareX/ShareX,,Jaex,3875,Turkey,tr
+auth0/node-jsonwebtoken,,jfromaniello,177,"Córdoba, Argentina",ar
+auth0/node-jsonwebtoken,,ziluvatar,41,"Cuenca, Spain",es
+auth0/node-jsonwebtoken,,woloski,30,"Buenos Aires, Argentina",ar
+ianstormtaylor/slate,us,ianstormtaylor,1611,"San Francisco, CA",us
+ianstormtaylor/slate,us,SamyPesse,157,"Lyon, France",fr
+ccxt/ccxt,,kroitor,11079,"Russia, Moscow",ru
+vuejs/vue-hackernews-2.0,,yyx990803,206,New Jersey / China,cn
+wenzhixin/bootstrap-table,cn,wenzhixin,1381,"Guangzhou, China",cn
+wenzhixin/bootstrap-table,cn,djhvscf,453,Costa Rica,cr
+twitter/twemoji,us,WebReflection,106,Berlin,de
+twitter/twemoji,us,bhaggs,24,"San Francisco, CA",us
+fullcalendar/fullcalendar,,arshaw,2489,"New York, NY",us
+HubSpot/offline,,adamschwartz,117,"Boston, MA",us
+HubSpot/offline,,zackbloom,91,Boston,us
+mgonto/restangular,ar,mgonto,477,"Buenos Aires, Argentina",ar
+mgonto/restangular,ar,bostrom,53,"Helsinki, Finland",fi
+rkt/rkt,,iaguis,1021,"Berlin, Germany",de
+rkt/rkt,,jonboulle,1009,Germany,de
+rkt/rkt,,alban,529,"Berlin, Germany",de
+rkt/rkt,,krnowak,508,Berlin,de
+rkt/rkt,,lucab,397,Berlin,de
+relax/relax,,bruno12mota,1558,"Porto, Portugal",pt
+activeadmin/activeadmin,,seanlinsley,916,"Dallas, Texas",us
+activeadmin/activeadmin,,gregbell,883,"Vancouver, BC, Canada",ca
+activeadmin/activeadmin,,timoschilling,602,"Essen, Germany",de
+activeadmin/activeadmin,,deivid-rodriguez,426,Argentina,ar
+activeadmin/activeadmin,,pcreux,336,"Vancouver, BC",ca
+serbanghita/Mobile-Detect,ro,serbanghita,537,"Bucureşti, Romania",ro
+serbanghita/Mobile-Detect,ro,Garthi,43,Germany,de
+flarum/flarum,au,tobscure,130,Australia,au
+flarum/flarum,au,franzliedke,119,Germany,de
+react-community/react-native-maps,,spikebrehm,118,San Francisco,us
+react-community/react-native-maps,,lelandrichardson,116,"San Francisco, CA",us
+react-community/react-native-maps,,christopherdro,47,"Los Angeles, CA",us
+iCHAIT/awesome-macOS,sg,iCHAIT,302,Singapore,sg
+iCHAIT/awesome-macOS,sg,herrbischoff,107,"Hamburg, Germany, Earth (Sol)",de
+vuejs-templates/webpack,,yyx990803,168,New Jersey / China,cn
+vuejs-templates/webpack,,LinusBorg,142,Germany,de
+mozilla/BrowserQuest,,sork,81,"Paris, France",fr
+mozilla/BrowserQuest,,glecollinet,62,"Paris, France",fr
+wting/autojump,us,wting,450,"San Francisco, CA",us
+wting/autojump,us,joelthelion,105,"Lyon, France",fr
+apl-devs/AppIntro,,paolorotolo,159,"Bari, Puglia, Italy",it
+apl-devs/AppIntro,,maxee,41,Germany,de
+c3js/c3,,masayuki0812,1401,"Tokyo, Japan",jp
+c3js/c3,,kt3k,103,"Tokyo, Japan",jp
+marmelab/gremlins.js,,fzaninotto,103,"Nancy, France",fr
+marmelab/gremlins.js,,jtangelder,21,"Zürich, Switzerland",ch
+marmelab/gremlins.js,,manuquentin,15,Paris,fr
+filp/whoops,pt,denis-sokolov,334,"Vilnius, Lithuania",lt
+filp/whoops,pt,filp,307,"Lisbon, Portugal",pt
+rust-unofficial/awesome-rust,,kud1ing,267,Germany,de
+rust-unofficial/awesome-rust,,luciusmagn,166,"Prague, Czech republic",cz
+permissions-dispatcher/PermissionsDispatcher,,hotchemi,143,Japan,jp
+permissions-dispatcher/PermissionsDispatcher,,shiraji,90,"Tokyo, Japan",jp
+permissions-dispatcher/PermissionsDispatcher,,mannodermaus,69,"Bremen, Germany",de
+esp8266/Arduino,,igrr,1059,"Shanghai, CN",cn
+esp8266/Arduino,,Links2004,479,Germany,de
+Automattic/kue,,behrad,443,Tehran/Iran,ir
+Automattic/kue,,tj,399,"Victoria, BC, Canada",ca
+haoel/leetcode,cn,haoel,331,Beijing,cn
+haoel/leetcode,cn,Vally79,47,Romania,ro
+haoel/leetcode,cn,lei-cao,33,Singapore,sg
+SFTtech/openage,,TheJJ,1570,"Munich, Germany, Europe, Earth, Solar System, Milky Way, Virgo, Local Group, Laniakea, Universe",de
+SFTtech/openage,,mic-e,418,Germany,de
+gizak/termui,ca,gizak,147,"Toronto, Canada",ca
+gizak/termui,ca,Matt3o12,22,Germany; Hamburg,de
+h2o/h2o,,kazuho,3902,Tokyo,jp
+h2o/h2o,,i110,592,"Tokyo, Japan",jp
+h2o/h2o,,deweerdt,443,San Francisco,us
+dingo/api,,jasonlewis,866,Australia,au
+dingo/api,,lucasmichot,65,"Berlin, Germany",de
+perwendel/spark,se,perwendel,426,"Malmö, Sweden",se
+perwendel/spark,se,tipsy,79,"Trondheim, Norway",no
+mozilla/DeepSpeech,,reuben,265,"Minas Gerais, Brazil",br
+mozilla/DeepSpeech,,kdavis-mozilla,232,"Berlin, Germany",de
+mozilla/DeepSpeech,,lissyx,158,"Tours, France",fr
+mozilla/DeepSpeech,,tilmankamp,111,Berlin,de
+mozilla/DeepSpeech,,Cwiiis,63,"London, United Kingdom",gb
+primer/primer,,shawnbot,511,San Francisco,us
+primer/primer,,jonrohan,476,"San Francisco, CA",us
+primer/primer,,broccolini,329,New York,us
+primer/primer,,mdo,212,"San Francisco, CA",us
+Hearst-DD/ObjectMapper,,tristanhimmelman,598,"Toronto, Canada",ca
+Hearst-DD/ObjectMapper,,ikesyo,101,"Kyoto, Japan",jp
+seajs/seajs,,lifesinger,2250,"Hangzhou, China",cn
+milligram/milligram,,cjpatoilo,241,Brazil,br
+andreis/interview,ro,andreis,86,Berlin,de
+quozd/awesome-dotnet,by,quozd,168,"Minsk, Belarus",by
+quozd/awesome-dotnet,by,zihotki,108,"Amsterdam, Netherlands",nl
+quozd/awesome-dotnet,by,pleb,103,"Brisbane, Australia",au
+quozd/awesome-dotnet,by,devkhan,77,"Delhi, India",in
+SpaceVim/SpaceVim,,wsdjeg,2980,China,cn
+mailcheck/mailcheck,us,derrickko,51,San Francisco,us
+mailcheck/mailcheck,us,weilu,45,Singapore,sg
+thedaviddias/Front-End-Performance-Checklist,ca,thedaviddias,87,"Toronto, Canada",ca
+thedaviddias/Front-End-Performance-Checklist,ca,pra85,16,"Noida, India",in
+thedaviddias/Front-End-Performance-Checklist,ca,lex111,13,"Rostov-on-Don, Russia",ru
+GoogleChromeLabs/ndb,,ak239,76,"San Francisco, USA",us
+indexzero/http-server,us,indexzero,75,"New York, NY",us
+indexzero/http-server,us,Marak,46,"New York City, New York",us
+indexzero/http-server,us,AvianFlu,29,"New York, NY",us
+indexzero/http-server,us,mmalecki,23,"Poznań, Poland",pl
+kkga/spacegray,us,marcofugaro,28,"Milan, Italy",it
+casperjs/casperjs,,n1k0,1320,"Montpellier, France",fr
+casperjs/casperjs,,mickaelandrieu,153,"Bordeaux, France",fr
+casperjs/casperjs,,istr,121,"Berlin, Germany",de
+apex/apex,sc,tj,468,"Victoria, BC, Canada",ca
+apex/apex,sc,mthenw,108,"Poznań, Poland",pl
+visionmedia/supertest,,tj,85,"Victoria, BC, Canada",ca
+visionmedia/supertest,,mikelax,45,"New York, NY",us
+google/agera,,ernstsson,147,"London, United Kingdom",gb
+kaminari/kaminari,,amatsuda,851,"Tokyo, Japan",jp
+kaminari/kaminari,,yuki24,268,"New York, NY",us
+bendc/frontend-guidelines,be,bendc,2,Belgium,be
+bendc/frontend-guidelines,be,yazinsai,1,"Dubai, AE",ae
+thoughtbot/laptop,gb,croaky,159,San Francisco,us
+tqdm/tqdm,,casperdcl,505,"South Kensington, London, UK",gb
+tqdm/tqdm,,lrq3000,202,Belgium,be
+quasarframework/quasar,,rstoenescu,2404,"Bucharest, Romania",ro
+quasarframework/quasar,,pdanpdan,295,"Bucharest, Romania",ro
+thephpleague/flysystem,,frankdejonge,1074,"Amsterdam, The Netherlands",nl
+wkhtmltopdf/wkhtmltopdf,,antialize,430,Denmark,dk
+wkhtmltopdf/wkhtmltopdf,,ashkulz,414,"Mumbai, India",in
+docsifyjs/docsify,,QingWei-Li,846,"Shanghai, China",cn
+marktext/marktext,,Jocs,488,Shanghai,cn
+marktext/marktext,,fxha,62,Germany,de
+streamaserver/streama,,dularion,224,Germany,de
+streamaserver/streama,,Jeronimo95,106,"Victoria, Australia",au
+braziljs/js-the-right-way,br,gnuwilliam,190,Brazil,br
+braziljs/js-the-right-way,br,allanesquina,109,Brazil,br
+braziljs/js-the-right-way,br,item4,57,South Korea,kr
+facebook/watchman,,wez,1415,"San Francisco Bay Area, USA",us
+facebook/watchman,,sunshowers,210,San Francisco Bay Area,us
+SimulatedGREG/electron-vue,us,SimulatedGREG,551,"Houston, Texas",us
+SimulatedGREG/electron-vue,us,re-fort,66,Tokyo,jp
+xetorthio/jedis,us,HeartSaVioR,279,"Seoul, South Korea",kr
+xetorthio/jedis,us,marcosnils,204,Buenos Aires,ar
+xetorthio/jedis,us,xetorthio,125,"New York, NY, USA",us
+xetorthio/jedis,us,sazzad16,93,Bangladesh,bd
+VulcanJS/Vulcan,,SachaG,3807,"Osaka, Japan",jp
+VulcanJS/Vulcan,,xavczen,378,"Toulouse, France",fr
+open-source-flash/open-source-flash,,pakastin,148,Finland,fi
+google/auto,,eamonnmcmanus,352,San Francisco,us
+google/auto,,cgruber,190,"San Francisco, CA",us
+google/auto,,gk5885,166,"Chicago, IL",us
+sferik/rails_admin,us,bbenezech,1029,"Paris, France",fr
+sferik/rails_admin,us,sferik,633,San Francisco,us
+sferik/rails_admin,us,mshibuya,582,"Tokyo, Japan",jp
+sferik/rails_admin,us,kaapa,310,Finland,fi
+sferik/rails_admin,us,gunn,269,"Dunedin, New Zealand",nz
+evilstreak/markdown-js,gb,ashb,170,London,gb
+evilstreak/markdown-js,gb,evilstreak,164,"London, UK",gb
+evilstreak/markdown-js,gb,eviltrout,28,Toronto,ca
+mono/mono,us,vargaz,13013,Boston,us
+mono/mono,us,marek-safar,9376,Prague,cz
+mono/mono,us,migueldeicaza,7122,"Boston, MA.",us
+mono/mono,us,atsushieno,6565,Tokyo,jp
+gorilla/mux,,kisielk,60,"Vancouver, British Columbia, Canada",ca
+gorilla/mux,,elithrar,38,"San Francisco, United States",us
+morrisjs/morris.js,,oesmith,261,United Kingdom,gb
+morrisjs/morris.js,,JelteF,47,"Amsterdam, Netherlands",nl
+Genymobile/scrcpy,,rom1v,292,"Paris, France",fr
+Flipboard/FLAnimatedImage,,raphaelschaad,102,"Bern, Switzerland",ch
+nock/nock,us,pgte,221,"Funchal, Portugal",pt
+BlocksKit/BlocksKit,,zwaldowski,783,"Atlanta, GA, USA",us
+BlocksKit/BlocksKit,,a2,218,"Berlin, Germany",de
+cymcsg/UltimateRecyclerView,cn,cymcsg,476,"Beijing,China",cn
+cymcsg/UltimateRecyclerView,cn,jjhesk,242,Dubai,ae
+oliver-moran/jimp,ie,oliver-moran,264,Ireland,ie
+oliver-moran/jimp,ie,hipstersmoothie,193,United States,us
+oliver-moran/jimp,ie,strandedcity,48,"San Francisco, CA",us
+OnsenUI/OnsenUI,,anatoo,2442,Japan,jp
+OnsenUI/OnsenUI,,argelius,2348,"Tokyo, Japan",jp
+OnsenUI/OnsenUI,,frandiox,2033,Tokyo,jp
+OnsenUI/OnsenUI,,asial-matagawa,689,"Tokyo, Japan",jp
+xing/wysihtml5,,tiff,83,"Hamburg, Germany",de
+leecade/react-native-swiper,cn,leecade,87,Beijing,cn
+leecade/react-native-swiper,cn,arribbar,41,"Lyon, France",fr
+leecade/react-native-swiper,cn,rajkissu,28,Malaysia,my
+leecade/react-native-swiper,cn,tasiyo7333,20,Japan,jp
+jsonmodel/jsonmodel,,icanzilb,463,Barcelona,es
+jsonmodel/jsonmodel,,billinghamj,138,"London, UK",gb
+libgit2/libgit2,,vmg,2039,Madrid,es
+libgit2/libgit2,,carlosmn,1997,Berlin,de
+libgit2/libgit2,,arrbee,1128,"San Francisco, CA",us
+libgit2/libgit2,,pks-t,775,Germany,de
+libgit2/libgit2,,nulltoken,590,"Paris, France",fr
+astuetz/PagerSlidingTabStrip,at,astuetz,24,"Linz, Austria",at
+astuetz/PagerSlidingTabStrip,at,antoniolg,2,Madrid (Spain),es
+amfe/article,,airen,7,China,cn
+amfe/article,,hongru,5,HangZhou China,cn
+amfe/article,,ZeroHsu,4,"Beijing , China ",cn
+Shopify/liquid,,fw42,224,"Dublin, Ireland",ie
+Shopify/liquid,,pushrax,153,Canada,ca
+Shopify/liquid,,dylanahsmith,149,"Ottawa, ON",ca
+Shopify/liquid,,trishume,76,"Waterloo, Canada",ca
+visionmedia/debug,,TooTallNate,183,"San Francisco, CA",us
+visionmedia/debug,,tj,90,"Victoria, BC, Canada",ca
+visionmedia/debug,,thebigredgeek,49,San Francisco,us
+coursera-dl/coursera-dl,,rbrito,549,"São Paulo, Brazil",br
+coursera-dl/coursera-dl,,balta2ar,214,Moscow,ru
+coursera-dl/coursera-dl,,jonasdt,96,Brussels,be
+coursera-dl/coursera-dl,,jplehmann,76,"Dallas, Texas",us
+omcljs/om,,swannodette,1802,New York,us
+Tencent/rapidjson,cn,miloyip,1346,"Hong Kong, China",cn
+Tencent/rapidjson,cn,pah,236,"Duisburg, Germany",de
+ethereum/web3.js,,debris,743,"Berlin, DE",de
+ethereum/web3.js,,frozeman,382,"Berlin, Germany",de
+apidoc/apidoc,,rottmann,356,Germany / Föhren,de
+apidoc/apidoc,,CodersBrothers,29,China,cn
+you-dont-need/You-Dont-Need-Lodash-Underscore,,cht8687,99,Sydney,au
+you-dont-need/You-Dont-Need-Lodash-Underscore,,stevemao,61,Sydney,au
+HubSpot/odometer,,zackbloom,135,Boston,us
+HubSpot/odometer,,adamschwartz,116,"Boston, MA",us
+klauscfhq/signale,,klauscfhq,83,"London, UK",gb
+TheAlgorithms/Python,in,harshildarji,194,"Passau, Germany",de
+TheAlgorithms/Python,in,dynamitechetan,54,"Chandigarh, India",in
+shutterstock/rickshaw,us,dchester,271,"New York, NY",us
+shutterstock/rickshaw,us,cesine,85,Montreal,ca
+DennisYurichev/RE-for-beginners,ua,DennisYurichev,2145,"Kiev, Ukraine",ua
+DennisYurichev/RE-for-beginners,ua,mremy,220,Switzerland,ch
+jantimon/html-webpack-plugin,ch,jantimon,302,Zurich,ch
+jantimon/html-webpack-plugin,ch,ampedandwired,43,"Sydney, Australia",au
+LeaVerou/awesomplete,us,vlazar,109,Belarus,by
+LeaVerou/awesomplete,us,LeaVerou,84,"Boston, MA",us
+lauris/awesome-scala,lv,longcao,264,"New York, NY",us
+lauris/awesome-scala,lv,lauris,80,Latvia,lv
+svgdotjs/svg.js,es,Fuzzyma,279,Germany,de
+svgdotjs/svg.js,es,dotnetCarpenter,106,Sweden,se
+wiredjs/wired-elements,,pshihn,37,San Francisco,us
+Valve/fingerprintjs2,us,Valve,176,Chicago,us
+Valve/fingerprintjs2,us,jonashaag,63,"Frankfurt am Main, Germany",de
+pallets/click,,mitsuhiko,589,Austria,at
+pallets/click,,untitaker,151,"Vienna, Austria",at
+ducksboard/gridster.js,,vieron,204,"Barcelona, Spain",es
+thumbor/thumbor,br,heynemann,769,"Rio de Janeiro, RJ, Brazil",br
+thumbor/thumbor,br,guilhermef,228,Berlin,de
+thumbor/thumbor,br,cezarsa,199,Brasília - DF / Brazil,br
+TheAlgorithms/Java,in,dynamitechetan,84,"Chandigarh, India",in
+TheAlgorithms/Java,in,varunu28,78,"San Jose, California",cr
+TheAlgorithms/Java,in,christianbender,53,Germany,de
+zealdocs/zeal,,trollixx,1101,New York,us
+zealdocs/zeal,,jkozera,239,"London, UK",gb
+jumpserver/jumpserver,,ibuler,2114,Beijing,cn
+jumpserver/jumpserver,,liuzheng,217,Shanghai,cn
+ChrisRM/material-theme-jetbrains,no,mallowigi,1715,"Tel Aviv, IL",il
+dbcli/mycli,us,tsroten,462,"Dallas, TX",us
+dbcli/mycli,us,amjith,454,United States,us
+dbcli/mycli,us,meeuw,117,Netherlands,nl
+dbcli/mycli,us,mdsrosa,72,"Dublin, Ireland",ie
+varvet/pundit,se,jnicklas,140,"Gothenburg, Sweden",se
+varvet/pundit,se,Linuus,47,"Sweden, Gothenburg",se
+varvet/pundit,se,thomasklemm,46,"Würzburg, Germany",de
+WebpageFX/emoji-cheat-sheet.com,,arvida,310,"Stockholm, Sweden",se
+docopt/docopt,,keleshev,382,"Copenhagen, Denmark",dk
+notepad-plus-plus/notepad-plus-plus,,donho,1437,Paris France,fr
+youzan/vant-weapp,,pangxie1991,247,China,cn
+youzan/vant-weapp,,chenjiahan,143,Hangzhou China,cn
+youzan/vant-weapp,,NinoFocus,92,"Hangzhou, China",cn
+joemccann/dillinger,us,joemccann,798,"San Francisco, CA",us
+joemccann/dillinger,us,mrtnbroder,204,"Berlin, Germany",de
+MunGell/awesome-for-beginners,ie,MunGell,78,Ireland,ie
+MunGell/awesome-for-beginners,ie,JefMari,17,Philippines,ph
+bootstrap-vue/bootstrap-vue,,tmorehouse,1066,Canada,ca
+bootstrap-vue/bootstrap-vue,,pi0,868,"Islamic Republic of Iran, Tehran",ir
+square/crossfilter,,jasondavies,43,"London, UK",gb
+square/crossfilter,,mbostock,16,"San Francisco, CA",us
+square/crossfilter,,RandomEtc,9,San Francisco,us
+mgcrea/angular-strap,fr,mgcrea,714,"Paris, France",fr
+mgcrea/angular-strap,fr,vmlf01,122,"Lisbon, Portugal",pt
+SwifterSwift/SwifterSwift,,omaralbeik,398,"Istanbul, Turkey",tr
+SwifterSwift/SwifterSwift,,LucianoPAlmeida,49,"Brasília, Brazil",br
+SwifterSwift/SwifterSwift,,SD10,48,"Chicago, IL",us
+docker/labs,,ManoMarks,305,"San Francisco, CA",us
+docker/labs,,arun-gupta,93,"San Jose, CA",cr
+deployphp/deployer,,antonmedv,678,"Phuket, Thailand",th
+baconjs/bacon.js,,raimohanska,1632,"Helsinki, Finland",fi
+baconjs/bacon.js,,lautis,215,"Helsinki, Finland",fi
+gdi2290/awesome-angular,us,gdi2290,100,"San Francisco, CA",us
+gdi2290/awesome-angular,us,rolandjitsu,60,Geneva,ch
+gdi2290/awesome-angular,us,mgechev,32,"San Francisco, CA",us
+sebastianruder/NLP-progress,ie,sebastianruder,83,"Dublin, Ireland",ie
+sebastianruder/NLP-progress,ie,stared,17,"Warsaw, Poland",pl
+aio-libs/aiohttp,,asvetlov,3467,Kiev,ua
+aio-libs/aiohttp,,fafhrd91,775,"San Francisco, US",us
+venmo/synx,,marklarr,170,"San Francisco, CA",us
+coodict/javascript-in-one-pic,,rainyear,81,Shanghai,cn
+apex/up,sc,tj,123,"Victoria, BC, Canada",ca
+fontello/fontello,,ixti,985,Spain,es
+fontello/fontello,,puzrin,831,"Russia, St.Petersburg",ru
+fontello/fontello,,shmelev,165,"Moscow, Russia",ru
+linkedin/css-blocks,,chriseppstein,665,"San Jose, CA",cr
+linkedin/css-blocks,,amiller-gh,154,"San Francisco, CA",us
+choojs/choo,,yoshuawuyts,349,"Berlin, Germany",de
+bottlepy/bottle,,defnull,1317,Germany,de
+rubocop-hq/rails-style-guide,,bbatsov,157,"Sofia, Bulgaria",bg
+future-architect/vuls,,kotakanbe,608,Tokyo,jp
+lukehaas/css-loaders,gb,lukehaas,43,London,gb
+lukehaas/css-loaders,gb,brenopolanski,5,Brazil,br
+guard/guard,,netzpirat,624,Switzerland,ch
+guard/guard,,e2,412,Poland,pl
+guard/guard,,thibaudgg,398,Switzerland,ch
+guard/guard,,rymai,261,"Cannes, France",fr
+workshopper/learnyounode,,martinheidegger,212,"Osaka, Japan",jp
+workshopper/learnyounode,,rvagg,190,"South Coast NSW, Australia",au
+airbnb/Lona,us,dabbott,425,"San Francisco, California",us
+airbnb/Lona,us,NghiaTranUIT,51,Vietnam,vn
+breach/breach_core,,spolu,183,San Francisco,us
+facebook/dataloader,,leebyron,59,San Francisco,us
+facebook/dataloader,,wincent,22,"Madrid, Spain",es
+tmux-plugins/tmux-resurrect,,bruno-,199,"Zagreb, Croatia",hr
+gocolly/colly,,asciimoo,270,"Budapest, Hungary",hu
+Cocoanetics/DTCoreText,,odrobnik,2235,"Vienna, Austria",at
+happypancake/react-native-scrollable-tab-view,se,skv-headless,179,"Russia, Ulyanovsk",ru
+happypancake/react-native-scrollable-tab-view,se,brentvatne,65,"Vancouver, Canada",ca
+KotlinBy/awesome-kotlin,,IRus,526,Minsk,by
+neo4j/neo4j,,tinwelint,7272,"Helsingborg, Sweden",se
+neo4j/neo4j,,nawroth,4105,"Skåne, Sweden",se
+neo4j/neo4j,,systay,3635,"Malmö, Sweden",se
+antoniolg/androidmvp,es,antoniolg,25,Madrid (Spain),es
+antoniolg/androidmvp,es,rafaeltoledo,3,"São Paulo, Brazil",br
+pallets/jinja,,mitsuhiko,1294,Austria,at
+nim-lang/Nim,,Araq,6584,Germany,de
+nim-lang/Nim,,dom96,1331,"London, UK",gb
+xmartlabs/XLPagerTabStrip,us,mtnbarreto,154,Uruguay,uy
+xmartlabs/XLPagerTabStrip,us,santiagofm,25,Uruguay,uy
+mopidy/mopidy,,jodal,4658,"Oslo, Norway",no
+mopidy/mopidy,,adamcik,2164,"Zürich, Switzerland",ch
+ziahamza/webui-aria2,cn,ziahamza,388,Hong Kong,cn
+ziahamza/webui-aria2,cn,nmaier,51,"Wolfsburg, Germany",de
+nate-parrott/Flashlight,us,nate-parrott,1192,New York,us
+nate-parrott/Flashlight,us,xremix,148,Germany,de
+rengwuxian/MaterialEditText,cn,rengwuxian,185,"Zhengzhou, China",cn
+rengwuxian/MaterialEditText,cn,hzsweers,24,"San Francisco, CA",us
+flatiron/director,,indexzero,118,"New York, NY",us
+timgrossmann/InstaPy,de,timgrossmann,585,"Stuttgart, Germany",de
+timgrossmann/InstaPy,de,converge,83,Brazil,br
+LittleFriendsGroup/AndroidSdkSourceAnalysis,,nukc,111,"Shenzhen, China",cn
+LittleFriendsGroup/AndroidSdkSourceAnalysis,,android-cjj,97,"guangzhou,China",cn
+ambv/black,pl,ambv,276,"Poznań, Poland",pl
+ambv/black,pl,zsol,34,"London, UK",gb
+ReSwift/ReSwift,,Ben-G,189,San Francisco,us
+ReSwift/ReSwift,,agentk,30,"Sydney, NSW, Australia",au
+ReSwift/ReSwift,,DivineDominion,26,"Bielefeld, Germany",de
+xmartlabs/XLForm,us,mtnbarreto,264,Uruguay,uy
+xmartlabs/XLForm,us,mats-claassen,140,Uruguay,uy
+ajenti/ajenti,,Eugeny,2210,"Düsseldorf, DE",de
+Automattic/node-canvas,,tj,908,"Victoria, BC, Canada",ca
+Automattic/node-canvas,,LinusU,219,"London, UK",gb
+docker/swarm,,vieux,975,San Francisco,us
+docker/swarm,,aluzzardi,501,"San Francisco, CA",us
+docker/swarm,,nishanttotla,275,San Francisco,us
+docker/swarm,,abronan,269,"Paris, France",fr
+docker/swarm,,dongluochen,263,San Francisco,us
+docker/swarm,,shykes,251,"San Francisco, CA",us
+AnthonyCalandra/modern-cpp-features,ca,AnthonyCalandra,58,"Waterloo, Ontario, Canada",ca
+AnthonyCalandra/modern-cpp-features,ca,tupaschoal,13,"Belo Horizonte, Brazil",br
+shadowsocks/shadowsocks-qt5,,librehat,652,"London, United Kingdom",gb
+php-pm/php-pm,,marcj,130,"Hamburg, Germany",de
+php-pm/php-pm,,andig,90,Germany,de
+aspnetboilerplate/aspnetboilerplate,,hikalkan,3359,"Istanbul, Turkey",tr
+aspnetboilerplate/aspnetboilerplate,,ismcagdas,415,"Istanbul, Turkey",tr
+aspnetboilerplate/aspnetboilerplate,,alirizaadiyahsi,291,"İstanbul, TÜRKİYE",tr
+sameersbn/docker-gitlab,in,sameersbn,1533,"Goa, India",in
+sameersbn/docker-gitlab,in,solidnerd,690,"Bochum, Germany",de
+pyeve/eve,,nicolaiarocci,2240,"Ravenna, Italy",it
+doctrine/doctrine2,,beberlei,1679,Germany,de
+doctrine/doctrine2,,Ocramius,1611,Frankfurt am Main,de
+doctrine/doctrine2,,guilhermeblanco,760,"Toronto, ON, Canada",ca
+levey/AwesomeMenu,cn,levey,40,"Shanghai, China",cn
+levey/AwesomeMenu,cn,acoomans,6,New York,us
+cxxr/better-java,us,cxxr,54,"San Francisco, CA",us
+cxxr/better-java,us,danieldietrich,5,"Kiel, Germany",de
+marmelab/react-admin,,fzaninotto,1737,"Nancy, France",fr
+marmelab/react-admin,,djhi,826,Dijon (France),fr
+marmelab/react-admin,,jpetitcolas,175,"Nancy, France",fr
+facebook/rebound,,willbailey,107,"San Francisco, CA",us
+sharding-sphere/sharding-sphere,,terrymanu,3346,Beijing China,cn
+sharding-sphere/sharding-sphere,,tristaZero,1218,"Beijing, China",cn
+sharding-sphere/sharding-sphere,,haocao,703,"Beijing, China",cn
+forkingdog/FDFullscreenPopGesture,,sunnyxx,26,Beijing,cn
+forkingdog/FDFullscreenPopGesture,,afantree,4,"beijing,china",cn
+adobe-fonts/source-han-sans,cr,kenlunde,21,United States,us
+DevinVinson/WordPress-Plugin-Boilerplate,,tommcfarlin,360,"Atlanta, Georgia",ge
+mgechev/angularjs-style-guide,us,mgechev,297,"San Francisco, CA",us
+mgechev/angularjs-style-guide,us,morizotter,35,Tokyo,jp
+justinfrench/formtastic,au,justinfrench,1342,"Melbourne, Australia",au
+justinfrench/formtastic,au,mjonuschat,130,"San Francisco, CA",us
+diegomura/react-pdf,uy,diegomura,282,"Montevideo, Uruguay",uy
+diegomura/react-pdf,uy,jbovenschen,29,"Utrecht, Netherlands",nl
+square/maximum-awesome,,rudle,57,San Francisco,us
+square/maximum-awesome,,eventualbuddha,55,San Francisco,us
+square/maximum-awesome,,sebdah,26,"Malmö, Sweden",se
+ImageOptim/ImageOptim,,kornelski,988,United Kingdom,gb
+norman/friendly_id,ar,norman,919,"Buenos Aires, Argentina",ar
+norman/friendly_id,ar,parndt,101,"Christchurch, New Zealand",nz
+restic/restic,,fd0,3292,"Aachen, Germany",de
+iron/iron,,reem,561,"San Francisco, CA",us
+iron/iron,,zzmp,124,New York,us
+eclipse/che,,riuvshin,546,Ukraine,ua
+basscss/basscss,,jxnblk,856,New York City,us
+CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout,,jamztang,62,Hong Kong,cn
+googlesamples/android-topeka,,keyboardsurfer,179,"London, UK",gb
+olucurious/Awesome-ARKit,ng,olucurious,120,"Lagos, Nigeria",ng
+olucurious/Awesome-ARKit,ng,tesths,22,Chengdu China,cn
+Bttstrp/bootstrap-switch,,LostCrew,207,"Berlin, Germany",de
+Bttstrp/bootstrap-switch,,nostalgiaz,101,Italy,it
+SocketCluster/socketcluster,,jondubois,1018,"Berlin, Germany",de
+SublimeCodeIntel/SublimeCodeIntel,,Kronuz,423,"Morelia, Mexico",mx
+github-changelog-generator/github-changelog-generator,,skywinder,1028,"Moscow, Russia",ru
+github-changelog-generator/github-changelog-generator,,olleolleolle,278,"Malmö, Sweden",se
+rakyll/boom,us,rakyll,117,"San Francisco, CA",us
+rakyll/boom,us,mdakin,26,"Zurich, Switzerland",ch
+peco/peco,,lestrrat,1079,"Tokyo, Japan",jp
+Netflix/chaosmonkey,,lorin,96,"San Jose, CA",cr
+shadowsocks/shadowsocks-go,,cyfdecyf,268,"Shanghai, China",cn
+mgechev/angular-seed,us,mgechev,1121,"San Francisco, CA",us
+mgechev/angular-seed,us,ludohenin,223,France,fr
+HuddleEng/PhantomCSS,,jamescryer,186,London,gb
+primer/octicons,,jonrohan,340,"San Francisco, CA",us
+primer/octicons,,shawnbot,122,San Francisco,us
+SwiftGen/SwiftGen,,AliSoftware,522,"Rennes, France",fr
+SwiftGen/SwiftGen,,djbe,286,Belgium,be
+react-dropzone/react-dropzone,,okonet,183,"Vienna, Austria",at
+react-dropzone/react-dropzone,,paramaggarwal,74,"Bangalore, India",in
+Yalantis/Side-Menu.Android,ua,kotya341,31,"Dnipro, Berlin ",de
+Yalantis/Side-Menu.Android,ua,edBaev,7,Ukraine,ua
+Yalantis/Side-Menu.Android,ua,warko-san,5,"Ukraine, Dnipro",ua
+Yalantis/Side-Menu.Android,ua,TeeRawk,4,Ukraine,ua
+mgechev/javascript-algorithms,us,mgechev,474,"San Francisco, CA",us
+mgechev/javascript-algorithms,us,AndriiHeonia,64,"Berlin, Germany",de
+hashcat/hashcat,,jsteube,3687,Germany,de
+hashcat/hashcat,,matrix,305,Italy,it
+beanstalkd/beanstalkd,,kr,346,San Francisco,us
+etsy/AndroidStaggeredGrid,,denizmveli,62,Melbourne,au
+rtfeldman/seamless-immutable,us,rtfeldman,355,"Philadelphia, PA",us
+rtfeldman/seamless-immutable,us,crudh,32,"Stockholm, Sweden",se
+Respect/Validation,br,henriquemoody,626,"Amsterdam, NL",nl
+Respect/Validation,br,alganet,304,São Paulo,br
+Respect/Validation,br,nickl-,116,"Pretoria, South Africa",za
+square/cubism,,mbostock,90,"San Francisco, CA",us
+slim-template/slim,,minad,1098,Germany,de
+slim-template/slim,,stonean,226,"Atlanta, Ga",us
+componentjs/component,,tj,544,"Victoria, BC, Canada",ca
+componentjs/component,,jonathanong,68,"Los Angeles, CA",us
+julienXX/terminal-notifier,fr,alloy,84,"Amsterdam, the Netherlands",nl
+julienXX/terminal-notifier,fr,julienXX,49,"Paris, France",fr
+evil-icons/evil-icons,,outpunk,178,"Moscow, Russia",ru
+evil-icons/evil-icons,,romashamin,46,Moscow,ru
+ReactiveX/RxKotlin,,MarioAriasC,62,Indonesia,id
+ReactiveX/RxKotlin,,thomasnield,54,"Dallas, TX",us
+ReactiveX/RxKotlin,,cy6erGn0m,24,"Russia, Saint-Petersburg",ru
+tonsky/AnyBar,ru,tonsky,47,"Moscow, Russia",ru
+tonsky/AnyBar,ru,okertanov,8,"Riga, Latvia",lv
+heelhook/chardin.js,us,heelhook,28,"Boston, MA",us
+heelhook/chardin.js,us,maxloginov,5,San Francisco,us
+heelhook/chardin.js,us,fiveminuteargument,3,"London, United Kingdom",gb
+heelhook/chardin.js,us,wprl,3,"Columbia, Missouri, United States",us
+cytoscape/cytoscape.js,,maxkfranz,3494,"Toronto, Canada",ca
+php-fig/log,,Seldaek,33,"Zürich, Zurich, Switzerland",ch
+php-fig/log,,GrahamCampbell,5,The United Kingdom,gb
+klauscfhq/taskbook,,klauscfhq,156,"London, UK",gb
+easy-mock/easy-mock,,chuangker,99,"Chongqing, China",cn
+felixge/node-formidable,de,felixge,208,"Berlin, Germany",de
+felixge/node-formidable,de,svnlto,45,"Bangkok, Thailand",th
+felixge/node-formidable,de,kornelski,34,United Kingdom,gb
+GoogleContainerTools/skaffold,,r2d4,534,San Francisco,us
+GoogleContainerTools/skaffold,,dgageot,472,"Paris, France",fr
+phpstan/phpstan,,ondrejmirtes,1468,"Prague, Czech Republic",cz
+phpstan/phpstan,,JanTvrdik,120,Prague,cz
+seyhunak/twitter-bootstrap-rails,tr,seyhunak,411,"Istanbul, Turkey",tr
+seyhunak/twitter-bootstrap-rails,tr,toadkicker,142,"Seoul, South Korea",kr
+scribejava/scribejava,,kullfar,388,Moscow,ru
+scribejava/scribejava,,fernandezpablo85,244,"Buenos Aires, Argentina",ar
+SFML/SFML,,LaurentGomila,985,France,fr
+SFML/SFML,,mantognini,250,Switzerland,ch
+SFML/SFML,,binary1248,124,Germany,de
+fastai/courses,,racheltho,45,San Francisco,us
+fastai/courses,,jph00,37,San Francisco,us
+noodlewerk/NWPusher,nl,leonardvandriel,179,San Francisco,us
+uswds/uswds,,maya,2232,"Los Angeles, CA",us
+uswds/uswds,,msecret,332,San Francisco,us
+node-webot/wechat,,JacksonTian,286,"Hangzhou, China",cn
+mattgodbolt/compiler-explorer,us,mattgodbolt,1520,"Chicago, IL",us
+mattgodbolt/compiler-explorer,us,RabsRincon,792,"Madrid, Spain",es
+mattgodbolt/compiler-explorer,us,partouf,187,Netherlands,nl
+dhamaniasad/awesome-postgres,in,dhamaniasad,198,"Bengaluru, India",in
+dhamaniasad/awesome-postgres,in,lfittl,25,"San Francisco, CA",us
+nodejs/node-gyp,,TooTallNate,639,"San Francisco, CA",us
+airbnb/epoxy,us,elihart,217,San Francisco,us
+airbnb/epoxy,us,geralt-encore,35,London,gb
+pnpm/pnpm,,zkochan,2699,"Uzhhorod, Ukraine",ua
+pnpm/pnpm,,rstacruz,348,"Manila, Philippines",ph
+facebookresearch/faiss,,mdouze,101,Paris,fr
+facebookresearch/faiss,,beauby,21,Paris,fr
+phpspec/prophecy,,everzet,149,"London, UK",gb
+phpspec/prophecy,,stof,82,Paris,fr
+phpspec/prophecy,,ciaranmcnulty,50,London,gb
+angular-translate/angular-translate,,PascalPrecht,553,"Amsterdam, Netherlands, Earth",nl
+angular-translate/angular-translate,,knalli,461,Germany,de
+angular-translate/angular-translate,,DWand,124,Ukraine,ua
+withspectrum/spectrum,,brianlovin,5603,San Francisco,us
+withspectrum/spectrum,,mxstbr,2898,"Vienna, Austria",at
+python/mypy,,JukkaL,4132,London,gb
+python/mypy,,gvanrossum,596,San Francisco Bay Area,us
+osxfuse/osxfuse,,bfleischer,480,Germany,de
+Sylius/Sylius,,pjedrzejewski,5244,"Łódź, Poland",pl
+Sylius/Sylius,,pamil,2429,"Łódź, Poland",pl
+Sylius/Sylius,,Zales0123,1116,"Łódź, Poland",pl
+Sylius/Sylius,,michalmarcinkowski,942,"Łódź, Poland",pl
+visionmedia/move.js,,tj,42,"Victoria, BC, Canada",ca
+visionmedia/move.js,,yields,29,Israel,il
+taigaio/taiga-back,,bameda,1327,"Madrid | Jaén, Spain",es
+taigaio/taiga-back,,superalex,789,"Madrid, Spain",es
+taigaio/taiga-back,,jespino,717,"Madrid, Spain",es
+taigaio/taiga-back,,niwinz,438,"Figueres (Girona), Madrid, Sofia (Bulgaria)",bg
+aikorea/awesome-rl,,hshyunsookim,77,"Seoul, Korea",kr
+futurice/pepperoni-app-kit,,jevakallio,85,London,gb
+futurice/pepperoni-app-kit,,krivachy,31,London,gb
+futurice/pepperoni-app-kit,,tino-junge,22,London,gb
+futurice/pepperoni-app-kit,,danieljharvey,18,London,gb
+python-mode/python-mode,,klen,650,"Russia, Moscow",ru
+python-mode/python-mode,,fmv1992,55,"São Paulo, Brazil",br
+ServiceStack/ServiceStack,,mythz,8508,New York,us
+duemunk/Async,dk,duemunk,213,Copenhagen,dk
+duemunk/Async,dk,toshi0383,30,Tokyo,jp
+jsplumb/jsplumb,,sporritt,2841,"Sydney, Australia",au
+scottschiller/SoundManager2,us,scottschiller,727,"San Francisco, CA",us
+scottschiller/SoundManager2,us,kjvarga,103,Canada,ca
+ratchetphp/Ratchet,,cboden,618,"London, Canada",ca
+upend/IF_MS_BUYS_GITHUB_IMMA_OUT,,vassudanagunta,32,New York City,us
+vmg/redcarpet,es,robin850,281,France,fr
+vmg/redcarpet,es,vmg,182,Madrid,es
+vmg/redcarpet,es,mattr-,62,"Dallas, TX",us
+PyMySQL/PyMySQL,,methane,447,"Tokyo, Japan",jp
+PyMySQL/PyMySQL,,grooverdan,84,"Canberra, Australia",au
+PyMySQL/PyMySQL,,lecram,78,Brazil,br
+PyMySQL/PyMySQL,,petehunt,71,"San Francisco, CA",us
+danielzeller/Depth-LIB-Android-,no,danielzeller,16,Norway,no
+danielzeller/Depth-LIB-Android-,no,hfossli,6,"Oslo, Norway",no
+danielzeller/Depth-LIB-Android-,no,Jawnnypoo,5,Dallas,us
+danielzeller/Depth-LIB-Android-,no,yongjhih,4,"Los Angeles, United States",us
+Soundnode/soundnode-app,,weblancaster,513,San Francisco,us
+Soundnode/soundnode-app,,jakejarrett,54,"Melbourne, Australia",au
+KnuffApp/Knuff,,blommegard,148,Stockholm,se
+snowplow/snowplow,gb,alexanderdean,3244,"London, UK",gb
+snowplow/snowplow,gb,fblundun,925,London,gb
+snowplow/snowplow,gb,jbeemster,486,France,fr
+snowplow/snowplow,gb,BenFradet,332,"Waterford, Ireland",ie
+careercup/ctci,,gaylemcd,94,United States,us
+careercup/ctci,,santhoshvai,30,"Utrecht, Netherlands",nl
+apache/flink,,StephanEwen,2401,Berlin,de
+apache/flink,,tillrohrmann,1020,Berlin,de
+apache/flink,,fhueske,782,"Berlin, Germany",de
+atlemo/SubtlePatterns,no,atlemo,42,"Nesodden, Norway",no
+atlemo/SubtlePatterns,no,hanoii,3,"Capital Federal, Argentina",ar
+rendrjs/rendr,,spikebrehm,618,San Francisco,us
+rendrjs/rendr,,saponifi3d,69,"San Francisco, CA",us
+headjs/headjs,,robert-hoffmann,220,"Toulouse, France",fr
+pallets/werkzeug,,mitsuhiko,1786,Austria,at
+pallets/werkzeug,,untitaker,654,"Vienna, Austria",at
+pallets/werkzeug,,DasIch,237,"Berlin, Germany",de
+GoogleContainerTools/jib,,coollog,328,"New York, NY",us
+GoogleContainerTools/jib,,TadCordle,131,"New York, NY",us
+tmux-plugins/tpm,,bruno-,151,"Zagreb, Croatia",hr
+tensorlayer/tensorlayer,,zsdonghao,1260,London,gb
+tensorlayer/tensorlayer,,luomai,200,London,gb
+jedi4ever/veewee,be,jedi4ever,1065,Belgium,be
+jedi4ever/veewee,be,mpapis,185,"Gorzow Wlkp., Poland",pl
+snabbdom/snabbdom,,paldepind,234,"Aarhus, Denmark",dk
+react-cosmos/react-cosmos,,skidding,1222,Bucharest,ro
+JuanitoFatas/fast-ruby,jp,JuanitoFatas,93,"Tokyo, Japan",jp
+JuanitoFatas/fast-ruby,jp,Arcovion,18,"England, United Kingdom",gb
+googleanalytics/autotrack,,philipwalton,434,"San Francisco, CA",us
+ckeditor/ckeditor-dev,,mlewand,2440,Warsaw,pl
+ckeditor/ckeditor-dev,,Comandeer,1576,"Kraków, Poland",pl
+ckeditor/ckeditor-dev,,oleq,1477,"Wrocław, Poland",pl
+ckeditor/ckeditor-dev,,pjasiun,1149,Warsaw,pl
+ckeditor/ckeditor-dev,,fredck,1049,"Warsaw, Poland",pl
+phusion/passenger,,FooBarWidget,7080,"Amsterdam, Netherlands",nl
+cruffenach/CRToast,us,Ashton-W,117,Melbourne,au
+cruffenach/CRToast,us,cruffenach,31,United States,us
+doctrine/instantiator,,Ocramius,231,Frankfurt am Main,de
+ApoorvSaxena/lozad.js,in,ApoorvSaxena,67,India,in
+ApoorvSaxena/lozad.js,in,thiamsantos,21,Brazil,br
+lokesh/lightbox2,us,lokesh,234,"San Francisco, CA",us
+lokesh/lightbox2,us,XhmikosR,19,Greece,gr
+docker/distribution,,stevvooe,733,San Francisco,us
+docker/distribution,,RichardScothern,355,"San Francisco, CA",us
+docker/distribution,,dmcgowan,312,San Francisco,us
+docker/distribution,,dmp42,241,San Francisco,us
+docker/distribution,,aaronlehmann,146,San Francisco,us
+google/gxui,,ben-clayton,139,"London, England",gb
+mruby/mruby,,matz,5234,"Matsue, Japan",jp
+php-fig/container,,mnapoli,65,"Lyon, France",fr
+php-fig/container,,moufmouf,43,Paris,fr
+elementalui/elemental,,jossmac,397,"Sydney, Australia",au
+elementalui/elemental,,JedWatson,290,Sydney,au
+facebookarchive/huxley,,petehunt,62,"San Francisco, CA",us
+malcommac/SwiftDate,it,malcommac,719,"Rome, Italy",it
+malcommac/SwiftDate,it,Hout,128,The Netherlands,nl
+jasperproject/jasper-client,,Holzhaus,315,"Bochum, Germany",de
+jasperproject/jasper-client,,shbhrsaha,31,San Francisco,us
+MacPass/MacPass,,mstarke,1791,"Dresden, Germany",de
+liriliri/eruda,,surunzi,499,"Guangzhou, China",cn
+kazzkiq/balloon.css,br,kazzkiq,57,"Belo Horizonte, Brazil",br
+kazzkiq/balloon.css,br,marcobiedermann,5,"Berlin, Germany",de
+kazzkiq/balloon.css,br,lukehaas,5,London,gb
+shower/shower,,pepelsbey,551,"St. Petersburg, Russia",ru
+shower/shower,,miripiruni,51,"St. Petersburg, Russia",ru
+HubSpot/messenger,,zackbloom,213,Boston,us
+HubSpot/messenger,,adamschwartz,35,"Boston, MA",us
+chainer/chainer,,unnonouno,2512,"Tokyo, Japan",jp
+chainer/chainer,,okuta,1730,Tokyo,jp
+chainer/chainer,,beam2d,1498,Tokyo,jp
+chainer/chainer,,mitmul,842,Tokyo,jp
+stevenwanderski/bxslider-4,us,sekmenhuseyin,28,Turkey,tr
+lfit/itpol,,mricon,65,"Montreal, Canada",ca
+doorkeeper-gem/doorkeeper,,felipeelias,463,"Kraków, Poland",pl
+doorkeeper-gem/doorkeeper,,tute,364,"Córdoba, Argentina",ar
+doorkeeper-gem/doorkeeper,,nbulaj,166,"Grodno, Belarus",by
+segmentio/analytics.js,us,ianstormtaylor,644,"San Francisco, CA",us
+segmentio/analytics.js,us,calvinfo,280,San Francisco,us
+segmentio/analytics.js,us,yields,269,Israel,il
+bda-research/node-crawler,,paulvalla,136,Melbourne,au
+bda-research/node-crawler,,mike442144,99,"Beijing, China",cn
+bda-research/node-crawler,,sylvinus,65,"Paris, France",fr
+apple/swift-nio,,normanmaurer,387,Germany,de
+apple/swift-nio,,weissi,326,"London, UK",gb
+apple/swift-nio,,Lukasa,163,"London, England",gb
+butterproject/butter-desktop,,xaiki,185,Argentina,ar
+go-chi/chi,,pkieltyka,313,"Toronto, Canada",ca
+go-chi/chi,,VojtechVitek,85,Toronto,ca
+facebook/flipper,,priteshrnandgaonkar,92,"London, UK",gb
+facebook/flipper,,passy,74,"London, UK",gb
+facebook/flipper,,jknoxville,61,"London, UK",gb
+facebook/flipper,,danielbuechele,57,London,gb
+documentationjs/documentation,,tmcw,705,san francisco,us
+documentationjs/documentation,,jfirebaugh,123,"San Francisco, CA",us
+botman/botman,,mpociot,694,Germany,de
+olado/doT,ca,olado,104,"Toronto, Canada",ca
+olado/doT,ca,epoberezkin,21,"London, UK",gb
+spotify/annoy,se,erikbern,408,New York City,us
+robertkrimen/otto,us,robertkrimen,468,San Francisco,us
+robertkrimen/otto,us,deoxxa,78,"Melbourne, Australia",au
+Squirrel/Squirrel.Windows,,paulcbetts,917,San Francisco,us
+docker/docker-bench-security,,konstruktoid,411,Sweden,se
+docker/docker-bench-security,,diogomonica,47,"Lisbon, Portugal",pt
+nicolashery/mac-dev-setup,ca,nicolashery,45,"Montreal, Quebec, Canada",ca
+nicolashery/mac-dev-setup,ca,vassyz,5,London,gb
+git-ftp/git-ftp,,resmo,523,Switzerland,ch
+git-ftp/git-ftp,,mkllnk,236,Melbourne,au
+cssinjs/jss,,kof,1097,"Germany, Berlin",de
+cssinjs/jss,,HenriBeck,93,"Hamburg, Germany",de
+android-hacker/VirtualXposed,,tiann,401,China,cn
+android-hacker/VirtualXposed,,247321453,95,China GuangDong,cn
+forter/security-101-for-saas-startups,,itaifrenkel,39,Tel Aviv,il
+forter/security-101-for-saas-startups,,cottsak,4,"Perth, Australia",au
+jquery-backstretch/jquery-backstretch,,danielgindi,100,Israel,il
+jquery-backstretch/jquery-backstretch,,srobbin,68,Chicago,us
+elasticjob/elastic-job-lite,,terrymanu,731,Beijing China,cn
+elasticjob/elastic-job-lite,,haocao,506,"Beijing, China",cn
+activerecord-hackery/ransack,,jonatack,768,Biarritz/Paris/SF/NYC,fr
+activerecord-hackery/ransack,,radar,76,"Melbourne, Australia",au
+mozilla-services/react-jsonschema-form,,n1k0,316,"Montpellier, France",fr
+krzysztofzablocki/Sourcery,pl,ilyapuchka,338,London,gb
+krzysztofzablocki/Sourcery,pl,krzysztofzablocki,206,"Warsaw, Poland",pl
+krzysztofzablocki/Sourcery,pl,Antondomashnev,99,London,gb
+glfw/glfw,,elmindreda,3234,Sweden,se
+browserslist/browserslist,,ai,600,"New York, USA",us
+easymotion/vim-easymotion,,haya14busa,543,"Tokyo, Japan",jp
+easymotion/vim-easymotion,,Lokaltog,167,"Jessheim, Norway",no
+chancejs/chancejs,,victorquinn,530,"New York, NY",us
+mledoze/countries,fr,mledoze,296,"Paris, France",fr
+mledoze/countries,fr,cumanacr,44,Costa Rica,cr
+BafS/Gutenberg,ch,BafS,43,Switzerland,ch
+BafS/Gutenberg,ch,tomm1996,4,Germany,de
+reactiveui/ReactiveUI,au,paulcbetts,2039,San Francisco,us
+reactiveui/ReactiveUI,au,jlaanstra,364,"Seattle, United States",us
+reactiveui/ReactiveUI,au,ghuntley,218,"Sydney, Australia",au
+reactiveui/ReactiveUI,au,kentcb,212,Australia,au
+CodeboxIDE/codebox,,SamyPesse,1542,"Lyon, France",fr
+CodeboxIDE/codebox,,AaronO,440,Palo Alto / France,fr
+square/cube,,mbostock,125,"San Francisco, CA",us
+square/cube,,RandomEtc,25,San Francisco,us
+SirVer/ultisnips,de,SirVer,910,Germany,de
+SirVer/ultisnips,de,seletskiy,103,"Russia, Sochi",ru
+globalizejs/globalize,,rxaviers,412,"Sao Paulo, Brazil",br
+globalizejs/globalize,,rdworth,94,"Dallas, TX",us
+globalizejs/globalize,,eric-brechemier,67,"Compiègne, France",fr
+globalizejs/globalize,,jzaefferer,48,"Cologne, Germany",de
+BBC-News/Imager.js,gb,oncletom,180,France,fr
+BBC-News/Imager.js,gb,Integralist,61,London,gb
+timber/timber,,jarednova,2603,"Boston, MA",us
+flarum/core,au,tobscure,1815,Australia,au
+flarum/core,au,franzliedke,510,Germany,de
+zalandoresearch/fashion-mnist,,hanxiao,184,"Berlin, Germany",de
+HangfireIO/Hangfire,,odinserj,2554,"Moscow, Russia",ru
+pybind/pybind11,,wjakob,496,"Lausanne, Switzerland",ch
+pybind/pybind11,,jagerman,296,"Kingston, ON, Canada",ca
+pybind/pybind11,,dean0x7d,197,"Amsterdam, Netherlands",nl
+pybind/pybind11,,aldanor,137,"Dublin, Ireland",ie
+Kristories/awesome-guidelines,id,Kristories,44,Jakarta,id
+Kristories/awesome-guidelines,id,shlomif,4,"Tel Aviv, Israel",il
+mikepenz/Android-Iconics,at,mikepenz,705,"Linz, Austria",at
+mikepenz/Android-Iconics,at,zTrap,53,"Russia, Moscow",ru
+sass/libsass,,mgreter,1323,Zürich,ch
+sass/libsass,,xzyfer,696,Australia,au
+webmozart/assert,at,webmozart,55,"Vienna, Austria",at
+webmozart/assert,at,Nyholm,5,Stockholm,se
+django-extensions/django-extensions,,trbs,1512,Netherlands,nl
+edx/edx-platform,,cpennington,2756,Boston,us
+erming/shout,se,erming,661,"Malmö, Sweden",se
+erming/shout,se,astorije,51,"Boston, MA, USA",us
+acornjs/acorn,,marijnh,522,Berlin,de
+acornjs/acorn,,RReverser,223,"London, UK",gb
+zeman/perfmap,nz,zeman,31,"Auckland, New Zealand",nz
+zeman/perfmap,nz,umaar,6,London,gb
+totaljs/framework,,petersirka,4043,"Slovakia (EU), Bratislava",sk
+ternjs/tern,,marijnh,1004,Berlin,de
+jisaacks/GitGutter,us,deathaxe,258,Germany,de
+jisaacks/GitGutter,us,jisaacks,200,"Atlanta, GA",us
+jisaacks/GitGutter,us,r-stein,58,Germany,de
+open-source-ideas/open-source-ideas,,mikaelbr,32,"Trondheim, Norway",no
+open-source-ideas/open-source-ideas,,FredrikAugust,14,"Trondheim, Norway",no
+pedrovgs/AndroidWiFiADB,es,pedrovgs,133,Madrid,es
+pedrovgs/AndroidWiFiADB,es,vgaidarji,21,Moldova,md
+rakyll/hey,us,rakyll,162,"San Francisco, CA",us
+rakyll/hey,us,mdakin,31,"Zurich, Switzerland",ch
+solnic/virtus,pl,solnic,964,"Cracow, Poland",pl
+solnic/virtus,pl,dkubb,411,"Mission, BC, Canada",ca
+mailhog/MailHog,,ian-kent,244,United Kingdom,gb
+google/cameraview,,yaraki,50,Tokyo,jp
+google/cameraview,,MarsVard,5,"Bilzen, Belgium",be
+google/cameraview,,kevinpelgrims,4,"Copenhagen, Denmark",dk
+webpack-contrib/extract-text-webpack-plugin,,sokra,108,Germany,de
+webpack-contrib/extract-text-webpack-plugin,,bebraw,40,"Vienna, Austria",at
+TykTechnologies/tyk,gb,lonelycode,910,London,gb
+TykTechnologies/tyk,gb,mvdan,644,London,gb
+TykTechnologies/tyk,gb,matiasinsaurralde,637,Paraguay,py
+arendst/Sonoff-Tasmota,nl,arendst,762,Netherlands,nl
+arendst/Sonoff-Tasmota,nl,ascillato,562,Argentina,ar
+primus/primus,,3rd-Eden,811,"Drachten, the Netherlands",nl
+primus/primus,,lpinca,540,"Foligno (PG), Italy",it
+elixir-ecto/ecto,,josevalim,1946,"Kraków, Poland",pl
+elixir-ecto/ecto,,ericmj,541,"Gothenburg, Sweden",se
+telly/TLYShyNavBar,us,Mazyod,177,"Dubai, UAE.",ae
+mongodb/mongoid,,durran,4414,"Berlin, Deutschland",de
+mongodb/mongoid,,estolfo,722,"Berlin, Germany",de
+shoutem/ui,us,MrBr,192,Croatia,hr
+shoutem/ui,us,zrumenjak,149,"Zagreb, Croatia",hr
+shoutem/ui,us,SoHotSoup,78,Zagreb,hr
+shoutem/ui,us,Vladimir-Vdovic,45,"Osijek, Croatia",hr
+edwardtufte/tufte-css,,daveliepmann,203,"Berlin, Germany",de
+oklai/koala,cn,oklai,245,"Hangzhou, China",cn
+oklai/koala,cn,zaygraveyard,120,"Brest, France",fr
+myclabs/DeepCopy,,mnapoli,55,"Lyon, France",fr
+myclabs/DeepCopy,,theofidry,21,"London, United Kingdom",gb
+Moeditor/Moeditor,,Menci,236,"Shandong, China",cn
+DeclarativeHub/Bond,,srdanrasic,582,Copenhagen,dk
+DeclarativeHub/Bond,,tonyarnold,103,"Newcastle, Australia",au
+refinery/refinerycms,,parndt,5051,"Christchurch, New Zealand",nz
+refinery/refinerycms,,ugisozols,1233,Latvia,lv
+cinder/Cinder,,andrewfb,3565,"New York, NY",us
+cinder/Cinder,,richardeakin,1881,New York,us
+cinder/Cinder,,chaoticbob,545,San Francisco,us
+davidhalter/jedi-vim,ch,davidhalter,446,Switzerland,ch
+davidhalter/jedi-vim,ch,blueyed,166,"Berlin, Germany",de
+qutebrowser/qutebrowser,,The-Compiler,12501,"Winterthur, Switzerland",ch
+deepmind/learning-to-learn,gb,sergomezcol,11,London,gb
+deepmind/learning-to-learn,gb,normanheckscher,5,"Central Queensland, Australia",au
+socketstream/socketstream,gb,thepian,413,Switzerland,ch
+socketstream/socketstream,gb,paulbjensen,223,"Gothenburg, Sweden",se
+gali8/Tesseract-OCR-iOS,it,kevincon,94,"San Jose, CA",cr
+gali8/Tesseract-OCR-iOS,it,gali8,75,Italy,it
+gali8/Tesseract-OCR-iOS,it,bamx23,72,"Minsk, Belarus",by
+gali8/Tesseract-OCR-iOS,it,ws233,56,Moscow,ru
+reapp/reapp,,natew,220,"San Francisco, CA",us
+BoltsFramework/Bolts-Android,,grantland,133,San Francisco,us
+node-apn/node-apn,,argon,935,United Kingdom,gb
+dformoso/machine-learning-mindmap,au,dformoso,29,"Sydney, Australia",au
+dformoso/machine-learning-mindmap,au,ricardoamaro,2,Lisbon,pt
+MoePlayer/DPlayer,,DIYgod,406,"Shanghai, China",cn
+mqttjs/MQTT.js,,mcollina,555,In the clouds above Italy,it
+mqttjs/MQTT.js,,adamvr,282,"Cologne, Germany",de
+GoogleChrome/rendertron,,samuelli,136,San Francisco,us
+GoogleChrome/rendertron,,aomarks,21,San Francisco,us
+apexcharts/apexcharts.js,,junedchhipa,108,India,in
+Meituan-Dianping/walle,,GavinCT,116,"Beijing,China",cn
+Meituan-Dianping/walle,,achellies,88,beijing,cn
+ProseMirror/prosemirror,,marijnh,159,Berlin,de
+badoo/Chatto,,diegosanchezr,177,"London, United Kingdom",gb
+badoo/Chatto,,AntonPalich,93,London,gb
+uber/horovod,,alsrgv,92,United States,us
+graphql-go/graphql,,chris-ramon,300,"Lima, Perú",pe
+graphql-go/graphql,,sogko,293,Singapore,sg
+real-logic/aeron,gb,mjpt777,4995,"London, England",gb
+real-logic/aeron,gb,tmontgomery,1447,"San Francisco Bay Area, CA, USA",us
+real-logic/aeron,gb,RichardWarburton,521,"London, UK.",gb
+red/red,,dockimbel,6516,"Xiamen, China",cn
+red/red,,qtxie,1617,"Xiamen,China",cn
+tildeio/rsvp.js,,stefanpenner,613,"San Jose, CA",cr
+tildeio/rsvp.js,,bekzod,77,tashkent,uz
+emqtt/emqttd,,emqplus,2319,"hangzhou, china",cn
+openhab/openhab1-addons,de,cdjackson,1797,United Kingdom,gb
+openhab/openhab1-addons,de,teichsta,1350,Germany,de
+openhab/openhab1-addons,de,kaikreuzer,786,"Darmstadt, Germany",de
+buefy/buefy,,rafaelpimpa,536,Brazil,br
+buefy/buefy,,jtommy,259,Italy,it
+AppImage/AppImageKit,,TheAssassin,691,Germany,de
+AppImage/AppImageKit,,probonopd,540,Germany,de
+OptimalBits/bull,,manast,1012,Sweden,se
+phonegap/phonegap-start,,mwbrooks,60,"Vancouver, Canada",ca
+phonegap/phonegap-start,,wildabeast,5,"Vancouver, BC",ca
+colszowka/simplecov,de,colszowka,484,"Hamburg, Germany",de
+colszowka/simplecov,de,PragTob,143,Berlin,de
+colszowka/simplecov,de,sferik,112,San Francisco,us
+pili-engineering/PLDroidPlayer,sg,jpxiong,40,"Shanghai, China",cn
+pili-engineering/PLDroidPlayer,sg,Jhuster,29,Shanghai,cn
+pili-engineering/PLDroidPlayer,sg,zshbleaker,14,Shanghai,cn
+cesarferreira/dryrun,gb,cesarferreira,134,"London, UK",gb
+cesarferreira/dryrun,gb,luispereira,15,Portugal,pt
+suitcss/suit,,necolas,112,"San Francisco, CA",us
+suitcss/suit,,simonsmith,32,London,gb
+appjs/appjs,,milani,292,"Tehran, Iran",ir
+glidejs/glide,,jedrzejchalubek,484,"Poznań, Poland",pl
+i3/i3,,stapelberg,4128,"Zürich, Switzerland",ch
+i3/i3,,Airblader,462,"Munich, Germany",de
+scala-js/scala-js,,sjrd,2954,"Lausanne, Switzerland",ch
+scala-js/scala-js,,gzm0,1356,"Lausanne, Switzerland",ch
+denysdovhan/bash-handbook,ua,denysdovhan,146,"Ukraine, Chernivtsi",ua
+denysdovhan/bash-handbook,ua,sumbach,23,"New York, NY",us
+HearthSim/Hearthstone-Deck-Tracker,,azeier,815,Germany,de
+facebookarchive/mention-bot,,vjeux,81,"San Francisco, California",us
+ElasticHQ/elasticsearch-HQ,,royrusso,551,"Atlanta, GA",us
+google/tamperchrome,,sirdarckcat,21,Zürich,ch
+ArduPilot/ardupilot,,tridge,10949,"Canberra, Australia",au
+ArduPilot/ardupilot,,rmackay9,5452,"Tokyo, Japan",jp
+ArduPilot/ardupilot,,peterbarker,2121,"Canberra, Australia",au
+archriss/react-native-snap-carousel,,bd-arc,269,France,fr
+archriss/react-native-snap-carousel,,Exilz,52,"Gap, France",fr
+spyder-ide/spyder,,ccordoba12,6163,"Bogota, Colombia",co
+spyder-ide/spyder,,PierreRaybaut,2183,"Paris, France",fr
+spyder-ide/spyder,,rlaverde,679,Colombia,co
+vuejs/vue-loader,,yyx990803,179,New Jersey / China,cn
+vuejs/vue-loader,,Jinjiang,31,"Hangzhou, China",cn
+hootsuite/grid,ca,skidding,203,Bucharest,ro
+hootsuite/grid,ca,NiGhTTraX,60,Sweden,se
+touchstonejs/touchstonejs,,jossmac,267,"Sydney, Australia",au
+touchstonejs/touchstonejs,,JedWatson,135,Sydney,au
+touchstonejs/touchstonejs,,dcousens,115,"Melbourne, Australia",au
+sqreen/awesome-nodejs-projects,us,vdeturckheim,61,Paris France,fr
+JetBrains/ideavim,,vlasovskikh,838,"Saint Petersburg, Russia",ru
+JetBrains/ideavim,,karavaevitalii,193,St. Petersburg,ru
+Karumi/Dexter,es,Serchinastico,122,Madrid,es
+Karumi/Dexter,es,CarlosMChica,40,London,gb
+Karumi/Dexter,es,pedrovgs,38,Madrid,es
+yoavlt/LiquidFloatingActionButton,jp,yoavlt,62,Japan,jp
+yoavlt/LiquidFloatingActionButton,jp,ansonyao,6,Vancouver BC,ca
+gopherchina/conference,,astaxie,14,"Shanghai, China",cn
+json-iterator/go,,taowen,584,Beijing,cn
+json-iterator/go,,thockin,42,United States,us
+coreos/flannel,,eyakubovich,257,San Francisco Bay Area,us
+coreos/flannel,,tomdee,253,San Francisco,us
+log4js-node/log4js-node,,nomiddlename,159,"Melbourne, Australia",au
+facebookarchive/origami,,drewhamlin,10,"San Francisco, CA",us
+facebookarchive/origami,,tarngerine,7,New York,us
+facebookarchive/origami,,arbales,7,"San Francisco, California",us
+topojson/topojson,,mbostock,567,"San Francisco, CA",us
+topojson/topojson,,jasondavies,49,"London, UK",gb
+fastai/numerical-linear-algebra,,racheltho,50,San Francisco,us
+FuzzyAutocomplete/FuzzyAutocompletePlugin,,slazyk,106,"Zürich, Switzerland",ch
+FuzzyAutocomplete/FuzzyAutocompletePlugin,,chendo,92,"Melbourne, Australia",au
+i-tu/Hasklig,fi,i-tu,50,Helsinki,fi
+i-tu/Hasklig,fi,miguelsousa,26,"San Jose, CA",cr
+pixelsign/html5-device-mockups,fi,ben182,118,"Hamburg, Germany",de
+pixelsign/html5-device-mockups,fi,pixelsign,24,"Helsinki, Finland",fi
+qor/qor,,jinzhu,1609,"Life is Art, HangZhou China",cn
+qor/qor,,fengyuanchen,407,"Hangzhou, China",cn
+qor/qor,,bom-d-van,198,China,cn
+Day8/re-frame,,mike-thompson-day8,1090,Sydney,au
+Day8/re-frame,,danielcompton,247,"Morrinsville, New Zealand",nz
+smalot/bootstrap-datetimepicker,fr,smalot,178,France,fr
+smalot/bootstrap-datetimepicker,fr,AuspeXeu,99,"United Kingdom, Oxford",gb
+rockerhieu/emojicon,vn,rockerhieu,90,"Ho Chi Minh, Vietnam",vn
+rockerhieu/emojicon,vn,daniele-athome,14,Italy,it
+affinelayer/pix2pix-tensorflow,,christopherhesse,26,"San Francisco, CA",us
+CouchPotato/CouchPotatoServer,,RuudBurger,4164,Netherlands,nl
+pkg/errors,,davecheney,84,"Sydney, Australia",au
+ashishb/android-security-awesome,us,ashishb,127,United States,us
+ashishb/android-security-awesome,us,shanraisshan,17,"Karachi, Pakistan",pk
+Coding/Coding-iOS,,wanghengheng,1493,Shenzhen,cn
+hustcc/timeago.js,cn,hustcc,153,"HangZhou, China",cn
+hustcc/timeago.js,cn,likerRr,20,Minsk,by
+NYTimes/Store,us,digitalbuddha,103,"New York, New York",us
+NYTimes/Store,us,brianPlummer,28,"New York, New York",us
+NYTimes/Store,us,pavlospt,20,"Athens, Greece",gr
+NYTimes/Store,us,ramonaharrison,18,"New York, NY",us
+Shopify/sarama,,eapache,906,"Ottawa, Canada",ca
+Shopify/sarama,,wvanbergen,267,"Ottawa, Canada",ca
+Rebilly/ReDoc,,RomanGotsiy,1614,"Lviv, Ukraine",ua
+geocoder-php/Geocoder,,willdurand,609,Germany ,de
+geocoder-php/Geocoder,,Nyholm,212,Stockholm,se
+geocoder-php/Geocoder,,toin0u,113,Copenhagen,dk
+phpmyadmin/phpmyadmin,,nijel,16123,Prague,cz
+phpmyadmin/phpmyadmin,,lem9,15560,"Sherbrooke, Québec, Canada",ca
+phpmyadmin/phpmyadmin,,madhuracj,6348,"Melbourne, Australia",au
+rest-assured/rest-assured,,johanhaleby,1567,Sweden,se
+django-crispy-forms/django-crispy-forms,,maraujop,654,"Madrid, Spain",es
+django-crispy-forms/django-crispy-forms,,pydanny,214,"Los Angeles, California, USA",us
+django-crispy-forms/django-crispy-forms,,carltongibson,165,Spain,es
+epeli/underscore.string,fi,epeli,130,"Jyväskylä, Finland",fi
+epeli/underscore.string,fi,edtsech,107,"Prague, Czech Republic",cz
+epeli/underscore.string,fi,stoeffel,102,Zurich,ch
+django-oscar/django-oscar,,codeinthehole,3516,London,gb
+django-oscar/django-oscar,,maikhoepfel,1095,"Berlin, Germany",de
+django-oscar/django-oscar,,mvantellingen,436,"Utrecht, The Netherlands",nl
+spacehuhn/esp8266_deauther,de,spacehuhn,404,Germany,de
+spacehuhn/esp8266_deauther,de,tobozo,37,"Paris, France ",fr
+spacehuhn/esp8266_deauther,de,N0vaPixel,32,"Evreux, France",fr
+gobuffalo/buffalo,,markbates,1363,"Boston, MA",us
+gobuffalo/buffalo,,paganotoni,303,Barranquilla / Colombia,co
+express-validator/express-validator,,gustavohenke,338,Sydney,au
+express-validator/express-validator,,rustybailey,113,"Atlanta, GA",us
+express-validator/express-validator,,ctavan,103,Berlin / Germany,de
+docker/docker-py,,shin-,1678,"San Francisco, CA",us
+Mooophy/Cpp-Primer,nz,Mooophy,684,"Auckland, New Zealand",nz
+Mooophy/Cpp-Primer,nz,pezy,551,"Beijing, China",cn
+fluent-ffmpeg/node-fluent-ffmpeg,,schaermu,235,"Bern, Switzerland",ch
+fluent-ffmpeg/node-fluent-ffmpeg,,spruce,54,Berlin,de
+fluent-ffmpeg/node-fluent-ffmpeg,,bencevans,45,"London, UK",gb
+LaiFengiOS/LFLiveKit,,toss156,31,"HangZhou,China",cn
+LaiFengiOS/LFLiveKit,,chenliming777,17,beijing,cn
+cloudflare/cfssl,sg,kisom,332,United States,us
+cloudflare/cfssl,sg,lziest,219,San Francisco,us
+cloudflare/cfssl,sg,grittygrease,90,San Francisco,us
+django/channels,,andrewgodwin,653,"San Francisco, USA",us
+eudicots/Cactus,,krallin,259,"Paris, France",fr
+eudicots/Cactus,,koenbok,132,Amsterdam,nl
+react-native-community/react-native-video,,cobarx,252,"San Francisco, CA",us
+react-native-community/react-native-video,,brentvatne,130,"Vancouver, Canada",ca
+react-native-community/react-native-video,,sjchmiela,49,"Kraków, Poland",pl
+react-native-community/react-native-video,,isair,48,San Francisco Bay Area,us
+evilsocket/opensnitch,it,evilsocket,260,Italy,it
+evilsocket/opensnitch,it,adisbladis,42,Hong Kong,cn
+gontovnik/DGElasticPullToRefresh,gb,gontovnik,8,"London, United Kingdom",gb
+gontovnik/DGElasticPullToRefresh,gb,haawa799,3,"Lviv, Ukraine",ua
+chrisboulton/php-resque,us,chrisboulton,110,"San Francisco, CA",us
+chrisboulton/php-resque,us,ruudk,22,"Amsterdam, NL",nl
+tensorflow/skflow,,ilblackdragon,302,"San Francisco, CA",us
+tensorflow/skflow,,terrytangyuan,205,"Chicago, IL",us
+google/google-authenticator,,ThomasHabets,61,London,gb
+anchorcms/anchor-cms,,CraigChilds94,280,"Brighton, United Kingdom",gb
+zo0r/react-native-push-notification,us,zo0r,127,"Miami, Florida",us
+zo0r/react-native-push-notification,us,npomfret,63,London,gb
+zo0r/react-native-push-notification,us,Gp2mv3,45,Belgium,be
+api-platform/api-platform,,dunglas,225,"Lille, France",fr
+api-platform/api-platform,,teohhanhui,33,"Lille, France",fr
+ktorio/ktor,,cy6erGn0m,1009,"Russia, Saint-Petersburg",ru
+ktorio/ktor,,orangy,815,St.Petersburg,ru
+GoogleChromeLabs/ui-element-samples,,paullewis,68,"London, United Kingdom",gb
+GoogleChromeLabs/ui-element-samples,,surma,63,"London, England",gb
+hobby-kube/guide,,pstadler,26,"Zürich, Switzerland",ch
+romandanylyk/PageIndicatorView,ua,romandanylyk,247,"Lviv, Ukraine",ua
+romandanylyk/PageIndicatorView,ua,saulmm,24,Spain,es
+APIs-guru/graphql-voyager,,IvanGoncharov,205,"Lviv, Ukraine",ua
+APIs-guru/graphql-voyager,,RomanGotsiy,195,"Lviv, Ukraine",ua
+wix/detox,,rotemmiz,605,Israel,il
+wix/detox,,LeoNatan,257,"Tel Aviv, Israel",il
+wix/detox,,simonracz,98,Amsterdam,nl
+tomav/docker-mailserver,fr,tomav,280,"Paris, France",fr
+tomav/docker-mailserver,fr,johansmitsnl,40,Netherlands,nl
+KartikTalwar/gmail.js,us,KartikTalwar,290,San Francisco,us
+KartikTalwar/gmail.js,us,josteink,157,"Oslo, Norway",no
+github/gemoji,us,mislav,102,Amsterdam,nl
+github/gemoji,us,josh,89,"San Francisco, CA",us
+github/gemoji,us,trevorturk,74,"Chicago, IL",us
+okonet/lint-staged,at,okonet,281,"Vienna, Austria",at
+okonet/lint-staged,at,sudo-suhas,41,"Bengaluru, India",in
+padrino/padrino-framework,,nesquena,1041,"San Francisco, California",us
+padrino/padrino-framework,,DAddYE,1023,San Francisco,us
+padrino/padrino-framework,,ujifgc,728,"Izhevsk, Russia",ru
+padrino/padrino-framework,,namusyaka,364,Japan,jp
+padrino/padrino-framework,,achiu,295,"San Francisco, CA",us
+reagent-project/reagent,,holmsand,657,"Stockholm, Sweden",se
+reagent-project/reagent,,Deraen,252,"Tampere, Finland",fi
+okmr-d/DOFavoriteButton,jp,okmr-d,26,"Tokyo, Japan",jp
+okmr-d/DOFavoriteButton,jp,JakeSc,2,"San Francisco, CA",us
+okmr-d/DOFavoriteButton,jp,kylebshr,2,San Francisco,us
+shazow/ssh-chat,ca,shazow,250,"Toronto, ON",ca
+shazow/ssh-chat,ca,wpovell,27,United States,us
+angular/universal,,gdi2290,1395,"San Francisco, CA",us
+flask-admin/flask-admin,,mrjoes,1146,"Atlanta, GA",us
+flask-admin/flask-admin,,pawl,323,"Dallas, TX",us
+flask-admin/flask-admin,,petrus-jvrensburg,174,"Cape Town, South Africa",za
+reactjs/react-basic,,sebmarkbage,7,San Francisco,us
+reactjs/react-basic,,knowbody,3,London,gb
+reactjs/react-basic,,kkpoon,2,Hong Kong,cn
+reactjs/react-basic,,gaearon,1,"London, UK",gb
+reactjs/react-basic,,jonathanp,1,Sweden,se
+reactjs/react-basic,,nicoder,1,Poland,pl
+doctrine/dbal,,beberlei,868,Germany,de
+doctrine/dbal,,deeky666,537,"Hamburg, Germany",de
+Frege/frege,,Ingo60,2191,Germany,de
+rappasoft/laravel-5-boilerplate,us,rappasoft,1302,New York,us
+rappasoft/laravel-5-boilerplate,us,blomdahldaniel,112,Sweden,se
+Microsoft/language-server-protocol,,dbaeumer,198,Switzerland,ch
+kvz/locutus,nl,kvz,1106,"Amsterdam, The Netherlands",nl
+kvz/locutus,nl,brettz9,845,"Shenzhen, China",cn
+OWASP/owasp-mstg,,b-mueller,1949,"Chiang Mai, Thailand",th
+OWASP/owasp-mstg,,sushi2k,712,Singapore,sg
+yasserg/crawler4j,us,yasserg,124,San Francisco Bay Area,us
+yasserg/crawler4j,us,s17t,117,"Turin, Italy",it
+yasserg/crawler4j,us,Chaiavi,69,Israel,il
+sitespeedio/sitespeed.io,,soulgalore,4425,"Stockholm, Sweden",se
+viljamis/feature.js,fi,viljamis,16,"Helsinki, Finland",fi
+viljamis/feature.js,fi,henriquesosa,6,São Paulo,br
+stephanenicolas/robospice,us,stephanenicolas,669,"San Francisco, USA",us
+stephanenicolas/robospice,us,rciovati,99,"Berlin, Germany",de
+picturepan2/instagram.css,cn,picturepan2,21,Shanghai / Seattle,cn
+picturepan2/instagram.css,cn,lulucca12,6,In the journey of programing(Brazil),br
+Financial-Times/polyfill-service,gb,triblondon,1028,London,gb
+Financial-Times/polyfill-service,gb,JakeChampion,768,London,gb
+Financial-Times/polyfill-service,gb,jonathantneal,381,"Georgia, USA",ge
+Financial-Times/polyfill-service,gb,samgiles,323,"London, UK",gb
+keyboardsurfer/Crouton,gb,keyboardsurfer,317,"London, UK",gb
+keyboardsurfer/Crouton,gb,ming13,34,"Minsk, Belarus",by
+segmentio/evergreen,us,jeroenransijn,244,San Francisco,us
+segmentio/evergreen,us,Rowno,73,"Vancouver, Canada",ca
+babel/babel-loader,,Couto,170,"Porto, Portugal",pt
+babel/babel-loader,,danez,61,San Francisco Bay Area,us
+usefathom/fathom,,dannyvankooten,443,"Middelburg, The Netherlands",nl
+sketchplugins/plugin-directory,,bomberstudios,616,"Madrid, Spain",es
+filebrowser/filebrowser,,hacdias,1388,Portugal,pt
+fians/Waves,id,hoxxep,78,"London, UK",gb
+rhysd/vim.wasm,jp,brammool,8679,Switzerland,ch
+square/Valet,,dfed,139,San Francisco,us
+square/Valet,,EricMuller22,30,"San Francisco, CA",us
+floydhub/dl-docker,,saiprashanths,39,"San Francisco, CA",us
+babel/babel-sublime,,zertosh,270,"New York, NY",us
+accord-net/framework,,cesarsouza,2130,"Grenoble, France",fr
+concourse/concourse,,vito,3147,"Toronto, ON",ca
+quirkey/sammy,jm,quirkey,573,"Kingston, NY",jm
+quirkey/sammy,jm,endor,94,"Helsinki, Finland",fi
+google-map-react/google-map-react,,istarkov,219,Moscow,ru
+google-map-react/google-map-react,,itsmichaeldiego,41,"Montevideo, Uruguay",uy
+journeyapps/zxing-android-embedded,,rkistner,339,"Stellenbosch, South Africa",za
+jaredpalmer/react-fns,us,jaredpalmer,61,"New York, NY",us
+jaredpalmer/react-fns,us,vhfmag,5,"Salvador, Brazil",br
+taigaio/taiga-front,,juanfran,1239,Madrid,es
+taigaio/taiga-front,,bameda,1147,"Madrid | Jaén, Spain",es
+taigaio/taiga-front,,Xaviju,1066,"Madrid, Valencia, Spain",es
+taigaio/taiga-front,,superalex,739,"Madrid, Spain",es
+taigaio/taiga-front,,jespino,426,"Madrid, Spain",es
+rbenv/ruby-build,,mislav,300,Amsterdam,nl
+rbenv/ruby-build,,hsbt,270,"Tokyo, Japan",jp
+rbenv/ruby-build,,sferik,193,San Francisco,us
+rbenv/ruby-build,,sstephenson,191,Chicago,us
+csstools/sanitize.css,,jonathantneal,100,"Georgia, USA",ge
+getbem/getbem.com,,floatdrop,423,"Russia, Yekaterinburg",ru
+mikel/mail,au,mikel,757,"Sydney, Australia",au
+mikel/mail,au,jeremy,339,"Phoenix, AZ",us
+bitcoinjs/bitcoinjs-lib,,dcousens,1538,"Melbourne, Australia",au
+bitcoinjs/bitcoinjs-lib,,weilu,251,Singapore,sg
+Studio-42/elFinder,ru,nao-pon,4306,Japan,jp
+Studio-42/elFinder,ru,dio-el-claire,1064,"Moscow, Russia",ru
+pkluz/PKHUD,de,PGLongo,91,"Genoa, Italy",it
+pkluz/PKHUD,de,pkluz,91,"Munich, Germany",de
+alecthomas/gometalinter,au,alecthomas,267,"Sydney, Australia",au
+alecthomas/gometalinter,au,dnephin,28,Toronto,ca
+elastic/elasticsearch-js,,spalger,1092,"Phoenix, AZ",us
+MoePlayer/APlayer,,DIYgod,278,"Shanghai, China",cn
+thoughtbot/clearance,gb,croaky,450,San Francisco,us
+thoughtbot/clearance,gb,derekprior,150,"Boston, MA",us
+Quick/Nimble,,jeffh,482,San Francisco,us
+Quick/Nimble,,ikesyo,219,"Kyoto, Japan",jp
+Quick/Nimble,,norio-nomura,88,"Anjo, Japan",jp
+thomaspark/flexboxfroggy,us,thomaspark,201,Philadelphia,us
+thomaspark/flexboxfroggy,us,mihailgaberov,30,"Zürich, Switzerland",ch
+devbridge/jQuery-Autocomplete,,tkirda,258,"Chicago, IL",us
+picocms/Pico,,PhrozenByte,573,Germany,de
+picocms/Pico,,theshka,73,Canada,ca
+google/or-tools,,lperron,1322,"Paris, France",fr
+google/or-tools,,Mizux,393,"Tours, France",fr
+springfox/springfox,,dilipkrish,1974,"Dallas, TX",us
+springfox/springfox,,adrianbk,429,"Melbourne, Australia",au
+webpack-contrib/css-loader,,sokra,166,Germany,de
+webpack-contrib/css-loader,,evilebottnawi,26,"Russia, Kirov",ru
+google/snappy,,pwnall,29,"San Francisco, CA",us
+google/snappy,,sesse,19,Norway <3,no
+pedrovgs/DraggablePanel,es,pedrovgs,313,Madrid,es
+pedrovgs/DraggablePanel,es,ppamorim,37,Dublin - Ireland,ie
+KnpLabs/snappy,fr,NiR-,45,"Nantes, France",fr
+KnpLabs/snappy,fr,pilot,39,"Ukraine, Kharkov",ua
+KnpLabs/snappy,fr,akovalyov,39,"Ukraine, Kiev",ua
+KnpLabs/snappy,fr,Herzult,35,France,fr
+KnpLabs/snappy,fr,mbontemps,28,Switzerland,ch
+mqtt/mqtt.github.io,,andypiper,6,"Kingston upon Thames, UK",jm
+uber/kepler.gl,,heshan0131,90,"San Francisco, USA",us
+uber/kepler.gl,,chrisirhc,15,"San Francisco, CA",us
+jazzband/pip-tools,,nvie,488,Netherlands,nl
+jazzband/pip-tools,,vphilippon,87,"Québec, Canada",ca
+jazzband/pip-tools,,davidovich,60,Montreal,ca
+sensu/sensu,,portertech,2815,"Cariboo, BC, Canada.",ca
+brunophilipe/Cakebrew,es,brunophilipe,311,"Barcelona, Spain",es
+brunophilipe/Cakebrew,es,xhruso00,106,"Melbourne, Australia",au
+ecomfe/spec,,erik168,97,Beijing,cn
+HuddleEng/Resemble.js,,jamescryer,151,London,gb
+Meituan-Dianping/Robust,,hedex,117,"Beijing,China",cn
+Meituan-Dianping/Robust,,mivanzhang,86,beijing,cn
+session-replay-tools/tcpcopy,,wangbin579,1110,"Beijing, China",cn
+terkelg/ramme,us,terkelg,121,"Los Angeles, CA",us
+terkelg/ramme,us,anatolinicolae,59,"Turin, Italy",it
+naver/billboard.js,,masayuki0812,1370,"Tokyo, Japan",jp
+naver/billboard.js,,netil,233,"Seongnam, South Korea",kr
+testem/testem,,airportyh,1029,Atlanta,us
+testem/testem,,johanneswuerbach,666,"Berlin, Germany",de
+RedApparat/Fotoapparat,nl,Diolor,294,"Hamburg, Germany",de
+RedApparat/Fotoapparat,nl,dmitry-zaitsev,203,Amsterdam,nl
+hybridauth/hybridauth,,StorytellerCZ,306,"Prague, Czechia",cz
+hybridauth/hybridauth,,miled,208,"Tunisia, Tunis.",tn
+hybridauth/hybridauth,,ApacheEx,100,"Ukraine, Lutsk",ua
+jersey/jersey,,mpotociar,677,Prague,cz
+jersey/jersey,,pavelbucek,376,"Prague, CZ",cz
+jersey/jersey,,japod,350,Prague,cz
+jersey/jersey,,AdamLindenthal,197,Prague,cz
+thoughtbot/high_voltage,gb,mjankowski,61,"Boston, MA",us
+thoughtbot/high_voltage,gb,harlow,34,"San Francisco, CA",us
+breach/thrust,,spolu,471,San Francisco,us
+docker/docker-registry,,samalba,376,"San Francisco, CA",us
+docker/docker-registry,,dmp42,350,San Francisco,us
+docker/docker-registry,,shin-,109,"San Francisco, CA",us
+hainproject/hain,,appetizermonster,268,"Seoul, South Korea",kr
+kikinteractive/app,,jairajs89,474,"Toronto, ON",ca
+ecomfe/fontmin,,junmer,155,"Beijing, China",cn
+getsentry/sentry-javascript,,mattrobenolt,916,"San Francisco, CA",us
+getsentry/sentry-javascript,,benvinegar,430,"San Francisco, CA",us
+getsentry/sentry-javascript,,kamilogorek,268,"Warsaw, Poland",pl
+getsentry/sentry-javascript,,LewisJEllis,161,San Francisco Bay Area,us
+getsentry/sentry-javascript,,dcramer,134,"San Francisco, CA",us
+reworkcss/rework,,tj,225,"Victoria, BC, Canada",ca
+reworkcss/rework,,jonathanong,34,"Los Angeles, CA",us
+stampit-org/stampit,,koresar,377,Australia,au
+s3fs-fuse/s3fs-fuse,,ggtakec,491,JAPAN,jp
+s3fs-fuse/s3fs-fuse,,gaul,85,San Francisco,us
+toji/gl-matrix,cr,toji,161,"San Jose, CA",cr
+toji/gl-matrix,cr,sinisterchipmunk,98,Atlanta,us
+toji/gl-matrix,cr,stefnotch,43,Austria,at
+codeinthedark/editor,,JoelBesada,26,"Stockholm, Sweden",se
+prisma/graphql-playground,,timsuchanek,578,"Berlin, Germany",de
+prisma/graphql-playground,,schickling,106,SF/Berlin,de
+Orderella/PopupDialog,gb,mwfire,342,Germany,de
+ansible-semaphore/semaphore,,matejkramny,249,"London, UK",gb
+ansible-semaphore/semaphore,,twhiston,99,Zurich,ch
+ansible-semaphore/semaphore,,strangeman,60,"Komsomolsk-on-Amur, Russia",ru
+ansible-semaphore/semaphore,,fiftin,41,"Russia, Magnitogorsk",ru
+casbin/casbin,,hsluoyz,451,"Beijing, China",cn
+SoySauceLab/CollectionKit,,lkzhao,111,"Vancouver, BC, Canada",ca
+SoySauceLab/CollectionKit,,jindulys,14,"Beijing, CHINA",cn
+uku/Unblock-Youku,,zhuzhuor,423,"Waterloo, Canada",ca
+X140Yu/Developing_iOS_8_Apps_With_Swift,,EvianZhow,91,"Shanghai, China",cn
+X140Yu/Developing_iOS_8_Apps_With_Swift,,beimen,76,"Xiamen, Fujian, China",cn
+auth0/express-jwt,,jfromaniello,87,"Córdoba, Argentina",ar
+auth0/express-jwt,,woloski,17,"Buenos Aires, Argentina",ar
+siddharthkp/bundlesize,in,siddharthkp,248,"Bangalore, India",in
+siddharthkp/bundlesize,in,SaraVieira,52,Portugal,pt
+what-studio/profiling,,sublee,409,"Seoul, Korea",kr
+gcanti/tcomb-form-native,it,gcanti,147,"Milan, Italy",it
+gcanti/tcomb-form-native,it,alvaromb,28,"Palma de Mallorca, Spain",es
+geekcompany/DeerResume,,easychen,31,"Beijing,China",cn
+tomasr/molokai,co,tomasr,25,Colombia,co
+tomasr/molokai,co,martijn,3,the Netherlands,nl
+Boris-Em/BEMSimpleLineGraph,nl,Boris-Em,131,Amsterdam,nl
+Boris-Em/BEMSimpleLineGraph,nl,Sam-Spencer,81,United States,us
+Boris-Em/BEMSimpleLineGraph,nl,skywinder,27,"Moscow, Russia",ru
+DDFE/DDFE-blog,,ustbhuangyi,54,"Beijing,China",cn
+PRML/PRMLT,,sth4nth,461,Hong Kong,cn
+oclint/oclint,,lqi,497,"Houston, TX",us
+oclint/oclint,,ryuichis,286,"Houston, TX",us
+NixOS/nixpkgs,,peti,15240,Berlin,de
+NixOS/nixpkgs,,edolstra,12047,"Utrecht, Netherlands",nl
+neon-bindings/neon,,dherman,545,"San Francisco, CA",us
+TheLevelUp/ZXingObjC,,cwalcott,743,"Boston, MA",us
+usablica/front-end-frameworks,ie,afshinm,37,"Dublin, Ireland",ie
+usablica/front-end-frameworks,ie,HoseinEmrani,31,Iran,ir
+tj/should.js,ca,tj,164,"Victoria, BC, Canada",ca
+tj/should.js,ca,btd,103,"Russia, Tula",ru
+peatio/peatio,,janx,1084,"Hangzhou, China",cn
+peatio/peatio,,lgn21st,950,"Qingdao, Shandong, China",cn
+peatio/peatio,,poshboytl,246,Chengdu China,cn
+PrideChung/FontAwesomeKit,cn,PrideChung,128,"Guangzhou,China",cn
+PrideChung/FontAwesomeKit,cn,RemyDCF,14,"Geneva, Switzerland",ch
+amontalenti/elements-of-python-style,us,amontalenti,32,"New York, NY",us
+amontalenti/elements-of-python-style,us,williamfzc,7,"Shenzhen, China",cn
+octokit/rest.js,,gr2m,477,Los Angeles,us
+octokit/rest.js,,mikedeboer,157,"Amsterdam, The Netherlands",nl
+octokit/rest.js,,kaizensoze,106,"New York, NY",us
+cruisediary/Pastel,kr,cruisediary,45,Seoul,kr
+cruisediary/Pastel,kr,Drwalcore,14,Warsaw,pl
+ivanakimov/hashids.php,us,vinkla,143,"Gothenburg, Sweden",se
+ivanakimov/hashids.php,us,ivanakimov,47,"San Francisco, CA",us
+mattn/go-sqlite3,jp,mattn,436,"Osaka, Japan",jp
+mattn/go-sqlite3,jp,GJRTimmer,93,"Zoetermeer, Netherlands",nl
+Behat/Behat,,everzet,2299,"London, UK",gb
+stefankroes/ancestry,nl,kbrock,129,"Boston, MA",us
+stefankroes/ancestry,nl,stefankroes,55,"Enschede, the Netherlands",nl
+travisjeffery/ClangFormat-Xcode,ca,travisjeffery,87,Toronto,ca
+travisjeffery/ClangFormat-Xcode,ca,tonyarnold,26,"Newcastle, Australia",au
+square/flow,,loganj,156,"New York, NY",us
+square/flow,,rjrjr,115,"San Francisco, CA",us
+csscomb/csscomb.js,,tonyganch,266,Prague,cz
+csscomb/csscomb.js,,mishanga,199,"Moscow, Russia",ru
+csscomb/csscomb.js,,kizu,48,Paris,fr
+kolodny/immutability-helper,us,kolodny,49,New York,us
+kolodny/immutability-helper,us,andreiglingeanu,16,"Moldova, Cahul",md
+honza/vim-snippets,ca,lpil,352,"London, UK",gb
+honza/vim-snippets,ca,honza,265,"Halifax, Canada",ca
+honza/vim-snippets,ca,SirVer,127,Germany,de
+bootstrap-tagsinput/bootstrap-tagsinput,,timschlechter,221,Netherlands,nl
+bootstrap-tagsinput/bootstrap-tagsinput,,lucknerjb,79,"Toronto, ON",ca
+plasma-disassembler/plasma,,dnet,85,Budapest,hu
+mobxjs/mobx-react,,mweststrate,408,Netherlands,nl
+mobxjs/mobx-react,,andykog,52,"Ukraine, Kyiv",ua
+final-form/react-final-form,,erikras,154,Spain,es
+termux/termux-app,,fornwall,408,"Stockholm, Sweden",se
+jfeinstein10/JazzyViewPager,us,jfeinstein10,13,"New York, NY",us
+jfeinstein10/JazzyViewPager,us,makovkastar,2,"The Hague, Netherlands",nl
+rocketeers/rocketeer,,Anahkiasen,2265,"Rennes, France",fr
+frozenui/frozenui,,fayching,473,"shenzhen, China",cn
+golang/lint,,dsymonds,91,"Sydney, Australia",au
+google/gops,,rakyll,108,"San Francisco, CA",us
+Netflix/vizceral,,jrsquared,304,"San Jose, CA, USA",cr
+ring-clojure/ring,,weavejester,661,"London, UK",gb
+ring-clojure/ring,,mmcgrana,124,"San Francisco, CA",us
+boxen/our-boxen,,wfarr,135,"Atlanta, GA",us
+boxen/our-boxen,,jacobbednarz,128,Australia,au
+boxen/our-boxen,,rafaelfranca,38,"Ottawa, ON",ca
+thiagoperes/IDMPhotoBrowser,,eduardocallado,131,"Rio de Janeiro, Brazil",br
+iammert/ScalingLayout,tr,iammert,23,Istanbul,tr
+iammert/ScalingLayout,tr,defer,4,"Lisbon, Portugal",pt
+fastred/Optimizing-Swift-Build-Times,pl,fastred,32,"Warsaw, Poland",pl
+fastred/Optimizing-Swift-Build-Times,pl,quellish,5,"Los Angeles, CA",us
+node-ffi/node-ffi,,TooTallNate,681,"San Francisco, CA",us
+node-ffi/node-ffi,,rbranson,58,"San Francisco, CA",us
+webpack-contrib/sass-loader,,jhnns,291,"Augsburg, Germany",de
+webpack-contrib/sass-loader,,jtangelder,34,"Zürich, Switzerland",ch
+bshaffer/oauth2-server-php,us,bshaffer,650,San Francisco,us
+bshaffer/oauth2-server-php,us,F21,75,"Melbourne, Australia",au
+TransitApp/SVWebViewController,ca,samvermette,90,Montréal,ca
+TransitApp/SVWebViewController,ca,OliverLetterer,17,Germany,de
+TransitApp/SVWebViewController,ca,gcamp,15,Montréal,ca
+offu/WeRoBot,,whtsky,572,China,cn
+offu/WeRoBot,,helloqiu,240,chengdu-sichuan-China,cn
+Swinject/Swinject,,yoichitgy,624,Tokyo,jp
+Swinject/Swinject,,jakubvano,141,Bratislava,sk
+vavr-io/vavr,de,danieldietrich,3009,"Kiel, Germany",de
+vavr-io/vavr,de,ruslansennov,442,"Moscow, Russia",ru
+puikinsh/Bootstrap-Admin-Template,lv,onokumus,327,"Kutahya, Kütahya, Turkey",tr
+pybrain/pybrain,,schaul,402,London,gb
+pybrain/pybrain,,bayerj,148,Munich,de
+pybrain/pybrain,,rueckstiess,148,"Sydney, Australia",au
+frida/frida,,oleavr,2257,"Stavanger, Norway",no
+kallaway/100-days-of-code,ca,kallaway,60,Toronto,ca
+kallaway/100-days-of-code,ca,AurelieBayre,35,France,fr
+kallaway/100-days-of-code,ca,djshabby,16,Ukraine,ua
+kallaway/100-days-of-code,ca,eqlz,14,"Toronto, Ontario",ca
+spray/spray,,sirthias,2176,"Freiburg, Germany",de
+spray/spray,,jrudolph,256,"Freiburg, Germany",de
+platformio/platformio-core,,ivankravets,3298,Ukraine,ua
+Azure/draft,,bacongobbler,748,"Nanoose Bay, BC, Canada",ca
+Azure/draft,,michelleN,178,"Atlanta, GA",us
+Azure/draft,,fibonacci1729,80,United States,us
+Airblader/i3,de,stapelberg,4184,"Zürich, Switzerland",ch
+Airblader/i3,de,Airblader,1118,"Munich, Germany",de
+shadowsocks/shadowsocks-manager,,gyteng,1833,Guangzhou,cn
+styletron/styletron,,rtsao,337,"San Francisco, USA",us
+styletron/styletron,,frenic,37,"Lund, Sweden",se
+angular-ui-tree/angular-ui-tree,,JimLiu,182,"Chicago, IL",us
+angular-ui-tree/angular-ui-tree,,clementprevot,85,"Lyon, France",fr
+noflo/noflo,,bergie,1717,"Berlin, Germany",de
+noflo/noflo,,trustmaster,175,Berlin,de
+optonaut/ActiveLabel.swift,gb,polqf,70,Barcelona,es
+optonaut/ActiveLabel.swift,gb,schickling,58,SF/Berlin,de
+Topshelf/Topshelf,,phatboyg,101,"San Francisco Bay Area, CA",us
+databricks/learning-spark,,holdenk,405,"San Francisco, CA, USA",us
+nghttp2/nghttp2,,tatsuhiro-t,5681,Japan,jp
+Reportr/dashboard,,SamyPesse,267,"Lyon, France",fr
+nghialv/MaterialKit,jp,nghialv,59,"Shibuya, Japan",jp
+nghialv/MaterialKit,jp,rahuliyer95,23,India,in
+robotframework/robotframework,,pekkaklarck,5960,Finland,fi
+robotframework/robotframework,,yanne,1651,Helsinki,fi
+robotframework/robotframework,,jussimalinen,1068,"Helsinki, Finland",fi
+robotframework/robotframework,,mkorpela,765,"Helsinki, Finland",fi
+kciter/qart.js,kr,kciter,56,"Seoul, Korea",kr
+kciter/qart.js,kr,misteral,12,Russia,ru
+apiaryio/dredd,us,honzajavorek,669,Czech Republic,cz
+apiaryio/dredd,us,netmilk,377,Prague,cz
+apiaryio/dredd,us,kuba-kubula,142,"Prague, Czech Republic, Europe",cz
+posabsolute/jQuery-Validation-Engine,ca,posabsolute,385,"Montreal, Canada",ca
+posabsolute/jQuery-Validation-Engine,ca,orefalo,86,"Miami, FL",us
+maximebf/php-debugbar,fr,maximebf,216,France,fr
+maximebf/php-debugbar,fr,barryvdh,159,"Noord-Brabant, the Netherlands",nl
+SelfControlApp/selfcontrol,,cstigler,194,"San Francisco, CA",us
+kolyvan/kxmovie,ru,kolyvan,71,Russia,ru
+kolyvan/kxmovie,ru,MonsieurDart,24,Paris,fr
+fnando/i18n-js,ca,PikachuEXE,288,Hong Kong,cn
+fnando/i18n-js,ca,fnando,150,"Vancouver, Canada",ca
+wp-bootstrap/wp-bootstrap-navwalker,,pattonwebz,130,United Kingdom,gb
+wp-bootstrap/wp-bootstrap-navwalker,,bhubbard,75,"Los Angeles, CA",us
+wp-bootstrap/wp-bootstrap-navwalker,,twittem,47,"Sylvan Lake, Alberta, Canada",ca
+mustache/mustache,,defunkt,427,San Francisco,us
+mustache/mustache,,locks,180,"Porto, Portugal",pt
+eon01/DockerCheatSheet,fr,eon01,32,Paris,fr
+eon01/DockerCheatSheet,fr,incubus8,3,Jakarta ♥ Indonesia,id
+booksbyus/zguide,,hintjens,1181,Brussels,be
+booksbyus/zguide,,metadings,182,Germany,de
+Microsoft/DMTK,,chivee,27,Beijing,cn
+Microsoft/DMTK,,feiga,12,"Beijing, China",cn
+zplug/zplug,,b4b4r07,581,"Tokyo, Japan",jp
+zplug/zplug,,NigoroJr,180,"Ohio, United States",us
+Live-Charts/Live-Charts,,beto-rodriguez,1169,"Guadalajara, Mexico",mx
+go-macaron/macaron,,Unknwon,203,"Hangzhou, China",cn
+AAChartModel/AAChartKit,cn,AAChartModel,637,"Shanghai , China",cn
+AAChartModel/AAChartKit,cn,skuske,90,"Holzwickede, Germany",de
+intel/appframework,,Philzen,79,Northern Germoney / Denmark / Planet Earth,dk
+christianalfoni/formsy-react,no,christianalfoni,163,Norway,no
+christianalfoni/formsy-react,no,Semigradsky,76,"Minsk, Belarus",by
+ivpusic/react-native-image-crop-picker,de,ivpusic,202,"Munich, Germany",de
+ivpusic/react-native-image-crop-picker,de,superandrew213,25,"Brisbane, Australia",au
+RichardKnop/machinery,sg,RichardKnop,529,Singapore,sg
+RichardKnop/machinery,sg,ZhenhangTung,50,Shanghai,cn
+mobileplayer/mobileplayer-ios,us,isair,239,San Francisco Bay Area,us
+mobileplayer/mobileplayer-ios,us,toygard,129,Turkey,tr
+angular/batarang,,btford,224,"San Francisco, CA",us
+bergie/hallo,de,bergie,281,"Berlin, Germany",de
+bergie/hallo,de,colinfrei,88,Switzerland,ch
+spring-projects/spring-petclinic,,arey,128,Paris,fr
+PistonDevelopers/piston,,bvssvni,1492,Norway,no
+PistonDevelopers/piston,,coeuvre,97,Shanghai,cn
+mcollina/mosca,it,mcollina,688,In the clouds above Italy,it
+mcollina/mosca,it,behrad,54,Tehran/Iran,ir
+appsquickly/Typhoon,,jasperblues,1745,Philippines,ph
+appsquickly/Typhoon,,alexgarbarev,342,"Russia, Omsk",ru
+appsquickly/Typhoon,,rhgills,234,"San Francisco, CA",us
+facebook/regenerator,,benjamn,759,New York City,us
+forkingdog/FDStackView,,wtlucky,15,China Beijing,cn
+forkingdog/FDStackView,,sunnyxx,11,Beijing,cn
+doctrine/cache,,Ocramius,222,Frankfurt am Main,de
+doctrine/cache,,beberlei,44,Germany,de
+doctrine/cache,,Tobion,39,"Zürich, Schweiz",ch
+doctrine/cache,,FabioBatSilva,38,"Toronto, Canada",ca
+path/android-priority-jobqueue,sg,yigit,124,san francisco,us
+comfy/comfortable-mexican-sofa,,GBH,2059,Canada,ca
+phptodayorg/php-must-watch,,shameerc,29,"Dubai, United Arab Emirates",ae
+phptodayorg/php-must-watch,,moacirosa,10,"Florianópolis, Brazil",br
+RobotiumTech/robotium,,renas,922,Sweden,se
+RobotiumTech/robotium,,hugojosefson,195,"Malmö, Sweden",se
+johnpolacek/superscrollorama,us,johnpolacek,72,Chicago,us
+johnpolacek/superscrollorama,us,janpaepke,17,"Vienna, Austria",at
+LeaVerou/animatable,us,LeaVerou,13,"Boston, MA",us
+LeaVerou/animatable,us,bartaz,8,"Poznań, Poland",pl
+LeaVerou/animatable,us,mischah,4,"Kassel, Germany",de
+ottoyiu/django-cors-headers,ca,adamchainz,148,London,gb
+ottoyiu/django-cors-headers,ca,ottoyiu,51,"Vancouver, BC",ca
+vuejs/vue-hackernews,,yyx990803,90,New Jersey / China,cn
+Tautulli/Tautulli,,JonnyWong16,1009,Canada,ca
+Tautulli/Tautulli,,drzoidberg33,376,Cape Town,za
+rails/spring,,jonleighton,485,"Melbourne, Australia",au
+rails/spring,,grosser,45,"San Francisco, CA",us
+DavyJonesLocker/client_side_validations,,bcardarella,516,"Boston, MA",us
+DavyJonesLocker/client_side_validations,,tagliala,386,Italy,it
+zoonooz/ZFDragableModalTransition,sg,zoonooz,52,Singapore,sg
+zoonooz/ZFDragableModalTransition,sg,albtsantos,5,Brazil,br
+futurepress/epub.js,,fchasen,842,"Los Angeles, CA",us
+MongoEngine/mongoengine,,rozza,1168,United Kingdom,gb
+MongoEngine/mongoengine,,hmarr,230,"London, UK",gb
+cheeaun/life,sg,cheeaun,42,Singapore,sg
+cheeaun/life,sg,nfvs,6,"Zürich, Switzerland",ch
+cheeaun/life,sg,mathijspb,4,The Netherlands,nl
+ReactiveX/RxPY,,dbrattli,1289,"Tromsø, Norway",no
+kumailht/gridforms,ae,kumailht,40,"Dubai, UAE",ae
+kumailht/gridforms,ae,staabm,5,Germany,de
+kumailht/gridforms,ae,insin,4,"Brisbane, Australia",au
+scikit-learn-contrib/imbalanced-learn,,glemaitre,403,Le Creusot - France,fr
+scikit-learn-contrib/imbalanced-learn,,fmfn,52,"Toronto, ON",ca
+BootstrapCMS/CMS,,GrahamCampbell,1617,The United Kingdom,gb
+gmoledina/GMGridView,ca,gmoledina,89,"Toronto, Canada",ca
+gmoledina/GMGridView,ca,steipete,31,"Vienna, Austria",at
+roidrage/lograge,de,benlovell,148,"London, United Kingdom",gb
+roidrage/lograge,de,roidrage,75,"Berlin, Germany",de
+roidrage/lograge,de,pxlpnk,36,Bangkok,th
+decaffeinate/decaffeinate,,eventualbuddha,948,San Francisco,us
+decaffeinate/decaffeinate,,alangpierce,397,"San Francisco, CA",us
+php-amqplib/php-amqplib,,videlalvaro,328,Zurich,ch
+lucadegasperi/oauth2-server-laravel,it,lucadegasperi,204,"South Tyrol, Italy",it
+lucadegasperi/oauth2-server-laravel,it,vinkla,134,"Gothenburg, Sweden",se
+doctrine/common,,beberlei,315,Germany,de
+fool2fish/dragon-book-exercise-answers,cn,fool2fish,256,"Hangzhou, China",cn
+fool2fish/dragon-book-exercise-answers,cn,eliasdiem,30,Switzerland,ch
+fool2fish/dragon-book-exercise-answers,cn,dxhj,25,"Minas Gerais, Brazil",br
+openpaperwork/paperwork,,jflesch,2883,France,fr
+httpswift/swifter,,glock45,275,"Warsaw, Poland",pl
+phusion/passenger-docker,,FooBarWidget,202,"Amsterdam, Netherlands",nl
+sqlectron/sqlectron-gui,,maxcnunes,628,Florianopolis - SC - Brazil,br
+sqlectron/sqlectron-gui,,BornaP,93,"Zagreb, Croatia",hr
+paulkinzett/toolbar,nz,paulkinzett,40,"Wellington, New Zealand",nz
+paulkinzett/toolbar,nz,mandx,7,"South San Francisco, CA",us
+DocsHome/microservices,,oopsguy,75,China,cn
+dokan-dev/dokany,,Liryna,700,France,fr
+dokan-dev/dokany,,Maxhy,90,France,fr
+dokan-dev/dokany,,Rondom,62,Sweden,se
+uber-archive/image-diff,,mlmorg,30,San Francisco,us
+uber-archive/image-diff,,twolfson,27,"San Francisco, CA",us
+uber/prototool,,peter-edge,111,"Amsterdam, Netherlands",nl
+uber/prototool,,amckinney,21,United States,us
+team-gryff/react-monocle,,mbchoa,190,Los Angeles,us
+team-gryff/react-monocle,,jerrymao15,182,"New York, NY",us
+fixerAPI/fixer,,hakanensari,89,London,gb
+mikepenz/FastAdapter,at,mikepenz,1012,"Linz, Austria",at
+mikepenz/FastAdapter,at,FabianTerhorst,112,Germany,de
+poole/poole,,mdo,109,"San Francisco, CA",us
+google/gif-for-cli,,SeanHayes,21,"San Francisco, CA",us
+BohdanOrlov/iOS-Developer-Roadmap,gb,BohdanOrlov,78,"London, United Kingdom",gb
+BohdanOrlov/iOS-Developer-Roadmap,gb,traviscibot,51,"Berlin, Germany",de
+msiemens/tinydb,de,msiemens,352,Germany,de
+msiemens/tinydb,de,eugene-eeo,29,Malaysia,my
+elastic/elasticsearch-rails,,karmi,398,"Prague, Czech Republic",cz
+elastic/elasticsearch-rails,,estolfo,36,"Berlin, Germany",de
+HubSpot/drop,,adamschwartz,186,"Boston, MA",us
+HubSpot/drop,,geekjuice,74,Boston,us
+HubSpot/drop,,zackbloom,68,Boston,us
+docker/libchan,,dmcgowan,77,San Francisco,us
+docker/libchan,,shykes,39,"San Francisco, CA",us
+kemalcr/kemal,,sdogruyol,501,Istanbul,tr
+cryptomator/cryptomator,,overheadhunter,636,"Bonn, Germany",de
+cryptomator/cryptomator,,markuskreusch,98,"Stuttgart, Germany",de
+danielamitay/DACircularProgress,us,danielamitay,57,"New York, NY",us
+danielamitay/DACircularProgress,us,0xced,25,"Fribourg, Switzerland",ch
+mobi-css/mobi.css,,xcatliu,266,"China, Shenzhen",cn
+hackers-painters/samurai-native,,gavinkwoe,70,"Beijing, china",cn
+hackers-painters/samurai-native,,qfish,38,"Beijing, China",cn
+hackers-painters/samurai-native,,GeekZooStudio,13,"Beijing, China",cn
+conventional-changelog/conventional-changelog,,stevemao,894,Sydney,au
+conventional-changelog/conventional-changelog,,hbetts,75,"Texas, United States of America",us
+nodejs/nan,,kkoopa,641,"Turku, Finland",fi
+nodejs/nan,,rvagg,231,"South Coast NSW, Australia",au
+gothinkster/react-redux-realworld-example-app,,EricSimons,32,"San Francisco, CA",us
+jsdelivr/jsdelivr,,jimaek,14,Poland,pl
+jsdelivr/jsdelivr,,MartinKolarik,14,Slovakia,sk
+nginx-boilerplate/nginx-boilerplate,,Umkus,184,"Munich, Germany",de
+sharish/ShimmerRecyclerView,in,sharish,24,"Chennai, India",in
+sharish/ShimmerRecyclerView,in,veghtomi,21,Hungary,hu
+melonjs/melonJS,,obiot,1857,Singapore,sg
+melonjs/melonJS,,parasyte,838,"San Francisco, CA",us
+melonjs/melonJS,,agmcleod,438,Toronto,ca
+facebook/php-graph-sdk,,gfosco,231,"San Francisco, CA",us
+facebook/php-graph-sdk,,SammyK,217,"Chicago, IL",us
+facebook/php-graph-sdk,,yguedidi,53,"Paris, France",fr
+pyenv/pyenv-virtualenv,,yyuu,218,"Tokyo, Japan",jp
+poole/hyde,,mdo,87,"San Francisco, CA",us
+google/zopfli,,lvandeve,75,"Zurich, Switzerland",ch
+adobe-fonts/source-sans-pro,cr,miguelsousa,152,"San Jose, CA",cr
+adobe-fonts/source-sans-pro,cr,pauldhunt,75,"Melbourne, AU",au
+atinfo/awesome-test-automation,,polusok,281,"Krakow, Poland",pl
+carp-lang/Carp,,eriksvedang,2266,"Gothenburg, Sweden",se
+jbt/markdown-editor,gb,jbt,42,"London, UK",gb
+jbt/markdown-editor,gb,aero31aero,40,India,in
+ssbc/patchwork,,mmckegg,889,"Wellington, New Zealand",nz
+MessageKit/MessageKit,,SD10,616,"Chicago, IL",us
+MessageKit/MessageKit,,zhongwuzw,134,Beijing China.,cn
+MessageKit/MessageKit,,nathantannar4,96,"Vancouver, BC",ca
+dasdom/BreakOutToRefresh,de,dasdom,60,"Düsseldorf, Germany",de
+dasdom/BreakOutToRefresh,de,younata,6,"Los Angeles, CA",us
+cowbell/sharedrop,,szimek,243,"Katowice, Poland",pl
+cowbell/sharedrop,,jmak,74,"Pszczyna, POLAND",pl
+json-schema-form/angular-schema-form,,davidlgj,509,"Gothenburg, Sweden",se
+json-schema-form/angular-schema-form,,Anthropic,179,"Melbourne, Australia",au
+json-schema-form/angular-schema-form,,Dervisevic,98,"Gothenburg, Sweden",se
+embark-framework/embark,,iurimatias,1918,Canada,ca
+embark-framework/embark,,jrainville,531,"Montreal, Quebec",ca
+abrasive/shairport,au,abrasive,136,Canberra,au
+abrasive/shairport,au,albertz,108,"Aachen, Germany",de
+madebysource/lesshat,cz,petrbrzek,151,"Prague, Czech Republic",cz
+madebysource/lesshat,cz,mboudreau,17,"Melbourne, Australia",au
+vuejs/vue-class-component,,ktsn,68,"Tokyo, Japan",jp
+vuejs/vue-class-component,,yyx990803,44,New Jersey / China,cn
+facebook/prop-types,,gaearon,46,"London, UK",gb
+weui/react-weui,cn,n7best,169,New York City,us
+weui/react-weui,cn,progrape,68,Guangzhou China,cn
+actix/actix-web,,fafhrd91,1579,"San Francisco, US",us
+buttercup/buttercup-desktop,fi,sallar,999,"Helsinki, Finland",fi
+buttercup/buttercup-desktop,fi,perry-mitchell,176,"Helsinki, Finland",fi
+buttercup/buttercup-desktop,fi,ph1p,107,Düsseldorf,de
+bmelnychuk/AndroidTreeView,ua,bmelnychuk,29,"Lviv, Ukraine",ua
+bmelnychuk/AndroidTreeView,ua,MathiasBerwig,4,"Ijuí, RS - Brazil",br
+httprb/http,,ixti,405,Spain,es
+httprb/http,,tarcieri,373,"San Francisco, CA",us
+httprb/http,,sferik,91,San Francisco,us
+facebook/FBSimulatorControl,,lawrencelomax,2352,"London, UK",gb
+pquerna/ffjson,us,pquerna,302,"San Francisco, CA",us
+pquerna/ffjson,us,klauspost,87,Denmark,dk
+Twitter4J/Twitter4J,,yusuke,1364,"Tokyo, Japan",jp
+poole/lanyon,,mdo,106,"San Francisco, CA",us
+Prototik/HoloEverywhere,ru,Prototik,629,Krasnoyarsk (Russia),ru
+Prototik/HoloEverywhere,ru,ChristopheVersieux,77,Belgium,be
+timekit-io/booking-js,,laander,561,"Stockholm, Sweden",se
+timekit-io/booking-js,,Trolzie,68,Denmark,dk
+christoomey/vim-tmux-navigator,us,christoomey,24,"Boston, MA",us
+christoomey/vim-tmux-navigator,us,blueyed,9,"Berlin, Germany",de
+spring-projects/spring-data-examples,,olivergierke,233,"Dresden, Germany",de
+spring-projects/spring-data-examples,,mp911de,61,"Weinheim, Germany",de
+jrjohansson/scientific-python-lectures,jp,jrjohansson,110,Tokyo,jp
+jrjohansson/scientific-python-lectures,jp,gfrubi,26,"Concepción, Chile",cl
+markushi/android-ui,at,markushi,5,Austria,at
+markushi/android-ui,at,johnjohndoe,1,"Berlin, Germany",de
+hipache/hipache,,dmp42,149,San Francisco,us
+hipache/hipache,,samalba,135,"San Francisco, CA",us
+zsh-users/zsh-completions,,nicoulaj,439,France,fr
+emacs-helm/helm,,thierryvolpiatto,7411,France,fr
+emacs-helm/helm,,rubikitch,759,Japan,jp
+react-native-community/react-native-tab-view,,satya164,427,"Wrocław, Poland",pl
+domesticcatsoftware/DCIntrospect,au,domesticcatsoftware,49,"Melbourne, Australia",au
+domesticcatsoftware/DCIntrospect,au,0xced,10,"Fribourg, Switzerland",ch
+espressif/arduino-esp32,cn,me-no-dev,360,Bulgaria,bg
+xianyi/OpenBLAS,us,xianyi,885,"Boston, MA",us
+xianyi/OpenBLAS,us,wernsaar,817,"Dresden, Germany",de
+xianyi/OpenBLAS,us,martin-frbg,644,"Freiburg, Germany",de
+simple-android-framework/android_design_patterns_analysis,,hehonghui,74,china,cn
+simple-android-framework/android_design_patterns_analysis,,AigeStudio,24,"CQ,China",cn
+appbaseio/reactivesearch,,metagrover,998,India,in
+appbaseio/reactivesearch,,divyanshu013,628,"Dehradun, India",in
+appbaseio/reactivesearch,,dhruvdutt,305,India: C-137,in
+CoreSecurity/impacket,,asolino,833,Argentina,ar
+phacility/xhprof,,billf,19,"San Francisco, CA",us
+phacility/xhprof,,epriestley,14,"San Francisco, CA",us
+phacility/xhprof,,scottmac,7,"San Francisco, CA",us
+noble/noble,,sandeepmistry,459,Ottawa,ca
+soldair/node-qrcode,cr,soldair,127,San Jose CA,cr
+soldair/node-qrcode,cr,vigreco,69,Italy,it
+ecomfe/vue-echarts,,Justineo,84,"Shanghai, China",cn
+zircote/swagger-php,us,bfanger,137,Netherlands,nl
+zircote/swagger-php,us,sonrac,39,Ukraine,ua
+zircote/swagger-php,us,bravo-kernel,20,"Amsterdam, The Netherlands",nl
+Sephiroth87/ODRefreshControl,gb,Sephiroth87,40,"London, UK",gb
+Sephiroth87/ODRefreshControl,gb,lexrus,3,"Shanghai, China",cn
+danielstjules/Stringy,us,danielstjules,295,San Francisco,us
+danielstjules/Stringy,us,lucasmichot,27,"Berlin, Germany",de
+roylee0704/react-flexbox-grid,my,roylee0704,218,"Kuala Lumpur, Malaysia",my
+roylee0704/react-flexbox-grid,my,silvenon,21,"Zagreb, Croatia",hr
+thoughtbot/factory_bot_rails,gb,joshuaclayton,96,"Boston, MA",us
+thoughtbot/factory_bot_rails,gb,mjankowski,19,"Boston, MA",us
+EasyCorp/EasyAdminBundle,,javiereguiluz,1916,Vitoria-Gasteiz (Spain),es
+qgis/QGIS,,nyalldawson,9241,"Melbourne, Australia",au
+qgis/QGIS,,jef-n,3997,Northern Germany,de
+qgis/QGIS,,m-kuhn,3153,Switzerland,ch
+wvanbergen/request-log-analyzer,ca,wvanbergen,684,"Ottawa, Canada",ca
+wvanbergen/request-log-analyzer,ca,barttenbrinke,299,The Netherlands,nl
+arrayfire/arrayfire,us,pavanky,1686,"San Francisco, CA",us
+arrayfire/arrayfire,us,9prady9,842,India,in
+arrayfire/arrayfire,us,umar456,487,"Atlanta, GA",us
+apache/hbase,,saintstack,5189,"San Francisco, CA",us
+apache/hbase,,apurtell,803,"Los Angeles, CA, USA",us
+sdkman/sdkman-cli,,marc0der,1029,"London, UK",gb
+mpc-hc/mpc-hc,,XhmikosR,3056,Greece,gr
+mpc-hc/mpc-hc,,Underground78,2001,France,fr
+mpc-hc/mpc-hc,,kasper93,701,Poland,pl
+sergiotapia/magnetissimo,us,sergiotapia,76,Miami,us
+sergiotapia/magnetissimo,us,tchoutri,56,"Massy, France",fr
+apollographql/graphql-tools,,stubailo,222,San Francisco,us
+apollographql/graphql-tools,,helfer,181,San Francisco,us
+apollographql/graphql-tools,,benjamn,118,New York City,us
+apollographql/graphql-tools,,freiksenet,107,"Helsinki, Finland",fi
+javaee-samples/javaee7-samples,,arun-gupta,494,"San Jose, CA",cr
+javaee-samples/javaee7-samples,,arjantijms,221,Amsterdam,nl
+javaee-samples/javaee7-samples,,radcortez,86,"Coimbra, Portugal",pt
+LearnBoost/cluster,us,tj,634,"Victoria, BC, Canada",ca
+AssemblyScript/prototype,,dcodeIO,333,The web / Germany,de
+wycats/javascript-decorators,us,wycats,18,San Francisco,us
+wycats/javascript-decorators,us,nesk,2,Lyon - France,fr
+ModuleLoader/es-module-loader,,guybedford,766,Cape Town,za
+cocktails-for-programmers/cocktails_for_programmers,,the-teacher,78,"Russia, Saint Petersburg",ru
+itsabot/itsabot,,egtann,679,Los Angeles,us
+robotmedia/RMStore,es,hpique,321,London,gb
+nickel-org/nickel.rs,,Ryman,334,London,gb
+nickel-org/nickel.rs,,cburgdorf,134,Hannover / Germany,de
+transcode-open/apt-cyg,,cup,114,Dallas,us
+square/mortar,,rjrjr,193,"San Francisco, CA",us
+square/mortar,,pyricau,19,San Francisco,us
+brianleroux/lawnchair,ca,brianleroux,216,"San Francisco, USA || Vancouver, Canada",ca
+brianleroux/lawnchair,ca,cscott,36,"Boston, MA",us
+iam4x/pokemongo-webspoof,fr,iam4x,51,"Paris, France",fr
+iam4x/pokemongo-webspoof,fr,h4v1nfun,6,"Lisboa, Portugal",pt
+facebookarchive/python-instagram,,heatonjb,41,London,gb
+facebookarchive/python-instagram,,mikeyk,22,"San Francisco, CA",us
+x0rz/tweets_analyzer,fr,x0rz,31,France,fr
+x0rz/tweets_analyzer,fr,ozzi-,4,"Zürich, Switzerland",ch
+librosa/librosa,,bmcfee,2064,"New York, NY",us
+0xfe/vexflow,ca,0xfe,863,"Waterloo, Canada",ca
+0xfe/vexflow,ca,Silverwolf90,317,"London, UK",gb
+Fody/Fody,,SimonCropp,869,"Canberra, ACT, Australia",au
+vitch/jScrollPane,gb,vitch,312,"London, UK",gb
+vitch/jScrollPane,gb,illuusio,51,Finland,fi
+AngleSharp/AngleSharp,,FlorianRappl,5603,Germany,de
+shadowsocks/openwrt-shadowsocks,,aa65535,279,"Beijing, China",cn
+jagregory/abrash-black-book,au,jagregory,71,"Sydney, Australia",au
+jagregory/abrash-black-book,au,DennisYurichev,6,"Kiev, Ukraine",ua
+constabulary/gb,,davecheney,906,"Sydney, Australia",au
+zeit/release,us,leo,353,"Bamberg, Germany",de
+quii/learn-go-with-tests,gb,quii,457,"London, UK",gb
+quii/learn-go-with-tests,gb,pityonline,47,Beijing,cn
+quii/learn-go-with-tests,gb,gypsydave5,40,United Kingdom,gb
+OAuthSwift/OAuthSwift,,dongri,199,"Tokyo, Japan",jp
+OAuthSwift/OAuthSwift,,phimage,194,France,fr
+survivejs/webpack-book,,bebraw,3012,"Vienna, Austria",at
+andresriancho/w3af,ar,andresriancho,4852,Buenos Aires,ar
+andresriancho/w3af,ar,stamparm,4150,"Zagreb, Croatia",hr
+andresriancho/w3af,ar,inquisb,1798,"London, United Kingdom",gb
+nodebox/opentype.js,be,fdb,497,Belgium,be
+nodebox/opentype.js,be,Jolg42,56,"Paris, localhost",fr
+entotsu/TKSubmitTransition,jp,entotsu,36,"Tokyo, Japan",jp
+entotsu/TKSubmitTransition,jp,jesster2k10,8,Ireland,ie
+entotsu/TKSubmitTransition,jp,RishabhTayal,4,"Chicago, IL",us
+entotsu/TKSubmitTransition,jp,stepan,4,"San Francisco, CA",us
+webpackmonitor/webpackmonitor,,roachjc,131,San Francisco,us
+webpackmonitor/webpackmonitor,,gordonu,33,"Los Angeles, CA",us
+vulhub/vulhub,,phith0n,881,Beijing,cn
+reduxframework/elusive-iconfont,,aristath,364,Greece,gr
+gaearon/react-makes-you-sad,gb,gaearon,24,"London, UK",gb
+gaearon/react-makes-you-sad,gb,jonathanmv,3,"Bogotá, Colombia",co
+umbraco/Umbraco-CMS,dk,Shazwazza,7491,"Sydney, Australia",au
+umbraco/Umbraco-CMS,dk,nul800sebastiaan,2967,"København, Denmark",dk
+umbraco/Umbraco-CMS,dk,zpqrtbnk,1567,"Paris, France",fr
+umbraco/Umbraco-CMS,dk,madsrasmussen,1537,"Odense, Denmark",dk
+Screetsec/TheFatRat,id,Screetsec,357,INDONESIA,id
+Screetsec/TheFatRat,id,peterpt,214,Portugal,pt
+power-assert-js/power-assert,,twada,768,"Tokyo, Japan",jp
+HugoGiraudel/SJSJ,de,HugoGiraudel,276,Berlin,de
+HugoGiraudel/SJSJ,de,virtyaluk,46,"Kiev, Ukraine",ua
+konvajs/react-konva,,lavrton,208,"Krasnoyarsk, Russia",ru
+alm-tools/alm,,basarat,2364,"Melbourne, Australia",au
+mislav/git-deploy,nl,mislav,74,Amsterdam,nl
+mislav/git-deploy,nl,yannlugrin,5,"Lausanne, Switzerland",ch
+html5rocks/www.html5rocks.com,,PaulKinlan,2169,"Liverpool, London, Mountain View (CA)",gb
+html5rocks/www.html5rocks.com,,ebidel,393,"San Francisco, CA",us
+react-native-community/react-native-blur,,Kureev,42,London,gb
+nuxt/consola,,pi0,30,"Islamic Republic of Iran, Tehran",ir
+nuxt/consola,,clarkdo,8,"Dublin, Ireland",ie
+conversejs/converse.js,,jcbrand,4361,Germany,de
+cucumber/cucumber,,aslakhellesoy,1674,"London, UK",gb
+adaltas/node-csv,,wdavidw,456,"Paris, France",fr
+mozilla-b2g/gaia,,KevinGrandon,2704,"San Francisco, CA",us
+dthree/mailit,us,dthree,11,✈ Los Angeles,us
+dthree/mailit,us,asatriani,3,Italy,it
+LibreVR/Revive,,Armada651,467,Netherlands,nl
+feross/simple-peer,us,feross,542,"San Francisco, CA",us
+feross/simple-peer,us,t-mullen,60,Toronto ON,ca
+apache/camel,,davsclaus,13929,Denmark,dk
+apache/camel,,WillemJiang,4136,"Beijing, China",cn
+apache/camel,,oscerd,4065,"Rome, Italy",it
+openresty/nginx-tutorials,us,agentzh,155,San Francisco Bay Area,us
+openresty/nginx-tutorials,us,kaiwu,19,Shanghai China,cn
+OptimalBits/node_acl,,manast,154,Sweden,se
+kittinunf/Fuel,jp,kittinunf,200,Tokyo,jp
+kittinunf/Fuel,jp,markGilchrist,114,"London, UK",gb
+kittinunf/Fuel,jp,yoavst,85,Israel,il
+nemasu/asmttpd,jp,nemasu,45,"Tokyo, Japan",jp
+nemasu/asmttpd,jp,triforce,6,"Sheffield, United Kingdom",gb
+maicki/why-did-you-update,us,maicki,17,San Francisco,us
+maicki/why-did-you-update,us,garbles,12,Vancouver,ca
+analogcode/Swift-Radio-Pro,us,fethica,106,"Montréal, Canada",ca
+analogcode/Swift-Radio-Pro,us,analogcode,77,"Atlanta, GA",us
+react-icons/react-icons,,gorangajic,123,Belgrade,rs
+react-icons/react-icons,,kamijin-fanta,77,Japan Osaka,jp
+postcss/postcss-loader,,ai,209,"New York, USA",us
+postcss/postcss-loader,,michael-ciniawsky,80,"Munich, Germany",de
+crypto101/book,,lvh,614,"Chicago, IL",us
+python-attrs/attrs,,hynek,373,Berlin/Germany,de
+python-attrs/attrs,,Tinche,35,"Zagreb, Croatia",hr
+cupy/cupy,,unnonouno,2364,"Tokyo, Japan",jp
+cupy/cupy,,okuta,2081,Tokyo,jp
+cupy/cupy,,beam2d,1145,Tokyo,jp
+cupy/cupy,,takagi,743,"Tokyo, Japan",jp
+iron-meteor/iron-router,,tmeasday,168,"Melbourne, Australia",au
+YabataDesign/afterglow-theme,es,YabataDesign,61,Spain,es
+YabataDesign/afterglow-theme,es,kavu,13,"Moscow, Russia",ru
+modo-studio/SugarRecord,,pepibumur,879,Berlin,de
+js2coffee/js2coffee,,rstacruz,507,"Manila, Philippines",ph
+devstructure/blueprint,,rcrowley,522,"San Francisco, CA",us
+moneyphp/money,,sagikazarmark,219,"Budapest, Hungary",hu
+moneyphp/money,,frederikbosch,126,"Amsterdam, The Netherlands",nl
+moneyphp/money,,mathiasverraes,108,Belgium,be
+auth0/java-jwt,,lbalmaceda,158,"Buenos Aires, Argentina",ar
+auth0/java-jwt,,hzalaz,24,"Buenos Aires, Argentina",ar
+ircmaxell/password_compat,us,ircmaxell,66,"New York, NY",us
+ircmaxell/password_compat,us,GrahamCampbell,5,The United Kingdom,gb
+google/recaptcha,,rowan-m,135,"London, UK",gb
+kimmobrunfeldt/concurrently,fi,kimmobrunfeldt,85,Finland,fi
+kimmobrunfeldt/concurrently,fi,gustavohenke,56,Sydney,au
+jarun/Buku,in,jarun,1105,"Bangalore, India",in
+jarun/Buku,in,rachmadaniHaryono,130,Germany,de
+spockframework/spock,,pniederw,1826,Austria,at
+spockframework/spock,,ldaley,200,"Brisbane, Australia.",au
+ruboto/ruboto,,donv,1810,Oslo Norway,no
+ruboto/ruboto,,rscottm,243,United States,us
+floydhub/dl-setup,,saiprashanths,8,"San Francisco, CA",us
+floydhub/dl-setup,,whatrocks,2,"San Francisco, CA",us
+webtorrent/instant.io,,feross,328,"San Francisco, CA",us
+joshnewlan/say_what,us,joshnewlan,11,San Francisco,us
+joshnewlan/say_what,us,itsdrewmiller,3,United States,us
+joshnewlan/say_what,us,cclauss,3,Switzerland,ch
+scmbreeze/scm_breeze,,ndbroadbent,416,"Chiang Mai, Thailand",th
+priologic/easyrtc,ca,EricDavies,458,Victoria BC,sc
+priologic/easyrtc,ca,dryswabbie,336,Victoria BC,sc
+priologic/easyrtc,ca,hthetiot,157,San Francisco CA USA,us
+slate/slate,,tj,10,"Victoria, BC, Canada",ca
+slate/slate,,hollingberry,1,United Kingdom,gb
+KnpLabs/Gaufrette,fr,Herzult,166,France,fr
+KnpLabs/Gaufrette,fr,l3l0,149,Poland,pl
+KnpLabs/Gaufrette,fr,NiR-,148,"Nantes, France",fr
+zeit/hazel,us,leo,112,"Bamberg, Germany",de
+getsentry/responses,,dcramer,128,"San Francisco, CA",us
+fecshop/yii2_fecshop,,fancyecommerce,414,bantian shenzhen china,cn
+malarkey/320andup,au,jina,15,"San Francisco, California, USA",us
+fluentpython/example-code,,ramalho,105,São Paulo,br
+scrapinghub/splash,ie,kmike,1271,"Russia, Ekaterinburg",ru
+AssemblyScript/assemblyscript,,dcodeIO,398,The web / Germany,de
+AssemblyScript/assemblyscript,,MaxGraey,37,"Ukraine, Kiev",ua
+PyGithub/PyGithub,,jacquev6,1078,France,fr
+mavoweb/mavo,,LeaVerou,993,"Boston, MA",us
+unruledboy/WebFrontEndStack,au,zsxsoft,40,"Fujian, China",cn
+unruledboy/WebFrontEndStack,au,unruledboy,38,"Sydney, Australia",au
+elastic/elasticsearch-dsl-py,,HonzaKral,702,Czech Republic,cz
+guard/guard-livereload,,thibaudgg,124,Switzerland,ch
+guard/guard-livereload,,e2,46,Poland,pl
+ImageMagick/ImageMagick,,dlemstra,1683,"Leeuwarden, The Netherlands ",nl
+krzysztofzablocki/Bootstrap,pl,krzysztofzablocki,15,"Warsaw, Poland",pl
+krzysztofzablocki/Bootstrap,pl,Legoless,8,Slovenia,si
+mcharmas/android-parcelable-intellij-plugin,pl,mcharmas,74,Poland,pl
+mcharmas/android-parcelable-intellij-plugin,pl,dallasgutauckis,22,"New York, NY",us
+gopasspw/gopass,,dominikschulz,374,"Munich, Germany",de
+gopasspw/gopass,,metalmatze,52,Berlin,de
+SideBarEnhancements-org/SideBarEnhancements,,titoBouzout,404,"Montevideo, Uruguay",uy
+mit-nlp/MITIE,,davisking,4990,"Boston, MA",us
+btraceio/btrace,,jbachorik,573,Prague,cz
+florent37/CameraFragment,fr,florent37,41,"Paris, France",fr
+florent37/CameraFragment,fr,amadeu01,5,São José - SC - Brazil,br
+EugenMayer/docker-sync,de,EugenMayer,371,Germany,de
+EugenMayer/docker-sync,de,michaelbaudino,111,"La Réunion, France",fr
+EugenMayer/docker-sync,de,mickaelperrin,62,"Toulon, France",fr
+firebase/quickstart-js,us,nicolasgarnier,299,Switzerland,ch
+rails/rails-dev-box,,fxn,91,Barcelona,es
+velesin/jasmine-jquery,pl,travisjeffery,172,Toronto,ca
+velesin/jasmine-jquery,pl,velesin,26,Poland,pl
+survivejs/react-book,,bebraw,2337,"Vienna, Austria",at
+gdi2290/NG6-starter,us,fesor,41,"Belarus, Minsk",by
+gdi2290/NG6-starter,us,gdi2290,38,"San Francisco, CA",us
+pytorch/fairseq,,myleott,199,"New York, NY",us
+pytorch/fairseq,,alexeib,48,"London, UK",gb
+pytorch/fairseq,,edunov,32,San Francisco,us
+mgechev/angularjs-in-patterns,us,mgechev,170,"San Francisco, CA",us
+mgechev/angularjs-in-patterns,us,morizotter,33,Tokyo,jp
+thedaviddias/HTMLHint,ca,yaniswang,175,"Hangzhou, China",cn
+thedaviddias/HTMLHint,ca,thedaviddias,18,"Toronto, Canada",ca
+OpenNMT/OpenNMT,,guillaumekln,801,"Paris, France",fr
+OpenNMT/OpenNMT,,jsenellart,532,Paris,fr
+django-guardian/django-guardian,,lukaszb,319,Warsaw,pl
+django-guardian/django-guardian,,brianmay,110,"Melbourne, Australia",au
+django-guardian/django-guardian,,ad-m,74,"Warsaw, Poland",pl
+premailer/premailer,,alexdunae,203,"Vancouver Island, Canada",ca
+premailer/premailer,,akzhan,184,Moscow,ru
+tarantool/tarantool,,kostja,3637,Moscow,ru
+tarantool/tarantool,,rtsisyk,1818,"Moscow, Russia",ru
+tarantool/tarantool,,locker,1024,Moscow,ru
+tarantool/tarantool,,pmwkaa,645,"Russian Federation, Moscow",ru
+maxs15/react-native-modalbox,us,maxs15,113,Miami,us
+maxs15/react-native-modalbox,us,MaxToyberman,14,Israel,il
+corcel/corcel,,jgrossi,601,"belo horizonte, brazil",br
+corcel/corcel,,rundef,46,Montreal,ca
+lukehaas/RegexHub,gb,lukehaas,41,London,gb
+lukehaas/RegexHub,gb,ryanml,9,"Phoenix, AZ",us
+ksm/SwiftInFlux,,radex,132,"Toruń, Poland",pl
+pirate/sites-using-cloudflare,ca,pirate,141,"Montréal, Canada",ca
+pirate/sites-using-cloudflare,ca,Phineas,30,London/LA,gb
+pirate/sites-using-cloudflare,ca,coderobe,23,"Bonn, Germany",de
+CppCon/CppCon2014,,sdutoit,33,Singapore,sg
+recalbox/recalbox-os,,digitalLumberjack,83,France,fr
+recalbox/recalbox-os,,AldoFerrari,16,"Lausanne, Switzerland",ch
+LaiFeng-Android/SopCastComponent,,SuperJim123,31,Beijing,cn
+neomake/neomake,,blueyed,1496,"Berlin, Germany",de
+neomake/neomake,,benekastah,174,San Francisco,us
+NixOS/nix,,edolstra,5324,"Utrecht, Netherlands",nl
+pritunl/pritunl,,zachhuff386,12423,New York,us
+gh-unit/gh-unit,,gabriel,436,"San Francisco, CA",us
+gh-unit/gh-unit,,x2on,72,"Burghausen, Germany",de
+CartoDB/cartodb,,xavijam,10272,"Madrid, Spain",es
+CartoDB/cartodb,,javierarce,6425,Madrid,es
+CartoDB/cartodb,,juanignaciosl,4504,Madrid - Valladolid,es
+CartoDB/cartodb,,javitonino,4411,"Madrid, Spain",es
+CartoDB/cartodb,,gfiorav,3744,"Madrid, Spain",es
+CartoDB/cartodb,,matallo,3696,"London, UK",gb
+pytorch/vision,,soumith,86,"New York, USA",us
+pytorch/vision,,alykhantejani,46,London,gb
+meetfranz/franz,,adlk,525,Vienna,at
+meetfranz/franz,,haraldox,76,"Vienna, Austria",at
+jivesoftware/PDTSimpleCalendar,,jmig,75,New York,us
+gpmgo/gopm,,Unknwon,333,"Hangzhou, China",cn
+gpmgo/gopm,,lunny,64,"Shanghai, China",cn
+egoist/maid,cn,egoist,41,"Chengdu, China",cn
+egoist/maid,cn,mfix22,6,"San Francisco, CA, USA",us
+Netflix/curator,,Randgalt,909,"Panama City, Panama",pa
+gogo/protobuf,,awalterschulze,792,"Amsterdam, Netherlands",nl
+ValveSoftware/ToGL,,Plagman,2,"San Francisco, CA",us
+ValveSoftware/ToGL,,DarinM223,1,"Los Angeles, California",us
+javaparser/javaparser,,matozoid,2211,"Utrecht, The Netherlands",nl
+javaparser/javaparser,,ftomassetti,1921,"Turin, Italy",it
+PapirusDevelopmentTeam/papirus-icon-theme,,varlesh,1870,Russia,ru
+PapirusDevelopmentTeam/papirus-icon-theme,,SmartFinn,684,Ukraine,ua
+caiogondim/bullet-train.zsh,us,caiogondim,157,New York,us
+caiogondim/bullet-train.zsh,us,jeremyFreeAgent,39,Paris,fr
+querydsl/querydsl,,timowest,6067,"Helsinki, Finland",fi
+nmattisson/DropdownMenu,se,nmattisson,34,"Malmö, Sweden",se
+nmattisson/DropdownMenu,se,zackslash,6,United Kingdom,gb
+tellform/tellform,,whitef0x0,1162,"Vancouver, BC",ca
+tellform/tellform,,lalop,112,"Paris, France",fr
+itheima1/Android,,PoplarTang,19,ShenZhen. China,cn
+prontolabs/pronto,,mmozuras,549,"Vilnius, Lithuania",lt
+for-GET/know-your-http-well,,andreineculau,118,"Stockholm, Sweden",se
+for-GET/know-your-http-well,,dret,37,"Zürich, Switzerland",ch
+thoughtbot/rcm,gb,mike-burns,144,"Stockholm, Sweden",se
+i18next/react-i18next,,jamuhl,419,"Zürich, Switzerland",ch
+improbable-eng/thanos,gb,fabxc,267,Berlin,de
+improbable-eng/thanos,gb,Bplotka,202,"London, UK",gb
+flavienlaurent/datetimepicker,fr,flavienlaurent,54,"Paris, France",fr
+flavienlaurent/datetimepicker,fr,edisonw,6,New York,us
+djaiss/mapsicon,ca,djaiss,9,Montréal,ca
+djaiss/mapsicon,ca,Sn3b,2,Brussels,be
+libgit2/rugged,,arthurschreiber,808,Germany,de
+libgit2/rugged,,vmg,514,Madrid,es
+QuantConnect/Lean,us,mchandschuh,2376,Philadelphia,us
+QuantConnect/Lean,us,jaredbroad,1518,New York,us
+QuantConnect/Lean,us,StefanoRaggi,1131,"Rapallo, Italy",it
+QuantConnect/Lean,us,AlexCatarino,517,"Apúlia, Portugal",pt
+angristan/openvpn-install,fr,angristan,105,France,fr
+angristan/openvpn-install,fr,Nyr,55,Spain,es
+nfnt/resize,de,charlievieth,16,"New York, NY",us
+elevenetc/TextSurface,nl,elevenetc,10,"Netherlands, Amsterdam",nl
+elevenetc/TextSurface,nl,ogaclejapan,4,Japan,jp
+kumailht/flakes,ae,kumailht,27,"Dubai, UAE",ae
+kumailht/flakes,ae,billytrend,6,"Vancouver, BC",ca
+mouse0270/bootstrap-notify,us,mouse0270,134,United States,us
+mouse0270/bootstrap-notify,us,chrismbarr,16,"Rome, GA",it
+jetstack/kube-lego,gb,simonswine,182,London / Germany,de
+jetstack/kube-lego,gb,munnerz,39,"Birmingham, United Kingdom",gb
+crossbario/autobahn-python,,oberstet,2218,Germany,de
+crossbario/autobahn-python,,meejah,335,canada,ca
+shrinerb/shrine,,janko-m,1287,"Brno, Czech Republic",cz
+wux-weapp/wux-weapp,,skyvow,159," Shanghai, China",cn
+FriendsOfSymfony/FOSRestBundle,,lsmith77,1252,"Zurich, Switzerland",ch
+FriendsOfSymfony/FOSRestBundle,,GuilhemN,287,"Lyon, France",fr
+FriendsOfSymfony/FOSRestBundle,,xabbuh,195,"Osnabrück, Germany",de
+runtimejs/runtime,,iefserge,549,Ukraine,ua
+apache/incubator-dubbo-spring-boot-project,,mercyblitz,95,"Hangzhou, China",cn
+apache/incubator-dubbo-spring-boot-project,,lovepoem,14,"Beijing,China",cn
+marmelab/awesome-rest,,fzaninotto,55,"Nancy, France",fr
+marmelab/awesome-rest,,jpetitcolas,19,"Nancy, France",fr
+mchristopher/PokemonGo-DesktopMap,us,mchristopher,57,"Los Angeles, CA",us
+mchristopher/PokemonGo-DesktopMap,us,Traxmaxx,4,Berlin Germany,de
+cake-build/cake,se,patriksvensson,686,Sweden,se
+cake-build/cake,se,devlead,674,"Gothenburg, Sweden",se
+cake-build/cake,se,gep13,430,"Aberdeen, United Kingdom",gb
+nvzqz/FileKit,us,nvzqz,316,"Boston, MA",us
+nvzqz/FileKit,us,phimage,32,France,fr
+React-Sight/React-Sight,,davidcsally,439,"Los Angeles, CA",us
+React-Sight/React-Sight,,Grant05,94,"Los Angeles, CA",us
+React-Sight/React-Sight,,hewilliam,69,Los Angeles,us
+jquerytools/jquerytools,fi,tipiirai,109,Helsinki / Finland,fi
+jquerytools/jquerytools,fi,bradrobertson,62,"Toronto, ON,  Canada",ca
+js-org/js.org,,indus,1888,"Munich, GERMANY",de
+flatlogic/awesome-bootstrap-checkbox,by,okendoken,40,"Minsk, Belarus",by
+flatlogic/awesome-bootstrap-checkbox,by,micrum,21,New York City,us
+flatlogic/awesome-bootstrap-checkbox,by,DimaSavchenko,13,Belarus,by
+thx/rap2-delos,,Bosn,89,"Peking, China",cn
+google/closure-compiler-js,,samthor,83,"Sydney, Australia",au
+parnurzeal/gorequest,th,parnurzeal,279,Bangkok,th
+parnurzeal/gorequest,th,QuentinPerez,31,Paris,fr
+Shopify/bootsnap,,burke,161,"Ottawa, Ontario, Canada",ca
+Shopify/bootsnap,,jules2689,22,"Ottawa, On",ca
+markbates/goth,us,markbates,105,"Boston, MA",us
+markbates/goth,us,willemvd,44,The Netherlands,nl
+mapbox/pixelmatch,,mourner,61,"Kyiv, Ukraine",ua
+speedracer/speedracer,,ngryman,75,"Alicante, Spain",es
+tylingsoft/markdown-plus,,tylerlong,558,"Xiamen, China",cn
+gradle/kotlin-dsl,,bamboo,1702,Brazil,br
+gradle/kotlin-dsl,,eskatos,905,France,fr
+swoft-cloud/swoft,,stelin,503,"Sichuan, Chengdu, China",cn
+swoft-cloud/swoft,,huangzhhui,154,"ShenZhen, GuangDong, China",cn
+swoft-cloud/swoft,,inhere,67,"Chengdu,china",cn
+MacRuby/MacRuby,,lrz,2798,Belgium,be
+MacRuby/MacRuby,,Watson1978,1134,Japan,jp
+MacRuby/MacRuby,,alloy,575,"Amsterdam, the Netherlands",nl
+websanova/js-url,th,websanova,58,Bangkok,th
+websanova/js-url,th,bettiolo,13,"London, UK",gb
+ml5js/ml5-library,,cvalenzuela,284,"New York, NY",us
+ml5js/ml5-library,,shiffman,101,"New York, NY",us
+ml5js/ml5-library,,yining1023,36,New York,us
+thank-you-github/thank-you-github,,fxn,2116,Barcelona,es
+ideashower/ShareKit,us,ideashower,36,San Francisco,us
+ideashower/ShareKit,us,ngs,12,"Meguro, Tokyo, JAPAN",jp
+ideashower/ShareKit,us,steipete,7,"Vienna, Austria",at
+graph-gophers/graphql-go,,neelance,256,"Berlin, Germany",de
+graph-gophers/graphql-go,,tonyghita,45,"San Francisco, CA",us
+intentkit/IntentKit,,lazerwalker,270,Berlin,de
+JXA-Cookbook/JXA-Cookbook,,dtinth,10,"Bangkok, Thailand",th
+react-native-community/react-native-side-menu,,Kureev,23,London,gb
+LWJGL/lwjgl3,,Spasi,2532,Greece,gr
+QL-Win/QuickLook,,xupefei,514,Helsinki,fi
+yapstudios/YapAnimator,us,olliewagner,35,"Albuquerque, New Mexico",mx
+joewalnes/smoothie,us,drewnoakes,158,"London, UK",gb
+joewalnes/smoothie,us,joewalnes,24,Chicago,us
+elixir-plug/plug,,josevalim,688,"Kraków, Poland",pl
+elixir-plug/plug,,whatyouhide,75,"L'Aquila, Italy",it
+composer/satis,,alcohol,171,Netherlands,nl
+composer/satis,,Seldaek,103,"Zürich, Zurich, Switzerland",ch
+composer/satis,,JamesRezo,50,Nantes - France,fr
+Codeception/CodeceptJS,,DavertMik,675,"Kiev, Ukraine",ua
+jsxstyle/jsxstyle,,meyer,281,San Francisco,us
+jsxstyle/jsxstyle,,petehunt,88,"San Francisco, CA",us
+http-kit/http-kit,,shenfeng,345,"Beijing, China",cn
+http-kit/http-kit,,ptaoussanis,61,"Berlin, Chiang Mai",de
+webpack-contrib/mini-css-extract-plugin,,sokra,51,Germany,de
+webpack-contrib/mini-css-extract-plugin,,evilebottnawi,4,"Russia, Kirov",ru
+coodict/python3-in-one-pic,,rainyear,69,Shanghai,cn
+bcoin-org/bcoin,,chjj,4497,San Francisco,us
+mattgallagher/AudioStreamer,au,sdesimone,5,Barcelona,es
+mattgallagher/AudioStreamer,au,mattgallagher,4,"Melbourne, Australia.",au
+raganwald-deprecated/homoiconic,,raganwald,1119,"Toronto, Canada",ca
+nodeca/pako,,puzrin,222,"Russia, St.Petersburg",ru
+nodeca/pako,,andr83,30,Riga (Latvia),lv
+go-gomail/gomail,,alexcesaro,84,Paris,fr
+fb55/htmlparser2,gb,fb55,526,"London, UK",gb
+fb55/htmlparser2,gb,tautologistics,60,"New York, NY",us
+ReactKit/SwiftTask,,inamiy,241,"Tokyo, Japan",jp
+tallesl/Rich-Hickey-fanclub,br,tallesl,13,"Belo Horizonte, Brazil",br
+tallesl/Rich-Hickey-fanclub,br,bruth,2,Philadelphia,us
+schibsted/layout,,nicklockwood,577,London,gb
+swisnl/jQuery-contextMenu,nl,bbrala,468,Netherlands,nl
+swisnl/jQuery-contextMenu,nl,rodneyrehm,222,Germany,de
+GhostText/GhostText,,Cacodaimon,118,Germany,de
+GhostText/GhostText,,bfred-it,87,Southern Italy,it
+Yalantis/FlipViewPager.Draco,ua,edBaev,3,Ukraine,ua
+Yalantis/FlipViewPager.Draco,ua,Aenterhy,3,Ukraine,ua
+Yalantis/FlipViewPager.Draco,ua,warko-san,1,"Ukraine, Dnipro",ua
+Yalantis/FlipViewPager.Draco,ua,johnjohndoe,1,"Berlin, Germany",de
+konpa/devicon,fr,konpa,65,"Castres, France",fr
+konpa/devicon,fr,oligibson,44,"London, UK",gb
+oauth-xx/oauth2,,sferik,277,San Francisco,us
+oauth-xx/oauth2,,pboling,98,"San Francisco, CA",us
+vuejs/vuefire,,yyx990803,48,New Jersey / China,cn
+vuejs/vuefire,,posva,46,Paris ,fr
+globalize/globalize,,parndt,259,"Christchurch, New Zealand",nz
+globalize/globalize,,shioyama,172,"Tokyo, Japan",jp
+globalize/globalize,,joshmh,59,"Sofia, Bulgaria",bg
+Anthony25/gnome-terminal-colors-solarized,fr,Anthony25,64,France,fr
+Anthony25/gnome-terminal-colors-solarized,fr,weynhamz,21,"Ningbo,China",cn
+Anthony25/gnome-terminal-colors-solarized,fr,sigurdga,17,"Trondheim, Norway",no
+muflihun/easyloggingpp,,abumusamq,1959,Australia,au
+d3/d3-plugins,us,jasondavies,354,"London, UK",gb
+d3/d3-plugins,us,mbostock,245,"San Francisco, CA",us
+Haneke/Haneke,,hpique,292,London,gb
+dabeaz/python-cookbook,us,dabeaz,6,Chicago,us
+dabeaz/python-cookbook,us,aliev,1,Azerbaijan,az
+dabeaz/python-cookbook,us,yukinarit,1,Japan,jp
+google/rejoiner,,siderakis,159,New York,us
+webpack-contrib/webpack-hot-middleware,,glenjamin,183,"Sheffield, United Kingdom",gb
+mikespook/Learning-Go-zh-cn,,miekg,1070,"London, UK",gb
+mikespook/Learning-Go-zh-cn,,djotto,123,"London, UK",gb
+botui/botui,pk,moinism,53,"Islamabad, Pakistan",pk
+botui/botui,pk,lleohao,6,China,cn
+botui/botui,pk,allanlasser,4,"Boston, MA",us
+emojione/emojify.js,,hassankhan,123,London,gb
+emojione/emojify.js,,adam-lynch,41,"Cork, Ireland",ie
+emojione/emojify.js,,4ver,25,"Cork, Ireland",ie
+qs-lll/ExpandingPager,cn,qs-lll,11,shanghai,cn
+qs-lll/ExpandingPager,cn,furkanozbay,2,"İstanbul, Türkiye",tr
+SimpleRegex/SRL-PHP,,KarimGeiger,58,"Cologne, Germany",de
+fvbock/endless,jp,fvbock,47,Tokyo,jp
+fvbock/endless,jp,slava-vishnyakov,6,Russia,ru
+Zulko/eagle.js,gb,yaodingyd,35,"New York, US",us
+Zulko/eagle.js,gb,Zulko,19,"Edinburgh, United Kingdom",gb
+Zulko/eagle.js,gb,ktsn,10,"Tokyo, Japan",jp
+simplecrawler/simplecrawler,,cgiffard,239,"Canberra, Australia",au
+simplecrawler/simplecrawler,,fredrikekelund,198,"Göteborg, Sweden",se
+rime/squirrel,,lotem,298,"Beijing, China",cn
+thoughtbot/gitsh,gb,georgebrock,253,New York City,us
+alexdrone/ios-fontawesome,se,alexdrone,15,"Stockholm, Sweden",se
+alexdrone/ios-fontawesome,se,runmad,8,"San Francisco, CA",us
+alexdrone/ios-fontawesome,se,ElfSundae,5,China,cn
+alexdrone/ios-fontawesome,se,Hysteria,4,"Chengdu, China.",cn
+it-ebooks/it-ebooks-archive,,wizardforcel,41,Beijing,cn
+rust-unofficial/patterns,,nrc,32,"Christchurch, New Zealand",nz
+rust-unofficial/patterns,,llogiq,13,Germany,de
+rust-unofficial/patterns,,lfairy,9,"Christchurch, New Zealand",nz
+arrow-kt/arrow,,pakoito,1530,London,gb
+arrow-kt/arrow,,raulraja,729,"Seattle, WA :: Cadiz, Spain :: HNil",es
+arrow-kt/arrow,,nomisRev,329,Belgium,be
+visionmedia/masteringnode,,tj,131,"Victoria, BC, Canada",ca
+rust-lang-nursery/rustfmt,,nrc,1378,"Christchurch, New Zealand",nz
+rust-lang-nursery/rustfmt,,topecongiro,1197,Tokyo,jp
+rust-lang-nursery/rustfmt,,marcusklaas,284,Netherlands,nl
+GitbookIO/editor-legacy,,SamyPesse,325,"Lyon, France",fr
+DKirwan/calendar-heatmap,ie,DKirwan,20,"Galway, Ireland",ie
+DKirwan/calendar-heatmap,ie,peterdesmet,5,"Ghent, Belgium",be
+tipeio/tipe,,Hendrixer,293,"San Francisco, CA",us
+yanzhenjie/Album,cn,mansya,21,indonesia,id
+lobsters/lobsters,,jcs,977,"chicago, illinois",us
+lobsters/lobsters,,pushcx,409,"Chicago, IL, USA",us
+golang/oauth2,,rakyll,157,"San Francisco, CA",us
+golang/oauth2,,adg,23,"Sydney, Australia",au
+noelboss/featherlight,ch,marcandre,329,"Montreal, Canada",ca
+ionic-team/ionic-native,us,ihadeed,1226,"Toronto, ON, Canada",ca
+ionic-team/ionic-native,us,danielsogl,374,"Stuttgart, Germany",de
+mgechev/codelyzer,us,mgechev,541,"San Francisco, CA",us
+mgechev/codelyzer,us,wKoza,61,"Bordeaux, France",fr
+mgechev/codelyzer,us,preslavsh,52,"Sofia,Bulgaria",bg
+phodal/awesome-iot,cn,phodal,380,"Shenzhen, China",cn
+phodal/awesome-iot,cn,fkromer,40,Munich,de
+onface/gulp-book,,nimojs,21,"Shanghai, China 上海",cn
+phusion/traveling-ruby,,FooBarWidget,254,"Amsterdam, Netherlands",nl
+kohsuke/winsw,cr,oleg-nenashev,207,"Neuchatel, Switzerland",ch
+kohsuke/winsw,cr,kohsuke,81,"San Jose, California",cr
+pmd/pmd,,adangel,3183,"Munich, Germany",de
+pmd/pmd,,jsotuyod,1090,"Buenos Aires, Argentina",ar
+pmd/pmd,,oowekyala,1057,"Dresden, Germany",de
+PistonDevelopers/conrod,,mitchmindtree,1355,"Melbourne, AUS",au
+PistonDevelopers/conrod,,bvssvni,314,Norway,no
+htty/htty,,njonsson,280,Houston,us
+htty/htty,,gabrielelana,28,Milan/Italy,it
+HubSpot/BuckyClient,,zackbloom,60,Boston,us
+entotsu/PullToBounce,jp,entotsu,31,"Tokyo, Japan",jp
+entotsu/PullToBounce,jp,schickling,4,SF/Berlin,de
+drublic/css-modal,de,drublic,415,"Cologne, Germany",de
+drublic/css-modal,de,anselmh,32,"Iffeldorf, Germany",de
+drublic/css-modal,de,jonathanweiss,32,"Sydney, Australia",au
+clayallsopp/routable-ios,us,clayallsopp,53,"San Francisco, CA",us
+clayallsopp/routable-ios,us,croath,6,"Beijing, China",cn
+clayallsopp/routable-ios,us,NorthStar,6,"San Francisco, CA",us
+solus-project/budgie-desktop,,ikeydoherty,2373,Ireland,ie
+GitbookIO/javascript,,SamyPesse,104,"Lyon, France",fr
+GitbookIO/javascript,,AaronO,36,Palo Alto / France,fr
+wheybags/freeablo,ie,wheybags,740,"Dublin, Ireland",ie
+wheybags/freeablo,ie,Predelnik,181,Moscow,ru
+wheybags/freeablo,ie,konopka90,125,Poland,pl
+FolioReader/FolioReaderKit,,hebertialmeida,442,"Toronto, ON",ca
+shouldjs/should.js,,btd,435,"Russia, Tula",ru
+shouldjs/should.js,,tj,164,"Victoria, BC, Canada",ca
+publify/publify,,mvz,2499,"Amsterdam, The Netherlands",nl
+publify/publify,,fdv,1559,"Paris, France",fr
+ziglang/zig,,andrewrk,2781,New York City,us
+timoxley/functional-javascript-workshop,sg,timoxley,187,"Brisbane, AU ⇄ Singapore",sg
+timoxley/functional-javascript-workshop,sg,tdd,19,"Paris, France",fr
+molnarg/node-http2,ch,molnarg,578,"Zurich, Switzerland",ch
+molnarg/node-http2,ch,nwgh,89,San Jose,cr
+hamstergem/hamster,,alexdowad,825,"Lusaka, Zambia",zm
+hamstergem/hamster,,harukizaemon,112,"Melbourne, Victoria, Australia",au
+TwidereProject/Twidere-Android,,mariotaku,2824,"Zhengzhou, Henan, China",cn
+graphhopper/graphhopper,,karussell,2782,Germany,de
+graphhopper/graphhopper,,michaz,208,Berlin,de
+FudanNLP/fnlp,,xpqiu,64,"Shanghai, China",cn
+FudanNLP/fnlp,,lsyin,5,"ShangHai,China",cn
+1backend/1backend,,crufter,147,London,gb
+1backend/1backend,,Dobika,44,"London, UK",gb
+1backend/1backend,,vvik91,36,London,gb
+Automattic/knox,,domenic,146,"New York, NY",us
+Automattic/knox,,tj,105,"Victoria, BC, Canada",ca
+pa11y/pa11y,,rowanmanning,253,"London, UK",gb
+pa11y/pa11y,,hollsk,29,"London, UK",gb
+calabash/calabash-ios,,jmoody,2201,Germany,de
+calabash/calabash-ios,,krukow,543,Denmark,dk
+TalkingData/inmap,,fengluhome,378,beijing,cn
+TalkingData/inmap,,icarusion,37,"BeiJing, China",cn
+artem-zinnatullin/qualitymatters,us,artem-zinnatullin,200,San Francisco,us
+artem-zinnatullin/qualitymatters,us,vanniktech,26,"Hamburg, Germany",de
+AssetSync/asset_sync,,davidjrice,250,"Belfast, Ireland",ie
+AssetSync/asset_sync,,PikachuEXE,63,Hong Kong,cn
+awesome-css-group/awesome-css,,sotayamashita,182,"San Francisco, CA",us
+raphaelcruzeiro/jquery-notebook,pt,raphaelcruzeiro,88,Lisbon,pt
+raphaelcruzeiro/jquery-notebook,pt,otaviosoares,18,São Paulo,br
+ruflin/Elastica,ch,ruflin,1343,Zurich,ch
+ruflin/Elastica,ch,im-denisenko,170,"Krasnodar, Russia",ru
+urllib3/urllib3,,shazow,1073,"Toronto, ON",ca
+urllib3/urllib3,,Lukasa,485,"London, England",gb
+urllib3/urllib3,,t-8ch,165,"Frankfurt am Main, Germany",de
+mkaz/termgraph,us,mkaz,50,"San Francisco, CA",us
+mkaz/termgraph,us,zoekt,5,"Athens, Greece",gr
+mkaz/termgraph,us,diplozoon,4,"Fukuoka, Japan",jp
+jsdf/react-native-htmlview,us,jsdf,97,"San Francisco, CA",us
+jsdf/react-native-htmlview,us,richchurcher,28,"Auckland, New Zealand",nz
+jboss-javassist/javassist,,chibash,165,Tokyo,jp
+llSourcell/Learn_Deep_Learning_in_6_Weeks,us,llSourcell,3,"San Francisco, CA",us
+llSourcell/Learn_Deep_Learning_in_6_Weeks,us,mogwai,2,United Kingdom,gb
+rhummelmose/BluetoothKit,dk,rhummelmose,68,"Aarhus, Denmark",dk
+rhummelmose/BluetoothKit,dk,barelyreal,7,"Berlin, Germany",de
+sonata-project/SonataAdminBundle,,rande,1978,"Paris, France",fr
+sonata-project/SonataAdminBundle,,Soullivaneuh,287,"Lille, France",fr
+flexxui/flexx,,almarklein,1741,"Enschede, Twente, The Netherlands",nl
+js-next/react-style,,SanderSpies,139,"Amsterdam, NL",nl
+js-next/react-style,,andreypopp,90,"St. Petersburg, Russia",ru
+reactiveui/Akavache,au,paulcbetts,737,San Francisco,us
+reactiveui/Akavache,au,jlaanstra,98,"Seattle, United States",us
+EmailThis/extension-boilerplate,,bharani91,26,"Pondicherry, India",in
+EmailThis/extension-boilerplate,,yfdyh000,4,"Beijing, China",cn
+Netflix/stethoscope,,andrewmwhite,316,"San Francisco, CA",us
+Netflix/stethoscope,,jkriss,44,"San Francisco, CA",us
+canvg/canvg,,gabelerner,338,Chicago,us
+nelmio/alice,ch,theofidry,364,"London, United Kingdom",gb
+nelmio/alice,ch,Seldaek,185,"Zürich, Zurich, Switzerland",ch
+nelmio/alice,ch,tshelburne,145,"New York, NY",us
+mafintosh/mongojs,dk,mafintosh,203,"Copenhagen, Denmark",dk
+mafintosh/mongojs,dk,saintedlama,175,Vienna,at
+mafintosh/mongojs,dk,sorribas,133,"Copenhagen, Denmark",dk
+mafintosh/mongojs,dk,watson,52,"Copenhagen, Denmark",dk
+reactor/reactor-core,,smaldini,1383,"San Francisco, CA",us
+reactor/reactor-core,,simonbasle,456,"Nantes, France",fr
+javascript-obfuscator/javascript-obfuscator,,sanex3339,1324,"Russia, Saint-Petersburg",ru
+streamproc/MediaStreamRecorder,,muaz-khan,42,Pakistan,pk
+arXivTimes/arXivTimes,,icoxfog417,212,Japan,jp
+bndr/pipreqs,ch,bndr,136,"Zurich, Switzerland",ch
+bndr/pipreqs,ch,jonafato,27,"New York, NY",us
+nanoc/nanoc,,ddfreyne,5855,"Berlin, Germany",de
+mixu/singlepageappbook,us,mixu,26,"San Francisco, California",us
+mixu/singlepageappbook,us,eeror,4,"Tartu, Estonia",ee
+feimosi/baguetteBox.js,pl,feimosi,257,Poland,pl
+feimosi/baguetteBox.js,pl,XhmikosR,28,Greece,gr
+thephpleague/csv,,nyamsprod,706,brussels,be
+OptimalBits/redbird,,manast,245,Sweden,se
+icons8/flat-color-icons,,visualpharm,12,New York,us
+icons8/flat-color-icons,,KonstantinVlasov,8,Russia,ru
+icons8/flat-color-icons,,betula,7,Russia,ru
+jakarmy/swift-summary,cl,jakarmy,24,"Santiago, Chile",cl
+jakarmy/swift-summary,cl,erginbilgin,7,Lithuania,lt
+clinical-meteor/software-development-kit,,awatson1978,3019,Chicago - Evansville,us
+ElemeFE/vue-infinite-scroll,cn,furybean,19,"ShangHai, China",cn
+ElemeFE/vue-infinite-scroll,cn,Leopoldthecoder,6,Shanghai,cn
+ElemeFE/vue-infinite-scroll,cn,pierrebonbon,3,"Lisbon, Portugal",pt
+ElemeFE/vue-infinite-scroll,cn,QingWei-Li,3,"Shanghai, China",cn
+notnoop/java-apns,us,notnoop,224,"Boston, MA",us
+notnoop/java-apns,us,matzew,42,"Emsdetten, Germany",de
+geex-arts/django-jet,,f1nality,827,"Moscow, Russia",ru
+way-cooler/way-cooler,,Timidger,1930,"Montreal, Canada",ca
+way-cooler/way-cooler,,SnirkImmington,589,Boston,us
+ajaxorg/ace-builds,nl,nightwing,77,"Yerevan, Armenia",am
+commixproject/commix,,stasinopoulos,1130,"Athens, Greece",gr
+awesome-lists/awesome-bash,,aloisdg,20,Paris,fr
+awesome-lists/awesome-bash,,edouard-lopez,3,France,fr
+gitsummore/nile.js,,kbbqiu,163,Los Angeles,us
+gitsummore/nile.js,,derekmiranda,159,"Los Angeles, CA",us
+remarkjs/remark,,wooorm,1028,Amsterdam,nl
+remarkjs/remark,,chjj,497,San Francisco,us
+google/jsonnet,,sparkprime,741,United States,us
+statsite/statsite,,armon,376,"San Francisco, CA",us
+statsite/statsite,,johnkeates,119,The Netherlands,nl
+VerbalExpressions/JavaVerbalExpressions,,lanwen,56,"Berlin, Germany",de
+farhadi/html5sortable,ir,farhadi,24,"Mashhad, Iran",ir
+farhadi/html5sortable,ir,voidberg,5,"Bucharest, Romania",ro
+viewflow/django-material,,kmmbvnr,676,Russia. Omsk,ru
+awesto/django-shop,de,jrief,3139,"Innsbruck, Tirol, Austria",at
+awesto/django-shop,de,rfleschenberg,302,"Düsseldorf, Germany",de
+awesto/django-shop,de,chrisglass,246,"Bern, Switzerland",ch
+guipsamora/pandas_exercises,de,guipsamora,144,Munich - Germany,de
+guipsamora/pandas_exercises,de,TakaakiFuruse,25,"Tokyo, JPN",jp
+hakimel/Avgrund,se,hakimel,14,"Stockholm, Sweden",se
+hakimel/Avgrund,se,halilcakarr,2,Turkey,tr
+igrigorik/em-websocket,us,mloughran,224,London,gb
+igrigorik/em-websocket,us,igrigorik,47,"San Francisco, CA",us
+jolibrain/deepdetect,,beniz,1446,"Toulouse, France",fr
+GoogleChrome/dialog-polyfill,,samthor,191,"Sydney, Australia",au
+moleculerjs/moleculer,,icebob,1956,Hungary,hu
+J7mbo/twitter-api-php,es,J7mbo,67,"Mallorca, Spain",es
+J7mbo/twitter-api-php,es,glenscott,11,"Norwich, United Kingdom",gb
+hmlb/phpunit-vw,fr,hmlb,22,"Lyon, France",fr
+hmlb/phpunit-vw,fr,Idrinth,6,"Mülheim, Germany",de
+lettuce-io/lettuce-core,,mp911de,1390,"Weinheim, Germany",de
+JustinTulloss/zeromq.node,us,tj,137,"Victoria, BC, Canada",ca
+JustinTulloss/zeromq.node,us,JustinTulloss,115,San Francisco,us
+JustinTulloss/zeromq.node,us,kkoopa,49,"Turku, Finland",fi
+JustinTulloss/zeromq.node,us,stephank,48,The Netherlands,nl
+kohana/kohana,,kiall,168,"Dublin, Ireland",ie
+kohana/kohana,,zombor,86,Chicago,us
+rtr7/router7,,stapelberg,117,"Zürich, Switzerland",ch
+mozilla/task.js,,dherman,46,"San Francisco, CA",us
+redux-loop/redux-loop,,bdwain,62,"Chicago, IL",us
+opauth/opauth,,uzyn,315,Singapore,sg
+lo-th/Oimo.js,fr,lo-th,457,france,fr
+lo-th/Oimo.js,fr,xprogram,62,Canada,ca
+theswiftdev/awesome-xcode-extensions,,tib,68,"Budapest, Hungary",hu
+cartalyst/sentry,,bencorlett,353,"Morisset, Australia",au
+cartalyst/sentry,,brunogaspar,113,"Porto, Portugal",pt
+srdja/Collections-C,rs,srdja,322,"Kikinda, Vojvodina, Serbia, Earth",rs
+srdja/Collections-C,rs,f2404,32,"Miami/Fort Lauderdale area, USA",us
+bikkelbroeders/TouchBarDemoApp,,robbertkl,39,"Delft, The Netherlands",nl
+rom-rb/rom,,solnic,3220,"Cracow, Poland",pl
+rom-rb/rom,,snusnu,600,Linz/Austria,at
+rom-rb/rom,,flash-gordon,281,Moscow,ru
+sodium-friends/learntocrypto,,emilbayes,18,Copenhagen,dk
+sodium-friends/learntocrypto,,mafintosh,14,"Copenhagen, Denmark",dk
+glium/glium,,tomaka,2302,"Berlin, Germany",de
+ecomfe/echarts-for-weixin,,Ovilia,31,"Shanghai, China",cn
+sergdort/CleanArchitectureRxSwift,gb,sergdort,57,"London, United Kingdom",gb
+sergdort/CleanArchitectureRxSwift,gb,AYastrebov,16,"Russia, Saint-Petersburg",ru
+ServiceStack/ServiceStack.Redis,,mythz,1039,New York,us
+wise9/enchant.js,,rtsan,730,"Akihabara, Tokyo, Japan",jp
+wise9/enchant.js,,sidestepism,399,"Tokyo, Japan",jp
+wise9/enchant.js,,rfushimi,107,Tokyo,jp
+dherault/serverless-offline,fr,dherault,414,"Paris, France",fr
+dherault/serverless-offline,fr,leonardoalifraco,46,"Tandil, Buenos Aires, Argentina",ar
+missive/emoji-mart,,EtienneLem,415,"Quebec City, Canada",ca
+shashank88/system_design,gb,shashank88,11,London,gb
+shashank88/system_design,gb,sherifkandeel,4,"Berlin, Germany",de
+dexafree/MaterialList,es,dexafree,111,Spain,es
+dexafree/MaterialList,es,FHellmann,48,Munich,de
+Security-Onion-Solutions/security-onion,,dougburks,2163,United States,us
+tleunen/babel-plugin-module-resolver,ca,tleunen,39,"Montreal, Canada",ca
+tleunen/babel-plugin-module-resolver,ca,fatfisz,29,"Warsaw, Poland",pl
+flycheck/flycheck,,lunaryorn,3805,Munich,de
+dmitric/DLCImagePickerController,us,dmitric,89,New York,us
+dmitric/DLCImagePickerController,us,matej,14,"Ljubljana, Slovenia",si
+OpenELEC/OpenELEC.tv,,sraue,16259,Solothurn/SO - Switzerland,ch
+OpenELEC/OpenELEC.tv,,stefansaraev,3093,"Plovdiv, Bulgaria",bg
+vuejs/vuex-router-sync,,yyx990803,46,New Jersey / China,cn
+pytorch/tutorials,,chsasank,91,Mumbai,in
+pytorch/tutorials,,soumith,36,"New York, USA",us
+10bestdesign/jqvmap,us,manifestinteractive,128,"St. Petersburg, FL",ru
+aptly-dev/aptly,,smira,1602,"Moscow, Russia",ru
+facebook/libphenom,,wez,225,"San Francisco Bay Area, USA",us
+preboot/angularjs-webpack,,Foxandxss,69,"Cádiz, Spain",es
+preboot/angularjs-webpack,,phra,17,"Amsterdam, NL",nl
+cloudfoundry/bosh,,mariash,861,"San Francisco, CA",us
+ServiceStack/redis-windows,,mythz,44,New York,us
+gcacace/android-signaturepad,ie,gcacace,53,"Dublin, Ireland",ie
+gcacace/android-signaturepad,ie,thomasleveil,14,"Rennes, France",fr
+atConf/atswift-2016-resources,cn,SergioChan,5,"Beijing, China",cn
+atConf/atswift-2016-resources,cn,numbbbbb,3,"Winnipeg, Canada",ca
+uber/pyflame,,eklitzke,257,"San Francisco, CA",us
+wellsjo/JSON-Splora,us,wellsjo,134,New York City,us
+wellsjo/JSON-Splora,us,MaanooAk,19,Greece,gr
+scripted-editor/scripted,,kdvolder,486,"Vancouver, BC, Canada",ca
+scripted-editor/scripted,,aeisenberg,321,"Escazu, Costa Rica",cr
+scripted-editor/scripted,,aclement,247,Vancouver,ca
+dhotson/springy,au,dhotson,24,"Melbourne, Australia",au
+dhotson/springy,au,techtonik,16,"Minsk, Belarus",by
