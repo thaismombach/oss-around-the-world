@@ -380,7 +380,7 @@ function projectsChart(div_i) {
     var arrayData = []; 
     $.ajax({
        type: "GET",  
-       url: "data/" + chosenAPI[div_i] + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
+       url: "data/" + chosenAPI[div_i] + "/repositoriesPerCountry.csv",
        dataType: "text",       
        success: function(response)  
        {
@@ -443,7 +443,7 @@ function popularityChart(file_name, div_num, country_name, div_i) {
           var arrayData = $.csv.toArrays(response);
           var i, starsCol; 
           for(i = 0; i < arrayData[0].length; i++) { 
-            if(chosenAPI[div_i] === 'GHTorrent' && arrayData[0][i] === 'num_watchers' || chosenAPI[div_i] === 'GitHubRestAPI' && arrayData[0][i] === 'numberOfStars') {
+            if(arrayData[0][i] === 'numberOfStars') {
               starsCol = i; 
               break;
             }
@@ -626,7 +626,7 @@ function programmingLanguagesChart(file_name, div_i) {
           var arrayData = $.csv.toArrays(response);
           var i, langCol; 
           for(i = 0; i < arrayData[0].length; i++) { 
-            if(chosenAPI[div_i] === 'GHTorrent' && arrayData[0][i] === 'newLanguage' || chosenAPI[div_i] === 'GitHubRestAPI' && arrayData[0][i] === 'language') {
+            if(arrayData[0][i] === 'language') {
               langCol = i; 
               break;
             }
@@ -698,7 +698,7 @@ function coreDevelopersGHTorrentChart(div_i) {
     var top20_countries = []; 
     $.ajax({
        type: "GET",  
-       url: "data/" + chosenAPI[div_i] + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
+       url: "data/" + chosenAPI[div_i] + "/repositoriesPerCountry.csv",
        dataType: "text",
        async: false,       
        success: function(response)  
@@ -781,7 +781,7 @@ function coreDevelopersGitHubRestAPIChart(div_i) {
     var top20_countries = {}; 
     $.ajax({
        type: "GET",  
-       url: "data/" + chosenAPI[div_i] + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
+       url: "data/" + chosenAPI[div_i] + "/repositoriesPerCountry.csv",
        dataType: "text",
        async: false,       
        success: function(response)  
@@ -864,7 +864,7 @@ function coreDevelopersGitHubRestAPIChart(div_i) {
 function top20CountriesOptions(div_i) {
   $.ajax({
        type: "GET",  
-       url: "data/" + chosenAPI[div_i] + "/top10000RepositoriesNumberOfProjectsPerCountry.csv",
+       url: "data/" + chosenAPI[div_i] + "/repositoriesPerCountry.csv",
        dataType: "text",       
        success: function(response)  
        {
@@ -899,7 +899,7 @@ function updatePopularityChart(div_i){
     }
 
     countries_code.forEach(function(code, i){
-      var file_name = 'data/' + chosenAPI[div_i] + '/top10000RepositoriesData_' + code.toLowerCase() + '.csv'; 
+      var file_name = 'data/' + chosenAPI[div_i] + '/repositories_' + code.toLowerCase() + '.csv'; 
       popularityChart(file_name, i, code_to_name[code.toUpperCase()], div_i);
     });
   }
@@ -908,7 +908,7 @@ function updatePopularityChart(div_i){
 
 function updateLanguageChart(div_i, e){
   var country_code = document.getElementById('top20_countries'+div_i).value;
-  var file_name = 'data/' + chosenAPI[div_i] + '/top10000RepositoriesData_' + country_code.toLowerCase() + '.csv';
+  var file_name = 'data/' + chosenAPI[div_i] + '/repositories_' + country_code.toLowerCase() + '.csv';
 
   programmingLanguagesChart(file_name, div_i);
 }
@@ -983,7 +983,7 @@ function popularityData() {
       for(var i = 0; i < 3; i++) { 
         document.getElementById("div_"+i).innerHTML = "";
       }
-      popularityChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
+      popularityChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', 0, code_to_name['CN'],div_i);
     }
   };
   
@@ -996,7 +996,7 @@ function popularityData() {
       for(var i = 0; i < 3; i++) { 
         document.getElementById("div_"+i).innerHTML = "";
       }
-      popularityChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
+      popularityChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', 0, code_to_name['CN'],div_i);
     }
   };
 
@@ -1011,7 +1011,7 @@ function popularityData() {
     document.getElementById("chart_div"+div_i).appendChild(div);
   }
 
-  popularityChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', 0, code_to_name['CN'],div_i);
+  popularityChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', 0, code_to_name['CN'],div_i);
 }
 
 function languageData() { 
@@ -1037,7 +1037,7 @@ function languageData() {
       document.getElementById('restapi_div'+div_i).style.background = '#e7e7e7'; 
       document.getElementById('ghtorrent_div'+div_i).style.background = '#255F92';
       top20CountriesOptions(div_i);
-      programmingLanguagesChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', div_i);
+      programmingLanguagesChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', div_i);
     }
   };
   
@@ -1047,11 +1047,11 @@ function languageData() {
       document.getElementById('ghtorrent_div'+div_i).style.background = '#e7e7e7'; 
       document.getElementById('restapi_div'+div_i).style.background = '#255F92';
       top20CountriesOptions(div_i);
-      programmingLanguagesChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', div_i);
+      programmingLanguagesChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', div_i);
     }
   };
 
-  programmingLanguagesChart('data/' + chosenAPI[div_i] + '/top10000RepositoriesData_cn.csv', div_i);
+  programmingLanguagesChart('data/' + chosenAPI[div_i] + '/repositories_cn.csv', div_i);
 }
 
 function coreDevelopersData() { 

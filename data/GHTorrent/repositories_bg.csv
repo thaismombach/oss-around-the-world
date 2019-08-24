@@ -1,0 +1,26 @@
+owner,name,fullName,numberOfStars,country,language
+bbatsov,ruby-style-guide,bbatsov/ruby-style-guide,10836,bg,
+bbatsov,rubocop,bbatsov/rubocop,7008,bg,Ruby
+VPenkov,okayNav,VPenkov/okayNav,3938,bg,
+bbatsov,prelude,bbatsov/prelude,3370,bg,Emacs Lisp
+krasimir,react-in-patterns,krasimir/react-in-patterns,3223,bg,
+mgechev,angularjs-style-guide,mgechev/angularjs-style-guide,3125,bg,
+erusev,parsedown,erusev/parsedown,2955,bg,PHP
+bbatsov,rails-style-guide,bbatsov/rails-style-guide,2651,bg,
+astoilkov,jsblocks,astoilkov/jsblocks,2650,bg,JavaScript
+mgechev,angular2-seed,mgechev/angular2-seed,2539,bg,TypeScript
+mgechev,javascript-algorithms,mgechev/javascript-algorithms,2026,bg,JavaScript
+telerik,kendo-ui-core,telerik/kendo-ui-core,2018,bg,JavaScript
+vakata,jstree,vakata/jstree,1949,bg,JavaScript
+tonytomov,jqGrid,tonytomov/jqGrid,1890,bg,JavaScript
+bbatsov,projectile,bbatsov/projectile,1664,bg,Emacs Lisp
+mgechev,angularjs-in-patterns,mgechev/angularjs-in-patterns,1631,bg,JavaScript
+bbatsov,clojure-style-guide,bbatsov/clojure-style-guide,1516,bg,
+krasimir,deb.js,krasimir/deb.js,1396,bg,JavaScript
+mgechev,angular2-style-guide,mgechev/angular2-style-guide,1296,bg,
+geftimov,android-pathview,geftimov/android-pathview,1272,bg,Java
+krasimir,cssx,krasimir/cssx,907,bg,JavaScript
+ttsvetko,HTML5-Desktop-Notifications,ttsvetko/HTML5-Desktop-Notifications,906,bg,JavaScript
+ivan-vasilev,neuralnetworks,ivan-vasilev/neuralnetworks,901,bg,Java
+geftimov,android-player,geftimov/android-player,805,bg,Java
+astoilkov,console.message,astoilkov/console.message,757,bg,JavaScript
