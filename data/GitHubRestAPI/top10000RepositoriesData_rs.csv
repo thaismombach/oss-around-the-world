@@ -1,4 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-umpirsky,country-list,umpirsky/country-list,3525,"NiÁ, Serbia",rs,"HTML,PHP",HTML,202,https://api.github.com/users/umpirsky,https://api.github.com/repos/umpirsky/country-list/languages,https://api.github.com/repos/umpirsky/country-list/contributors
-oblac,jodd,oblac/jodd,2607,"Belgrade, Serbia",rs,"Java,HTML,Python,Kotlin,Lex,Shell,Dockerfile",Java,5182,https://api.github.com/users/oblac,https://api.github.com/repos/oblac/jodd/languages,https://api.github.com/repos/oblac/jodd/contributors
-srdja,Collections-C,srdja/Collections-C,1619,"Kikinda, Vojvodina, Serbia, Earth",rs,"C,C++,CMake",C,623,https://api.github.com/users/srdja,https://api.github.com/repos/srdja/Collections-C/languages,https://api.github.com/repos/srdja/Collections-C/contributors
