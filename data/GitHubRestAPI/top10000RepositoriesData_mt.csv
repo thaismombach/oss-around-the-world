@@ -1,0 +1,3 @@
+owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
+ripienaar,free-for-dev,ripienaar/free-for-dev,18964,Malta,mt,,,1552,https://api.github.com/users/ripienaar,https://api.github.com/repos/ripienaar/free-for-dev/languages,https://api.github.com/repos/ripienaar/free-for-dev/contributors
+jacoborus,nanobar,jacoborus/nanobar,2641,"Sliema, Malta",mt,JavaScript,JavaScript,63,https://api.github.com/users/jacoborus,https://api.github.com/repos/jacoborus/nanobar/languages,https://api.github.com/repos/jacoborus/nanobar/contributors

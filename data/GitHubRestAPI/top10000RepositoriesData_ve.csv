@@ -1,0 +1,2 @@
+owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
+lusaxweb,vuesax,lusaxweb/vuesax,1726,venezuela,ve,"Vue,CSS,JavaScript,Shell",Vue,850,https://api.github.com/users/lusaxweb,https://api.github.com/repos/lusaxweb/vuesax/languages,https://api.github.com/repos/lusaxweb/vuesax/contributors

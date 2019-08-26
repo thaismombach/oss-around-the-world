@@ -1,0 +1,3 @@
+owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
+benweet,stackedit,benweet/stackedit,12497,"Marrakech, Morocco",ma,"JavaScript,Vue,CSS,HTML,Dockerfile,Shell",JavaScript,349,https://api.github.com/users/benweet,https://api.github.com/repos/benweet/stackedit/languages,https://api.github.com/repos/benweet/stackedit/contributors
+medyo,android-about-page,medyo/android-about-page,1597,"Casablanca, Morocco",ma,Java,Java,339,https://api.github.com/users/medyo,https://api.github.com/repos/medyo/android-about-page/languages,https://api.github.com/repos/medyo/android-about-page/contributors
