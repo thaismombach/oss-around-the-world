@@ -1,3 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-sauliusgrigaitis,Swifton,sauliusgrigaitis/Swifton,2042,Lithuania,lt,"Swift,Shell",Swift,208,https://api.github.com/users/sauliusgrigaitis,https://api.github.com/repos/sauliusgrigaitis/Swifton/languages,https://api.github.com/repos/sauliusgrigaitis/Swifton/contributors
-justinas,alice,justinas/alice,1616,"Vilnius, Lithuania",lt,Go,Go,70,https://api.github.com/users/justinas,https://api.github.com/repos/justinas/alice/languages,https://api.github.com/repos/justinas/alice/contributors

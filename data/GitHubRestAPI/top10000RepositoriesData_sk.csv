@@ -1,4 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-darsain,sly,darsain/sly,2854,Slovakia,sk,JavaScript,JavaScript,422,https://api.github.com/users/darsain,https://api.github.com/repos/darsain/sly/languages,https://api.github.com/repos/darsain/sly/contributors
-itsgoingd,clockwork,itsgoingd/clockwork,1907,Slovakia,sk,"PHP,CSS,JavaScript,HTML",PHP,518,https://api.github.com/users/itsgoingd,https://api.github.com/repos/itsgoingd/clockwork/languages,https://api.github.com/repos/itsgoingd/clockwork/contributors
-haad,proxychains,haad/proxychains,1654,Bratislava Slovakia,sk,"C,Shell,Makefile",C,284,https://api.github.com/users/haad,https://api.github.com/repos/haad/proxychains/languages,https://api.github.com/repos/haad/proxychains/contributors

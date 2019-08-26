@@ -1,4 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-aksonov,react-native-router-flux,aksonov/react-native-router-flux,7464,"Koper, Slovenia",si,"JavaScript,Objective-C,Python,Java",JavaScript,1399,https://api.github.com/users/aksonov,https://api.github.com/repos/aksonov/react-native-router-flux/languages,https://api.github.com/repos/aksonov/react-native-router-flux/contributors
-tomaz,appledoc,tomaz/appledoc,3897,Slovenia,si,"Objective-C,HTML,CSS,C,C++,Ruby,JavaScript,Shell",Objective-C,1235,https://api.github.com/users/tomaz,https://api.github.com/repos/tomaz/appledoc/languages,https://api.github.com/repos/tomaz/appledoc/contributors
-biokoda,actordb,biokoda/actordb,1666,"Maribor, Slovenia",si,"Erlang,Makefile,C,Thrift,Shell",Erlang,479,https://api.github.com/users/biokoda,https://api.github.com/repos/biokoda/actordb/languages,https://api.github.com/repos/biokoda/actordb/contributors

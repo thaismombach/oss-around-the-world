@@ -1,4 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-apex,apex,apex/apex,7236,Victoria BC,sc,"Go,JavaScript,Shell,Java,Clojure,Python,Scala,Makefile,Rust,Groovy,CoffeeScript",Go,849,https://api.github.com/users/apex,https://api.github.com/repos/apex/apex/languages,https://api.github.com/repos/apex/apex/contributors
-apex,up,apex/up,5743,Victoria BC,sc,"Go,JavaScript,Shell,Makefile,HTML,CSS",Go,234,https://api.github.com/users/apex,https://api.github.com/repos/apex/up/languages,https://api.github.com/repos/apex/up/contributors
-timusus,Shuttle,timusus/Shuttle,1685,"Geelong, Victoria",sc,"Java,Kotlin,HTML,CSS,Shell",Java,1061,https://api.github.com/users/timusus,https://api.github.com/repos/timusus/Shuttle/languages,https://api.github.com/repos/timusus/Shuttle/contributors

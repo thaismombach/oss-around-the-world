@@ -1,3 +1,0 @@
-owner,name,fullName,numberOfStars,location,country,languages,language,totalNumberOfCommits,ownerURL,languagesURL,contributorsURL
-quirkey,sammy,quirkey/sammy,2983,"Kingston, NY",jm,"JavaScript,Ruby,CSS",JavaScript,884,https://api.github.com/users/quirkey,https://api.github.com/repos/quirkey/sammy/languages,https://api.github.com/repos/quirkey/sammy/contributors
-jd-alexander,LikeButton,jd-alexander/LikeButton,2354,Jamaica,jm,Java,Java,226,https://api.github.com/users/jd-alexander,https://api.github.com/repos/jd-alexander/LikeButton/languages,https://api.github.com/repos/jd-alexander/LikeButton/contributors
