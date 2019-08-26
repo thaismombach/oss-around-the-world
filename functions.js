@@ -705,7 +705,7 @@ function coreDevelopersGHTorrentChart(div_i) {
        {
           arrayData = $.csv.toArrays(response);
           var i; 
-          for(i = 1; i <= 20; i++) { 
+          for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
             top20_countries.push(arrayData[i][0]);
           }
        }
@@ -788,7 +788,7 @@ function coreDevelopersGitHubRestAPIChart(div_i) {
        {
           arrayData = $.csv.toArrays(response);
           var i; 
-          for(i = 1; i <= 20; i++) { 
+          for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
             top20_countries[arrayData[i][0]] = [code_to_name[arrayData[i][0].toUpperCase()], 0, 0, 0];
           }
        }
@@ -874,7 +874,7 @@ function top20CountriesOptions(div_i) {
           var dvTable = document.getElementById('top20_countries'+div_i);
           dvTable.options.length = 0
 
-          for(i = 1; i <= 20; i++) { 
+          for(i = arrayData.length-2; i > arrayData.length - 22; i--) { 
             var option = document.createElement("option");
             option.value = arrayData[i][0];
             option.text = code_to_name[arrayData[i][0].toUpperCase()];
